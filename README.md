@@ -9,7 +9,7 @@ The project is designed as a **pure SQL portfolio example** — showing how busi
 
 # 📊 Dataset Source
 
-> _This project uses publicly available data from [Ahsan Habib - Banking-Dataset](https://github.com/ahsan084/Banking-Dataset); The dataset was adapted for educational and analytical demonstration purposes, all transformations, SQL schema, and queries are original work created for this project._
+> _This project uses publicly available data from [Ahsan Habib - Banking-Dataset](https://github.com/ahsan084/Banking-Dataset); All database transformations, SQL schema, and queries are original work based on this database._
 
 ---
 
@@ -22,27 +22,30 @@ The project is designed as a **pure SQL portfolio example** — showing how busi
 
 ---
 
-## 🏡 Project Structure
+## 🏡 Project Structure (⚠️ WORK IN PROGRESS ⚠️)
 
 ```text
-customer_intelligence_sql_project/
-├── README.md
-│
+customer-intelligence-analytics-banking/
 ├── data/
-│    └── banking_database.csv
+│   └── banking_database.csv                                # Original database from the sources      
+│   
+├── schema/
+│   └── customer_tables.sql (table structure)               # Query 0: the one to create tables in SQL from the .csv file
 │
 ├── queries/
-│    ├── 01_customer_segmentation.sql
-│    ├── 02_product_trends.sql
-│    └── 03_lifetime_value.sql
+│   ├── 01_customer_segmentation.sql                        # Query 1: first customer segmentation by accounts
+│   ├── 02_monthly_kpis.sql                                 # Query 2: Mothnly KPIs for reporting
+│   └── 03_loan_analysis.sql                                # Query 3: Loan Analysis
+│
+├── powerbi/
+│   ├── customer_intelligence_dashboard.pbix                # Power BI Dashboard
+│   └── dashboard_screenshots/                              # Screenshots
 │
 ├── results/
-│    ├── customer_segmentation_output.csv
-│    └── product_trends_output.csv
+│   └── exported_reports.csv
 │
-└── docs/
-     ├── project_overview.md
-     └── database_diagram.png
+├── LICENSE
+└── README.md
 
 ```
 
