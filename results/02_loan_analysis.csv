@@ -1,0 +1,10 @@
+"loan_status","loan_type","num_loans","avg_loan_amount","total_loan_portfolio","avg_interest_rate"
+Approved,Personal,11173,25687.07,287001000.00,5.54
+Closed,Mortgage,11264,25421.23,286344000.00,5.50
+Rejected,Mortgage,11145,25610.02,285423000.00,5.49
+Closed,Auto,11079,25733.95,285106000.00,5.54
+Approved,Auto,11143,25506.86,284223000.00,5.49
+Approved,Mortgage,11198,25311.38,283436000.00,5.50
+Closed,Personal,11053,25642.30,283425000.00,5.53
+Rejected,Personal,11007,25635.85,282174000.00,5.54
+Rejected,Auto,10938,25577.14,279762000.00,5.46

@@ -1,0 +1,4 @@
+"card_type","num_cards","avg_credit_limit","avg_balance","avg_utilization_pct","high_utilization_count"
+AMEX,33514,5509.61,2495.29,63.98,8164
+MasterCard,33049,5506.43,2507.43,64.13,8108
+Visa,33437,5502.26,2506.83,64.03,8207
