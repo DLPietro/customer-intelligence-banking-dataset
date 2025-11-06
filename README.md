@@ -1,9 +1,28 @@
 # 🏦 Customer Intelligence (CI) Analytics Banking
 
-## 📖 Overview
-This project demonstrates the use of SQL for customer analytics and reporting in a banking context. It focuses on segmenting customers, analyzing transaction trends, and estimating customer lifetime value (LTV).
+## 📃 The Story
 
-The project is designed as a **pure SQL portfolio example** — showing how business insights can be derived directly from relational data using SQL.
+I spent more than 3 years in a custody company: executing orders and transactions, writing reports, copy-pasting in Excel files, and **repeating.** Then I realized that I was just executing orders, without _understanding_ how to create actionable insights for the company or its clients..
+
+...So I'm building this project to show **what I can do**, stopping using spreadsheets and starting to ask real questions.
+
+---
+
+## 💥 What this project is about
+
+Years of frustration distilled into one question:
+
+> **"What if I took countless banking customers and actually _understood_ them using SQL?"**
+
+This project does exactly that: no fluff, no tutorial copy-paste, but a **real analysis on the banking customers**.
+
+# 📈 Analytical Goals
+
+- **Segmenting customers** by behavior and financial health
+- **Identifying loan portfolio risks** before they explode
+- **Spotting credit card problems** early (_high utilization, defaults incoming_)
+- **Finding the most valuable customers** and protect them
+- **Building dashboards** that stakeholders can use
 
 ---
 
@@ -13,36 +32,31 @@ The project is designed as a **pure SQL portfolio example** — showing how busi
 
 ---
 
-# 📈 Analytical Goals
-
-- Identify customer segmentation by region, gender, and age
-- Analyze monthly product revenue and transaction patterns
-- Estimate customer lifetime value (LTV)
-- Prepare data-ready outputs for BI dashboards
-
----
-
-## 🏡 Project Structure (⚠️ WORK IN PROGRESS ⚠️)
+## 🏡 Project Structure (👷 WORK IN PROGRESS 👷)
 
 ```text
 customer-intelligence-analytics-banking/
 ├── data/
-│   └── banking_database.csv                                # Original database from the sources      
+│   ├── banking_dataset.csv                                 # Original dataset
+│   ├── dataset_enhancer.ipynb                              # Python Script to enhance the dataset up to 100K customers
+│   └── banking_database.csv                                # New dataset generated
 │   
 ├── schema/
-│   └── customer_tables.sql (table structure)               # Query 0: the one to create tables in SQL from the .csv file
+│   └── customer_tables.sql                                 # Dataset schema importing .csv file data
 │
-├── queries/
-│   ├── 01_customer_segmentation.sql                        # Query 1: first customer segmentation by accounts
-│   ├── 02_monthly_kpis.sql                                 # Query 2: Mothnly KPIs for reporting
-│   └── 03_loan_analysis.sql                                # Query 3: Loan Analysis
+├── queries/                                                👷 WORK IN PROGRESS 👷
+│   ├── 01_customer_segmentation.sql                        # Query 1: customers segmentation by accounts
+│   ├── 02_loan_analysis.sql                                # Query 2: home, personal and auto loans
+│   └── 03_credit_card.sql                                  # Query 3: type and credit usage
 │
-├── powerbi/
+├── powerbi/                                                👷 WORK IN PROGRESS 👷
 │   ├── customer_intelligence_dashboard.pbix                # Power BI Dashboard
 │   └── dashboard_screenshots/                              # Screenshots
 │
-├── results/
-│   └── exported_reports.csv
+├── results/                                                👷 WORK IN PROGRESS 👷
+│   ├── 01_customer_segmentation.csv                        # Output 1: customers segmentation
+│   ├── 02_loan_analysis.csv                                # Output 2: loans
+│   └── 03_credit_card.csv                                  # Output 3: credit cards
 │
 ├── LICENSE
 └── README.md
