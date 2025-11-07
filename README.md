@@ -18,7 +18,7 @@ This project does exactly that: no fluff, no tutorial copy-paste, but a **real a
 
 # 📈 Analytical Goals
 
-- **Segmenting customers** by behavior and financial health
+- **Segmenting customers** by behavior, demographics and financial health
 - **Identifying loan portfolio risks** before they explode
 - **Spotting credit card problems** early (_high utilization, defaults incoming_)
 - **Finding the most valuable customers** and protect them
@@ -39,29 +39,74 @@ customer-intelligence-analytics-banking/
 ├── data/
 │   ├── banking_dataset.csv                                 # Original dataset
 │   ├── dataset_enhancer.ipynb                              # Python Script to enhance the dataset up to 100K customers
-│   └── banking_database.csv                                # New dataset generated
+│   └── banking_dataset_100k.csv                            # 100K customers, not huge, but enough for Malta. 
 │   
 ├── schema/
-│   └── customer_tables.sql                                 # Dataset schema importing .csv file data
+│   └── customer_tables.sql                                 # Schema for One table, 40 variables per client. Done.
 │
 ├── queries/                                                👷 WORK IN PROGRESS 👷
-│   ├── 01_customer_segmentation.sql                        # Query 1: customers segmentation by accounts
-│   ├── 02_loan_analysis.sql                                # Query 2: home, personal and auto loans
-│   └── 03_credit_card.sql                                  # Query 3: type and credit usage
+│   ├── 01_customer_segmentation.sql                        # Query 1: Who are the customers?
+│   ├── 02_loan_analysis.sql                                # Query 2: What loans are we stuck with?
+│   ├── 03_credit_card.sql                                  # Query 3: Who's maxing out their cards?
+│   ├── 04_customer_demographics.sql                                 # Query 4: Where are they? How old? 
+│   ├── 05_risk_analysis.sql                                # Query 5: Who's about to default? 
+│   └── 06_customer_value.sql                              # Query 6: Who's worth keeping?
 │
-├── powerbi/                                                👷 WORK IN PROGRESS 👷
+├── bi/                                                👷 WORK IN PROGRESS 👷
 │   ├── customer_intelligence_dashboard.pbix                # Power BI Dashboard
-│   └── dashboard_screenshots/                              # Screenshots
+│   └── dashboard_screenshots/                              # Screenshots of the action
 │
 ├── results/                                                👷 WORK IN PROGRESS 👷
 │   ├── 01_customer_segmentation.csv                        # Output 1: customers segmentation
 │   ├── 02_loan_analysis.csv                                # Output 2: loans
-│   └── 03_credit_card.csv                                  # Output 3: credit cards
+│   ├── 03_credit_card.csv                                  # Output 3: credit cards
+│   ├── 04_customer_demographics.csv                        # Output 4: customer demographics
+│   ├── 05_risk_analysis.csv                                # Output 3: risk analysis
+│   └── 06_customer_value.csv                               # Output 3: cuastomer value and profitability
 │
 ├── LICENSE
-└── README.md
+└── README.md                                               # What you're reading now actually
 
 ```
+
+---
+
+## 📊 Power BI Dashboard
+
+4 tabs. All the information a manager needs:
+
+**Tab 1 (Overview):**
+- Total customers, total balance, loan portfolio size
+- Key ratios: approval rate, utilization rate, at-risk %
+
+**Tab 2 (Segmentation):**
+- Customer distribution (Savings vs Current)
+- Regional heatmap
+- Age/demographics breakdown
+
+**Tab 3 (Loan Portfolio):**
+- Pie chart: Approved / Rejected / Closed
+- Bar chart: Mortgage vs Auto vs Personal
+- Interest rate ranges
+
+**Tab 4 (Risk & Value):**
+- Customers by tier (VIP / High Value / Standard / At Risk)
+- High-utilization credit cards
+- Negative balance flagging
+
+---
+
+## 💡 Why I Built This
+
+**For the following reasons:**
+
+> I **SQL is 10x faster than Excel** for this kind of work; once written, it's repeatable.
+
+> II **The questions are real**, not simple toy datasets, but actual banking concerns: risk, customer value, portfolio health.
+
+> III **It scales.** For 100K records or a million, it Still takes seconds.
+
+> IV **It tells a story.** You can present this to a manager and they _get it_ immediately, not a mess—actual insights presented by a nerd.
 
 ---
 

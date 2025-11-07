@@ -1,0 +1,1001 @@
+"customer_id","first_name","last_name","email","age","account_type","city","account_balance","total_liquid_assets","total_liabilities","net_position","rewards_points","customer_segment","credit_risk_profile","demographics"
+48740,Charles,Wilson,customer48740@kag.com,63,Savings,Phoenix,10000.0,10587.29,10148.46,-148.45996,4731,Tier-3: Standard,Low Risk,Other
+20572,Mary,Robinson,customer20572@kag.com,25,Current,Washington,9999.91,11303.96,25809.021,-15809.111,5164,Tier-1: Premium,Neutral,Female
+40358,Donna,Adams,customer40358@kag.com,32,Savings,Louisville,9999.89,13596.819,26096.27,-16096.38,827,Tier-1: Premium,Low Risk,Other
+63928,Ashley,Torres,customer63928@kag.com,34,Current,Indianapolis,9999.87,14380.32,15285.62,-5285.75,1398,Tier-2: High Value,Rejected Applicant,Male
+45461,Michael,King,customer45461@kag.com,35,Savings,Washington,9999.53,10743.36,31047.85,-21048.32,7864,Tier-1: Premium,Low Risk,Female
+23737,Kevin,Johnson,customer23737@kag.com,31,Savings,Fresno,9999.52,10521.189,1979.05,8020.4697,9939,Tier-3: Standard,Neutral,Other
+82011,Ashley,Garcia,customer82011@kag.com,56,Savings,Fresno,9999.46,12705.98,22258.94,-12259.4795,5845,Tier-2: High Value,Rejected Applicant,Female
+72919,William,Rodriguez,customer72919@kag.com,32,Savings,Indianapolis,9999.44,14362.131,5888.11,4111.3306,428,Tier-2: High Value,Rejected Applicant,Male
+97021,Donna,Lee,customer97021@kag.com,45,Savings,Philadelphia,9999.42,11556.03,34461.79,-24462.37,8417,Tier-1: Premium,Low Risk,Female
+62058,Joseph,Lee,customer62058@kag.com,22,Current,Dallas,9999.36,12473.5,20855.121,-10855.761,2845,Tier-2: High Value,Rejected Applicant,Male
+79807,Nancy,King,customer79807@kag.com,68,Current,Atlanta,9999.01,12178.34,6266.42,3732.5898,4907,Tier-3: Standard,Rejected Applicant,Female
+42470,Kevin,Rodriguez,customer42470@kag.com,41,Savings,Philadelphia,9998.98,11263.541,9322.641,676.33984,2115,Tier-3: Standard,Rejected Applicant,Female
+40060,Amanda,Perez,customer40060@kag.com,25,Current,Omaha,9998.81,13272.9795,43715.11,-33716.3,5128,Tier-1: Premium,Low Risk,Male
+11490,Charles,Torres,customer11490@kag.com,32,Current,Louisville,9998.77,11315.409,48525.86,-38527.09,9588,Tier-1: Premium,Neutral,Other
+97688,Donna,Wilson,customer97688@kag.com,56,Current,Phoenix,9998.71,11857.23,14889.561,-4890.8506,1695,Tier-2: High Value,Neutral,Female
+52969,Linda,Robinson,customer52969@kag.com,21,Savings,Austin,9998.61,13195.351,32683.72,-22685.11,8859,Tier-1: Premium,Low Risk,Male
+4056,Mark,Flores,mark.flores@kag.com,46,Savings,San Jose,9998.11,14330.91,38427.36,-28429.25,6883,Tier-1: Premium,Low Risk,Male
+15452,Michael,Johnson,customer15452@kag.com,67,Current,Dallas,9997.8,14528.74,23005.41,-13007.61,2869,Tier-2: High Value,Low Risk,Female
+13430,Mark,Perez,customer13430@kag.com,23,Current,El Paso,9997.8,10477.3,43716.82,-33719.02,8225,Tier-1: Premium,Neutral,Female
+23686,William,Wilson,customer23686@kag.com,50,Current,Dallas,9997.6,12722.0,51139.258,-41141.656,6977,Tier-1: Premium,Neutral,Other
+68459,Michael,Adams,customer68459@kag.com,26,Savings,Memphis,9997.54,13052.65,10449.88,-452.33984,6513,Tier-2: High Value,Neutral,Other
+18133,Lisa,Lee,customer18133@kag.com,66,Savings,Omaha,9997.41,14004.94,27759.879,-17762.469,9556,Tier-1: Premium,Neutral,Male
+34785,Linda,Robinson,customer34785@kag.com,65,Current,Omaha,9997.4,12529.0,22668.87,-12671.469,4675,Tier-1: Premium,Low Risk,Other
+27318,Charles,Moore,customer27318@kag.com,64,Current,Fresno,9997.08,14212.38,40146.1,-30149.021,9903,Tier-1: Premium,Neutral,Male
+35614,Nancy,Taylor,customer35614@kag.com,31,Current,Memphis,9997.05,13194.84,18587.08,-8590.03,15,Tier-2: High Value,Rejected Applicant,Other
+15372,Kevin,Rodriguez,customer15372@kag.com,40,Savings,Phoenix,9996.98,10295.75,47145.55,-37148.57,3045,Tier-1: Premium,Rejected Applicant,Male
+40238,Nancy,Baker,customer40238@kag.com,34,Savings,Philadelphia,9996.91,11827.95,42042.56,-32045.648,4687,Tier-1: Premium,Low Risk,Other
+62474,Linda,Allen,customer62474@kag.com,41,Current,Columbus,9996.85,13494.43,5939.75,4057.0996,7626,Tier-2: High Value,Rejected Applicant,Male
+29309,Mark,Young,customer29309@kag.com,59,Current,Memphis,9996.81,12332.209,9814.609,182.2002,354,Tier-3: Standard,Low Risk,Male
+11339,Ashley,Adams,customer11339@kag.com,35,Current,Fresno,9996.79,14807.03,44111.617,-34114.83,2412,Tier-1: Premium,Rejected Applicant,Male
+22911,Amanda,Adams,customer22911@kag.com,46,Current,Atlanta,9996.78,10184.44,40024.4,-30027.617,6016,Tier-1: Premium,Rejected Applicant,Other
+35401,William,Johnson,customer35401@kag.com,59,Current,Memphis,9996.69,14694.7,25601.9,-15605.21,3178,Tier-1: Premium,Neutral,Female
+65737,Lisa,Perez,customer65737@kag.com,51,Current,Austin,9996.52,10920.319,42484.89,-32488.371,7885,Tier-1: Premium,Low Risk,Other
+38332,Joseph,King,customer38332@kag.com,18,Current,Louisville,9996.47,12033.109,33487.24,-23490.77,7152,Tier-1: Premium,Low Risk,Other
+6289,Christopher,Martinez,customer6289@kag.com,27,Savings,Philadelphia,9996.44,13866.221,49942.043,-39945.6,4446,Tier-1: Premium,Low Risk,Male
+58172,Lisa,Perez,customer58172@kag.com,30,Savings,Oklahoma City,9996.44,10111.221,13488.7705,-3492.33,517,Tier-2: High Value,Rejected Applicant,Female
+23477,Mark,Wilson,customer23477@kag.com,18,Current,Phoenix,9996.42,12137.06,10136.33,-139.91016,1903,Tier-3: Standard,Rejected Applicant,Other
+32217,Michael,Flores,customer32217@kag.com,54,Savings,Austin,9996.32,12872.09,25030.84,-15034.52,5910,Tier-1: Premium,Rejected Applicant,Other
+68891,William,Young,customer68891@kag.com,35,Savings,Dallas,9996.32,12231.92,29436.98,-19440.66,5891,Tier-1: Premium,Neutral,Male
+46563,Donna,Perez,customer46563@kag.com,32,Savings,Austin,9996.04,10911.74,19355.129,-9359.089,5697,Tier-2: High Value,Rejected Applicant,Female
+11525,Christopher,Baker,customer11525@kag.com,34,Current,Philadelphia,9996.02,13199.39,44737.062,-34741.043,7716,Tier-1: Premium,Neutral,Other
+66256,Daniel,Martinez,customer66256@kag.com,63,Current,Indianapolis,9996.0,10456.69,44049.78,-34053.78,51,Tier-1: Premium,Rejected Applicant,Other
+50075,Mark,Baker,customer50075@kag.com,56,Current,Washington,9995.94,14399.49,13612.59,-3616.6494,6467,Tier-2: High Value,Neutral,Male
+49944,Nancy,King,customer49944@kag.com,27,Savings,El Paso,9995.93,10059.939,12835.9795,-2840.0498,1234,Tier-2: High Value,Rejected Applicant,Male
+80915,Lisa,Taylor,customer80915@kag.com,53,Current,Fort Worth,9995.9,13839.08,47677.79,-37681.89,1010,Tier-1: Premium,Rejected Applicant,Other
+76511,Mary,Garcia,customer76511@kag.com,36,Savings,Indianapolis,9995.9,13232.971,10308.92,-313.01953,1079,Tier-2: High Value,Neutral,Female
+26879,Lisa,Perez,customer26879@kag.com,39,Savings,Austin,9995.9,14814.09,38565.742,-28569.842,2914,Tier-1: Premium,Rejected Applicant,Other
+78888,Charles,Rodriguez,customer78888@kag.com,38,Current,Omaha,9995.86,13646.601,34303.96,-24308.102,7245,Tier-1: Premium,Rejected Applicant,Female
+23098,Ashley,Rodriguez,customer23098@kag.com,23,Current,Dallas,9995.72,13526.09,41609.723,-31614.004,7171,Tier-1: Premium,Low Risk,Male
+78372,Michael,Allen,customer78372@kag.com,42,Savings,Atlanta,9995.61,11639.36,33769.29,-23773.68,1540,Tier-1: Premium,Rejected Applicant,Male
+40280,Joshua,Baker,customer40280@kag.com,28,Current,Dallas,9995.59,14725.58,34965.1,-24969.512,6647,Tier-1: Premium,Neutral,Female
+96120,Nancy,Perez,customer96120@kag.com,52,Current,Omaha,9995.52,12374.93,46273.68,-36278.16,3442,Tier-1: Premium,Rejected Applicant,Female
+91374,Kevin,Allen,customer91374@kag.com,18,Savings,Washington,9995.34,12110.4795,32773.33,-22777.988,1789,Tier-1: Premium,Low Risk,Other
+3882,Andrew,Moore,andrew.moore@kag.com,32,Current,Denver,9995.27,10498.159,27793.111,-17797.842,5013,Tier-1: Premium,Rejected Applicant,Male
+26084,Lisa,Flores,customer26084@kag.com,61,Savings,Dallas,9995.21,11559.689,33704.41,-23709.2,896,Tier-1: Premium,Neutral,Other
+37129,Daniel,Taylor,customer37129@kag.com,61,Current,Fort Worth,9995.13,13923.89,8732.53,1262.5996,5791,Tier-2: High Value,Low Risk,Male
+91740,Joshua,Adams,customer91740@kag.com,43,Current,Columbus,9995.08,10094.69,8863.431,1131.6494,3205,Tier-3: Standard,Neutral,Other
+13739,Margaret,King,customer13739@kag.com,64,Savings,El Paso,9994.95,12640.051,52481.51,-42486.562,266,Tier-1: Premium,Low Risk,Male
+85694,Mark,Young,customer85694@kag.com,35,Current,Oklahoma City,9994.81,14951.39,13795.58,-3800.7705,9412,Tier-2: High Value,Low Risk,Male
+14555,Margaret,Lee,customer14555@kag.com,54,Current,Dallas,9994.55,11676.88,37243.508,-27248.957,8913,Tier-1: Premium,Low Risk,Male
+32597,Christopher,Lee,customer32597@kag.com,52,Current,Omaha,9994.45,10825.391,13844.261,-3849.8105,2382,Tier-2: High Value,Neutral,Female
+15092,Daniel,Lee,customer15092@kag.com,21,Current,Indianapolis,9994.14,13317.84,29767.139,-19773.0,2502,Tier-1: Premium,Rejected Applicant,Male
+8593,Kevin,Taylor,customer8593@kag.com,23,Current,Atlanta,9994.12,12569.721,39181.76,-29187.64,8090,Tier-1: Premium,Neutral,Female
+48400,Joseph,Flores,customer48400@kag.com,22,Current,Philadelphia,9994.09,14076.18,48310.15,-38316.06,6874,Tier-1: Premium,Rejected Applicant,Female
+85613,Joshua,Hall,customer85613@kag.com,58,Savings,Memphis,9994.05,14286.96,40292.57,-30298.52,9503,Tier-1: Premium,Neutral,Male
+11996,Mary,Flores,customer11996@kag.com,32,Savings,Memphis,9993.87,14558.141,17097.2,-7103.329,8647,Tier-2: High Value,Neutral,Male
+71805,Ashley,Adams,customer71805@kag.com,43,Savings,Philadelphia,9993.71,13796.66,52955.05,-42961.34,3490,Tier-1: Premium,Neutral,Female
+33912,Linda,Moore,customer33912@kag.com,57,Savings,Memphis,9993.71,12656.97,45306.203,-35312.492,7996,Tier-1: Premium,Low Risk,Female
+43956,Joshua,Lee,customer43956@kag.com,36,Current,Washington,9993.68,12765.619,46262.77,-36269.09,9726,Tier-1: Premium,Rejected Applicant,Other
+13307,Joshua,Perez,customer13307@kag.com,68,Current,Austin,9993.67,10549.79,20675.29,-10681.619,6303,Tier-1: Premium,Low Risk,Other
+5201,Mark,Martinez,customer5201@kag.com,68,Savings,Philadelphia,9993.59,12813.57,30187.97,-20194.38,3925,Tier-1: Premium,Rejected Applicant,Other
+72808,Margaret,Young,customer72808@kag.com,49,Savings,Oklahoma City,9993.47,11259.52,41239.3,-31245.832,3630,Tier-1: Premium,Low Risk,Female
+77462,Lisa,Rodriguez,customer77462@kag.com,50,Savings,Oklahoma City,9993.27,12972.409,43829.44,-33836.17,9681,Tier-1: Premium,Neutral,Female
+293,Michael,Carter,michael.carter@kag.com,46,Savings,Baltimore,9993.05,11605.109,17243.84,-7250.79,2322,Tier-2: High Value,Neutral,Other
+56007,Lisa,Flores,customer56007@kag.com,49,Current,Austin,9993.0,11005.33,22562.11,-12569.109,7813,Tier-1: Premium,Neutral,Female
+43295,Michael,Johnson,customer43295@kag.com,59,Current,Omaha,9992.99,11385.32,17948.27,-7955.2793,802,Tier-2: High Value,Neutral,Other
+30527,Donna,Hall,customer30527@kag.com,45,Savings,Phoenix,9992.93,11321.609,43049.65,-33056.72,9267,Tier-1: Premium,Rejected Applicant,Male
+7810,Michelle,Perez,customer7810@kag.com,43,Savings,Phoenix,9992.81,10792.119,28517.74,-18524.93,2490,Tier-1: Premium,Neutral,Other
+9072,Lisa,Wilson,customer9072@kag.com,60,Savings,Austin,9992.76,10708.43,7599.4697,2393.29,350,Tier-3: Standard,Rejected Applicant,Male
+57256,Margaret,Garcia,customer57256@kag.com,20,Savings,Indianapolis,9992.42,10111.12,23942.318,-13949.898,3809,Tier-1: Premium,Rejected Applicant,Male
+96690,Christopher,Lee,customer96690@kag.com,65,Savings,Atlanta,9992.09,10806.93,5358.9897,4633.1,1281,Tier-3: Standard,Rejected Applicant,Female
+96943,Michael,Robinson,customer96943@kag.com,40,Savings,Dallas,9992.05,12115.66,22910.25,-12918.2,8330,Tier-1: Premium,Low Risk,Other
+65482,Lisa,Wilson,customer65482@kag.com,46,Current,Indianapolis,9991.95,14064.21,36601.473,-26609.523,128,Tier-1: Premium,Rejected Applicant,Male
+58754,Nancy,Torres,customer58754@kag.com,69,Savings,Memphis,9991.73,10529.921,4210.84,5780.8906,6205,Tier-3: Standard,Rejected Applicant,Male
+88475,Kevin,Taylor,customer88475@kag.com,56,Savings,Indianapolis,9991.71,14127.061,22073.719,-12082.009,6919,Tier-2: High Value,Neutral,Female
+371,Andrew,Smith,andrew.smith@kag.com,22,Savings,Philadelphia,9991.55,13088.35,14945.689,-4954.1396,287,Tier-2: High Value,Neutral,Other
+19476,Mary,Taylor,customer19476@kag.com,33,Current,Philadelphia,9991.5,11380.62,20155.068,-10163.568,72,Tier-2: High Value,Low Risk,Male
+79046,Kevin,Flores,customer79046@kag.com,18,Current,Louisville,9991.3,13600.109,43795.5,-33804.2,6323,Tier-1: Premium,Rejected Applicant,Female
+41053,Michael,Baker,customer41053@kag.com,66,Current,Atlanta,9991.28,10902.98,11066.32,-1075.04,6871,Tier-2: High Value,Rejected Applicant,Male
+74190,Joshua,Allen,customer74190@kag.com,24,Savings,Louisville,9991.19,13890.141,26067.148,-16075.958,3523,Tier-1: Premium,Rejected Applicant,Female
+13208,Donna,Baker,customer13208@kag.com,36,Savings,Columbus,9991.18,14084.26,6051.2603,3939.9194,2112,Tier-2: High Value,Rejected Applicant,Other
+19586,Nancy,Young,customer19586@kag.com,25,Savings,Oklahoma City,9991.1,14798.08,7710.38,2280.7197,440,Tier-2: High Value,Neutral,Male
+77118,Margaret,Baker,customer77118@kag.com,25,Savings,Columbus,9991.05,12123.13,44260.75,-34269.7,1184,Tier-1: Premium,Neutral,Other
+52369,Lisa,Wilson,customer52369@kag.com,53,Savings,Phoenix,9990.76,14114.96,27792.91,-17802.15,8395,Tier-1: Premium,Low Risk,Female
+15426,Mary,Hall,customer15426@kag.com,51,Current,Oklahoma City,9990.71,13259.14,34546.152,-24555.441,1118,Tier-1: Premium,Neutral,Other
+16350,Joshua,Adams,customer16350@kag.com,59,Current,El Paso,9990.71,12454.46,12322.49,-2331.7803,4750,Tier-3: Standard,Neutral,Male
+66006,Daniel,Allen,customer66006@kag.com,42,Current,Phoenix,9990.69,12082.87,14054.569,-4063.879,3790,Tier-2: High Value,Neutral,Other
+73814,Lisa,Robinson,customer73814@kag.com,55,Current,Washington,9990.45,14859.42,10517.98,-527.5303,799,Tier-2: High Value,Neutral,Female
+92979,Joshua,Lee,customer92979@kag.com,21,Current,Philadelphia,9990.38,10540.29,47317.95,-37327.57,787,Tier-1: Premium,Neutral,Female
+59847,Mark,Flores,customer59847@kag.com,44,Savings,Omaha,9990.22,13047.75,46133.57,-36143.35,7838,Tier-1: Premium,Rejected Applicant,Male
+77412,William,Martinez,customer77412@kag.com,66,Current,Louisville,9990.2,13039.971,20008.23,-10018.03,8550,Tier-2: High Value,Low Risk,Female
+5774,Daniel,Hall,customer5774@kag.com,54,Current,Columbus,9990.18,12800.869,31830.54,-21840.36,4553,Tier-1: Premium,Neutral,Female
+41670,Michelle,Flores,customer41670@kag.com,41,Current,Omaha,9990.16,13202.17,47418.613,-37428.453,3130,Tier-1: Premium,Low Risk,Male
+9123,Christopher,Moore,customer9123@kag.com,57,Current,Indianapolis,9990.14,11705.619,34836.39,-24846.25,2639,Tier-1: Premium,Low Risk,Male
+5466,Kevin,Flores,customer5466@kag.com,30,Current,Columbus,9989.96,10690.35,15940.88,-5950.92,2764,Tier-2: High Value,Low Risk,Male
+20166,Ashley,Rodriguez,customer20166@kag.com,60,Current,Fresno,9989.9,13858.86,48425.883,-38435.984,3413,Tier-1: Premium,Rejected Applicant,Female
+9454,Nancy,Johnson,customer9454@kag.com,33,Savings,Louisville,9989.86,11218.721,29977.18,-19987.32,4346,Tier-1: Premium,Rejected Applicant,Other
+99566,Daniel,Young,customer99566@kag.com,45,Current,Memphis,9989.84,11260.65,47859.9,-37870.06,2986,Tier-1: Premium,Low Risk,Female
+78426,Michelle,Torres,customer78426@kag.com,22,Savings,Washington,9989.7,14159.49,9841.811,147.88965,4240,Tier-2: High Value,Rejected Applicant,Female
+79557,Michelle,King,customer79557@kag.com,70,Savings,Philadelphia,9989.68,11814.8,50353.48,-40363.8,5340,Tier-1: Premium,Low Risk,Other
+12664,Joseph,Wilson,customer12664@kag.com,51,Savings,Dallas,9989.56,12302.7295,14034.52,-4044.96,8397,Tier-2: High Value,Rejected Applicant,Other
+49094,Christopher,Johnson,customer49094@kag.com,64,Savings,Atlanta,9989.49,12866.79,28725.14,-18735.65,8267,Tier-1: Premium,Neutral,Female
+71007,Joshua,King,customer71007@kag.com,47,Current,Washington,9989.34,14057.4,16582.81,-6593.4707,3347,Tier-2: High Value,Rejected Applicant,Female
+88235,Donna,Torres,customer88235@kag.com,41,Savings,Columbus,9988.94,12562.711,51164.63,-41175.688,1777,Tier-1: Premium,Neutral,Female
+11357,Mark,Garcia,customer11357@kag.com,30,Savings,Washington,9988.92,10936.31,44717.75,-34728.83,126,Tier-1: Premium,Rejected Applicant,Female
+4984,Barbara,Garcia,barbara.garcia@kag.com,47,Savings,Seattle,9988.51,10848.83,48252.56,-38264.047,4946,Tier-1: Premium,Neutral,Other
+45278,Daniel,Baker,customer45278@kag.com,52,Current,El Paso,9988.4,13045.891,25897.81,-15909.41,8153,Tier-1: Premium,Low Risk,Other
+40897,Christopher,Lee,customer40897@kag.com,36,Current,El Paso,9988.35,12561.76,46106.082,-36117.734,9882,Tier-1: Premium,Neutral,Other
+58912,Christopher,Allen,customer58912@kag.com,63,Savings,Fort Worth,9988.33,11475.68,24240.299,-14251.969,13,Tier-1: Premium,Neutral,Male
+71169,Mark,Adams,customer71169@kag.com,44,Current,Memphis,9988.0,13631.6,9508.79,479.20996,9779,Tier-2: High Value,Neutral,Male
+94318,William,Johnson,customer94318@kag.com,48,Savings,Fort Worth,9987.71,13087.03,25351.621,-15363.911,3468,Tier-1: Premium,Neutral,Other
+30205,Donna,Perez,customer30205@kag.com,64,Current,San Diego,9987.68,10068.859,30155.59,-20167.91,6097,Tier-1: Premium,Rejected Applicant,Female
+66818,Lisa,Wilson,customer66818@kag.com,61,Savings,Oklahoma City,9987.64,12109.319,29410.34,-19422.7,4719,Tier-1: Premium,Rejected Applicant,Female
+9325,Charles,Johnson,customer9325@kag.com,25,Savings,Dallas,9987.53,12683.42,23175.76,-13188.2295,741,Tier-1: Premium,Rejected Applicant,Female
+86882,William,Allen,customer86882@kag.com,46,Current,Philadelphia,9987.31,10348.88,43115.84,-33128.53,7094,Tier-1: Premium,Rejected Applicant,Other
+95626,Joshua,Flores,customer95626@kag.com,56,Savings,Memphis,9987.29,11758.88,24495.11,-14507.819,4382,Tier-1: Premium,Rejected Applicant,Male
+63624,Charles,Wilson,customer63624@kag.com,18,Current,San Diego,9987.12,11415.9,29080.42,-19093.3,4493,Tier-1: Premium,Low Risk,Female
+33944,Mark,Perez,customer33944@kag.com,40,Current,Memphis,9986.88,13089.63,7137.5303,2849.3496,9613,Tier-2: High Value,Rejected Applicant,Female
+37186,Joseph,Hall,customer37186@kag.com,46,Current,El Paso,9986.85,11532.25,25461.34,-15474.49,5930,Tier-1: Premium,Neutral,Other
+15249,Linda,Garcia,customer15249@kag.com,45,Current,Oklahoma City,9986.66,10341.04,23209.291,-13222.631,221,Tier-1: Premium,Rejected Applicant,Male
+62902,Mark,Perez,customer62902@kag.com,45,Savings,Dallas,9986.61,13277.08,5667.96,4318.6504,8554,Tier-2: High Value,Neutral,Other
+79364,Nancy,King,customer79364@kag.com,46,Current,Omaha,9986.58,14302.189,7178.26,2808.3203,286,Tier-2: High Value,Low Risk,Male
+39083,Ashley,Adams,customer39083@kag.com,69,Current,Omaha,9986.42,11981.359,36370.27,-26383.85,4943,Tier-1: Premium,Low Risk,Female
+56992,Margaret,Martinez,customer56992@kag.com,39,Savings,Philadelphia,9986.3,10718.6,47495.1,-37508.8,7029,Tier-1: Premium,Neutral,Male
+15406,Amanda,Robinson,customer15406@kag.com,33,Savings,Fort Worth,9986.29,10162.31,31703.4,-21717.11,9717,Tier-1: Premium,Neutral,Other
+17278,Joseph,Wilson,customer17278@kag.com,46,Savings,San Diego,9986.08,11719.9,3610.24,6375.84,4173,Tier-3: Standard,Neutral,Female
+33039,Christopher,Rodriguez,customer33039@kag.com,26,Savings,Indianapolis,9986.03,12896.141,15481.141,-5495.1104,5033,Tier-2: High Value,Rejected Applicant,Female
+28477,Mark,Perez,customer28477@kag.com,62,Current,El Paso,9985.76,11555.64,10703.76,-718.0,3660,Tier-3: Standard,Low Risk,Other
+60082,Daniel,Lee,customer60082@kag.com,27,Savings,Philadelphia,9985.66,11454.43,28393.85,-18408.19,8722,Tier-1: Premium,Neutral,Female
+97912,Amanda,Robinson,customer97912@kag.com,67,Current,San Diego,9985.62,13142.18,47134.77,-37149.15,1278,Tier-1: Premium,Neutral,Male
+4031,Kimberly,King,kimberly.king@kag.com,22,Current,Fort Worth,9985.6,10397.119,45562.32,-35576.72,1951,Tier-1: Premium,Rejected Applicant,Other
+98562,Michelle,Taylor,customer98562@kag.com,27,Savings,Atlanta,9985.54,11964.15,47378.3,-37392.76,7583,Tier-1: Premium,Low Risk,Other
+8997,Nancy,Allen,customer8997@kag.com,47,Savings,Atlanta,9985.49,10461.12,23442.25,-13456.76,1062,Tier-1: Premium,Rejected Applicant,Other
+84701,Charles,Johnson,customer84701@kag.com,33,Current,San Diego,9985.41,13411.03,17933.441,-7948.0312,3371,Tier-2: High Value,Low Risk,Male
+16628,Margaret,Perez,customer16628@kag.com,68,Savings,Louisville,9985.32,10712.261,44337.44,-34352.12,509,Tier-1: Premium,Neutral,Male
+65171,William,Flores,customer65171@kag.com,32,Current,Atlanta,9985.3,10475.89,43926.02,-33940.72,9837,Tier-1: Premium,Rejected Applicant,Other
+17934,William,Martinez,customer17934@kag.com,22,Current,Columbus,9985.24,12445.95,31021.738,-21036.498,1779,Tier-1: Premium,Low Risk,Male
+62361,Daniel,Taylor,customer62361@kag.com,61,Savings,Omaha,9985.24,14691.07,43499.78,-33514.54,198,Tier-1: Premium,Neutral,Other
+2254,Betty,Campbell,betty.campbell@kag.com,67,Savings,Nashville,9985.18,14876.43,39904.33,-29919.148,5970,Tier-1: Premium,Rejected Applicant,Other
+83251,Nancy,Flores,customer83251@kag.com,21,Savings,Atlanta,9984.84,10580.55,36028.68,-26043.84,2942,Tier-1: Premium,Low Risk,Male
+56500,Michelle,Hall,customer56500@kag.com,56,Current,Columbus,9984.83,13370.3,4697.1797,5287.6504,9933,Tier-2: High Value,Neutral,Female
+7649,William,King,customer7649@kag.com,68,Savings,Oklahoma City,9984.78,11686.86,40830.56,-30845.777,3836,Tier-1: Premium,Low Risk,Female
+19314,Mary,Martinez,customer19314@kag.com,45,Savings,El Paso,9984.7,14665.32,9508.87,475.83008,5629,Tier-2: High Value,Low Risk,Female
+94168,Lisa,Baker,customer94168@kag.com,67,Current,Columbus,9984.65,12371.961,40737.0,-30752.35,5836,Tier-1: Premium,Rejected Applicant,Male
+21180,Daniel,Young,customer21180@kag.com,33,Current,Dallas,9984.53,13581.86,10284.82,-300.29004,2845,Tier-2: High Value,Low Risk,Other
+67027,Michael,Wilson,customer67027@kag.com,31,Current,Fort Worth,9984.52,12477.83,49619.918,-39635.4,1223,Tier-1: Premium,Rejected Applicant,Male
+66823,Amanda,Allen,customer66823@kag.com,32,Savings,Columbus,9984.49,12211.59,6287.47,3697.02,6870,Tier-3: Standard,Low Risk,Female
+20717,Michael,Hall,customer20717@kag.com,22,Current,Indianapolis,9984.47,13419.8,34081.438,-24096.969,9508,Tier-1: Premium,Low Risk,Male
+47195,Kevin,Rodriguez,customer47195@kag.com,60,Savings,Philadelphia,9984.39,11940.79,48717.348,-38732.957,5795,Tier-1: Premium,Neutral,Male
+70729,Michael,Lee,customer70729@kag.com,22,Current,Phoenix,9984.35,13261.989,52088.57,-42104.22,3211,Tier-1: Premium,Neutral,Female
+84909,Charles,Rodriguez,customer84909@kag.com,60,Current,Fort Worth,9984.28,10731.84,22319.24,-12334.96,9847,Tier-1: Premium,Neutral,Male
+95571,Margaret,Taylor,customer95571@kag.com,19,Current,Louisville,9984.15,10412.4,14603.16,-4619.01,1891,Tier-2: High Value,Low Risk,Female
+88457,Donna,Torres,customer88457@kag.com,44,Savings,Washington,9984.1,13084.149,18914.48,-8930.381,2473,Tier-2: High Value,Rejected Applicant,Other
+77983,Amanda,Robinson,customer77983@kag.com,61,Current,Austin,9983.86,11170.59,16685.51,-6701.6494,8811,Tier-2: High Value,Neutral,Other
+71800,Charles,Perez,customer71800@kag.com,20,Savings,Indianapolis,9983.82,14360.4,42479.203,-32495.383,2285,Tier-1: Premium,Low Risk,Female
+23138,Ashley,Garcia,customer23138@kag.com,54,Savings,Austin,9983.67,11007.88,41245.35,-31261.682,5626,Tier-1: Premium,Rejected Applicant,Male
+28,Amanda,Hill,amanda.hill@kag.com,60,Savings,Oklahoma City,9983.5,11513.92,47775.023,-37791.523,2965,Tier-1: Premium,Low Risk,Female
+91825,Margaret,Lee,customer91825@kag.com,20,Savings,El Paso,9983.47,11128.47,9793.67,189.7998,988,Tier-3: Standard,Rejected Applicant,Female
+99333,Linda,Baker,customer99333@kag.com,29,Current,Memphis,9983.39,10360.71,49699.78,-39716.39,3161,Tier-1: Premium,Neutral,Other
+89496,Margaret,Flores,customer89496@kag.com,35,Savings,Atlanta,9983.33,12192.2,4456.26,5527.0703,309,Tier-3: Standard,Neutral,Male
+46016,Mark,Baker,customer46016@kag.com,45,Current,Washington,9983.21,10777.1,23519.4,-13536.19,7968,Tier-1: Premium,Rejected Applicant,Other
+9112,Amanda,Rodriguez,customer9112@kag.com,53,Current,Philadelphia,9983.2,10043.2705,41340.88,-31357.68,8277,Tier-1: Premium,Rejected Applicant,Female
+82972,Kevin,King,customer82972@kag.com,20,Savings,Indianapolis,9983.17,12640.3,41891.24,-31908.068,39,Tier-1: Premium,Rejected Applicant,Other
+45709,Lisa,King,customer45709@kag.com,56,Savings,Washington,9983.02,12275.029,10062.33,-79.31055,5153,Tier-3: Standard,Rejected Applicant,Other
+22236,Margaret,Adams,customer22236@kag.com,18,Current,Atlanta,9983.01,13457.56,42740.25,-32757.24,4560,Tier-1: Premium,Neutral,Female
+11335,William,Hall,customer11335@kag.com,58,Savings,Columbus,9982.82,14849.041,50348.117,-40365.297,1855,Tier-1: Premium,Neutral,Female
+17610,Donna,Flores,customer17610@kag.com,58,Current,Indianapolis,9982.81,14709.949,26721.111,-16738.3,8309,Tier-1: Premium,Rejected Applicant,Other
+74776,Kevin,Baker,customer74776@kag.com,67,Current,San Diego,9982.72,11718.46,47241.668,-37258.95,6527,Tier-1: Premium,Low Risk,Male
+66960,Amanda,Rodriguez,customer66960@kag.com,23,Savings,Atlanta,9982.57,10791.69,2815.88,7166.6904,7656,Tier-3: Standard,Neutral,Other
+32611,Mark,Baker,customer32611@kag.com,20,Current,Dallas,9982.46,12002.49,19268.559,-9286.099,4925,Tier-2: High Value,Neutral,Other
+16913,Michael,Baker,customer16913@kag.com,66,Current,Columbus,9982.28,10593.551,12995.25,-3012.9697,5111,Tier-2: High Value,Rejected Applicant,Male
+12324,Donna,Robinson,customer12324@kag.com,38,Current,Phoenix,9982.04,11406.15,33703.98,-23721.941,3926,Tier-1: Premium,Rejected Applicant,Female
+27730,Michelle,Taylor,customer27730@kag.com,47,Current,Austin,9981.99,11556.78,24296.281,-14314.291,7794,Tier-1: Premium,Low Risk,Other
+11131,Joseph,Hall,customer11131@kag.com,18,Current,Fort Worth,9981.97,11280.81,2894.45,7087.5195,1280,Tier-3: Standard,Low Risk,Male
+6476,Kevin,Robinson,customer6476@kag.com,30,Current,Fort Worth,9981.76,10017.71,11514.72,-1532.96,5388,Tier-2: High Value,Neutral,Male
+60399,Linda,Flores,customer60399@kag.com,39,Current,Dallas,9981.54,11612.1,30360.08,-20378.54,9332,Tier-1: Premium,Low Risk,Female
+26880,Joshua,Baker,customer26880@kag.com,36,Savings,El Paso,9981.38,14674.189,20032.23,-10050.851,6285,Tier-2: High Value,Neutral,Other
+5516,Daniel,Robinson,customer5516@kag.com,57,Current,Austin,9981.27,14808.67,8966.26,1015.00977,483,Tier-2: High Value,Low Risk,Other
+2959,Mary,Miller,mary.miller@kag.com,57,Current,Albuquerque,9981.26,13042.41,32313.16,-22331.9,9631,Tier-1: Premium,Rejected Applicant,Female
+12455,Kevin,Hall,customer12455@kag.com,36,Current,Dallas,9981.21,14577.2,15712.17,-5730.96,9480,Tier-2: High Value,Rejected Applicant,Other
+44072,William,Flores,customer44072@kag.com,69,Current,Memphis,9980.71,12951.77,22703.57,-12722.86,2779,Tier-2: High Value,Rejected Applicant,Male
+61222,Charles,Taylor,customer61222@kag.com,53,Savings,Dallas,9980.69,10228.641,37621.598,-27640.906,6233,Tier-1: Premium,Rejected Applicant,Other
+960,Matthew,Campbell,matthew.campbell@kag.com,25,Current,Louisville,9980.68,12686.68,42519.1,-32538.422,4968,Tier-1: Premium,Neutral,Other
+96561,Christopher,Johnson,customer96561@kag.com,23,Savings,Memphis,9980.68,11265.189,19120.09,-9139.41,6330,Tier-2: High Value,Low Risk,Female
+30204,Donna,Garcia,customer30204@kag.com,70,Current,Washington,9980.61,12081.75,8004.75,1975.8604,5889,Tier-3: Standard,Low Risk,Female
+99978,Linda,Perez,customer99978@kag.com,50,Current,Fort Worth,9980.51,12703.39,50034.74,-40054.227,2367,Tier-1: Premium,Low Risk,Male
+88589,William,Baker,customer88589@kag.com,49,Current,El Paso,9980.49,14912.721,7327.08,2653.4102,6832,Tier-2: High Value,Low Risk,Male
+67244,Lisa,Allen,customer67244@kag.com,24,Current,Austin,9980.47,11022.76,43079.54,-33099.07,4929,Tier-1: Premium,Neutral,Female
+69871,Amanda,Hall,customer69871@kag.com,69,Savings,Oklahoma City,9980.11,13977.131,29233.83,-19253.719,2778,Tier-1: Premium,Neutral,Female
+7319,Charles,Rodriguez,customer7319@kag.com,41,Current,San Diego,9980.07,13735.01,17801.48,-7821.41,8844,Tier-2: High Value,Rejected Applicant,Other
+64354,William,Baker,customer64354@kag.com,30,Savings,Fort Worth,9980.05,13677.02,15843.47,-5863.42,2757,Tier-2: High Value,Neutral,Female
+19485,Lisa,Robinson,customer19485@kag.com,45,Current,Fort Worth,9979.98,10497.761,47139.812,-37159.832,5145,Tier-1: Premium,Neutral,Female
+50633,Mark,Taylor,customer50633@kag.com,21,Current,Fresno,9979.87,14189.73,35706.56,-25726.688,4423,Tier-1: Premium,Low Risk,Male
+58892,Michelle,King,customer58892@kag.com,49,Current,Memphis,9979.74,14906.57,30783.76,-20804.02,6407,Tier-1: Premium,Low Risk,Male
+87132,Linda,Rodriguez,customer87132@kag.com,24,Current,Fresno,9979.33,14601.311,37847.05,-27867.72,850,Tier-1: Premium,Neutral,Female
+21737,Joshua,Taylor,customer21737@kag.com,47,Savings,Fort Worth,9979.23,14071.75,20424.89,-10445.66,5893,Tier-2: High Value,Neutral,Other
+57309,Donna,Young,customer57309@kag.com,36,Current,Memphis,9979.03,10411.96,9433.72,545.31055,3101,Tier-3: Standard,Rejected Applicant,Male
+510,Robert,Martinez,robert.martinez@kag.com,21,Savings,Jacksonville,9979.0,13898.21,7878.69,2100.31,3023,Tier-2: High Value,Rejected Applicant,Male
+37397,Linda,Taylor,customer37397@kag.com,60,Current,Philadelphia,9978.97,12304.09,11678.89,-1699.9199,1744,Tier-3: Standard,Neutral,Male
+45590,Charles,Robinson,customer45590@kag.com,57,Savings,Oklahoma City,9978.74,13432.28,10968.53,-989.79004,1245,Tier-2: High Value,Low Risk,Male
+45035,Amanda,Flores,customer45035@kag.com,39,Current,El Paso,9978.56,13585.609,27527.291,-17548.73,2288,Tier-1: Premium,Low Risk,Female
+33514,Joseph,Young,customer33514@kag.com,32,Savings,Omaha,9978.5,12841.6,31357.91,-21379.41,5919,Tier-1: Premium,Rejected Applicant,Male
+99877,Michael,Robinson,customer99877@kag.com,35,Current,Memphis,9978.5,14437.46,28896.738,-18918.238,3166,Tier-1: Premium,Low Risk,Other
+36244,Michelle,Flores,customer36244@kag.com,39,Savings,San Diego,9978.49,14027.11,29813.71,-19835.22,5277,Tier-1: Premium,Low Risk,Female
+52990,Donna,Torres,customer52990@kag.com,69,Savings,Phoenix,9978.12,14394.48,33374.56,-23396.438,5534,Tier-1: Premium,Neutral,Male
+1363,Donald,Anderson,donald.anderson@kag.com,68,Savings,Detroit,9978.11,14307.311,17724.27,-7746.159,7339,Tier-2: High Value,Low Risk,Male
+93935,Michael,King,customer93935@kag.com,40,Current,Atlanta,9977.9,12125.11,6926.82,3051.0806,1580,Tier-3: Standard,Low Risk,Female
+44205,Daniel,Adams,customer44205@kag.com,56,Current,Louisville,9977.47,10946.38,6004.93,3972.5396,151,Tier-3: Standard,Neutral,Male
+19905,Michael,Allen,customer19905@kag.com,56,Savings,Atlanta,9977.41,12222.891,27398.58,-17421.17,1145,Tier-1: Premium,Low Risk,Female
+18915,Christopher,Johnson,customer18915@kag.com,41,Current,Atlanta,9977.32,11290.75,13214.76,-3237.4395,3432,Tier-2: High Value,Rejected Applicant,Male
+80775,William,Allen,customer80775@kag.com,35,Savings,Oklahoma City,9977.28,10715.58,5164.05,4813.2305,3790,Tier-3: Standard,Low Risk,Male
+77006,Amanda,Hall,customer77006@kag.com,61,Savings,Memphis,9977.25,13510.59,36436.57,-26459.32,45,Tier-1: Premium,Neutral,Male
+80557,Michael,Flores,customer80557@kag.com,59,Current,San Diego,9977.24,13481.11,43206.01,-33228.773,6003,Tier-1: Premium,Rejected Applicant,Male
+95680,Margaret,Perez,customer95680@kag.com,67,Savings,Austin,9977.15,12836.75,36314.76,-26337.611,4644,Tier-1: Premium,Rejected Applicant,Female
+84652,Michael,Johnson,customer84652@kag.com,34,Current,Fresno,9976.93,13780.84,32507.56,-22530.63,5277,Tier-1: Premium,Low Risk,Female
+58029,Daniel,Perez,customer58029@kag.com,47,Savings,El Paso,9976.83,14771.98,16256.16,-6279.33,7038,Tier-2: High Value,Rejected Applicant,Female
+15972,Daniel,Allen,customer15972@kag.com,54,Current,Dallas,9976.68,13302.79,19295.79,-9319.109,4770,Tier-2: High Value,Low Risk,Male
+33357,Nancy,King,customer33357@kag.com,23,Savings,Dallas,9976.6,14652.89,46247.57,-36270.97,5280,Tier-1: Premium,Rejected Applicant,Male
+20743,Margaret,Robinson,customer20743@kag.com,58,Current,Atlanta,9976.52,11996.449,19658.74,-9682.221,7499,Tier-2: High Value,Low Risk,Female
+61196,Joseph,Johnson,customer61196@kag.com,60,Current,San Diego,9976.47,14860.449,28428.46,-18451.992,4026,Tier-1: Premium,Low Risk,Male
+98601,Kevin,King,customer98601@kag.com,50,Current,Fort Worth,9976.4,11510.11,34715.1,-24738.701,1534,Tier-1: Premium,Rejected Applicant,Female
+20594,Amanda,Hall,customer20594@kag.com,51,Savings,Washington,9976.3,14003.66,45471.57,-35495.27,8664,Tier-1: Premium,Low Risk,Male
+34218,Joshua,Baker,customer34218@kag.com,36,Current,Philadelphia,9976.3,12495.41,21564.549,-11588.249,4469,Tier-2: High Value,Rejected Applicant,Other
+96066,Lisa,Martinez,customer96066@kag.com,58,Savings,Indianapolis,9976.29,13925.75,30497.469,-20521.18,6339,Tier-1: Premium,Rejected Applicant,Other
+78155,Donna,Lee,customer78155@kag.com,50,Savings,Philadelphia,9976.2,10887.351,27873.52,-17897.32,238,Tier-1: Premium,Low Risk,Female
+33847,Linda,Flores,customer33847@kag.com,28,Savings,Atlanta,9976.18,12531.3,17968.4,-7992.2207,9885,Tier-2: High Value,Low Risk,Other
+66003,Joshua,Hall,customer66003@kag.com,47,Current,Louisville,9976.18,11308.43,20202.11,-10225.93,9760,Tier-2: High Value,Rejected Applicant,Male
+77836,Mary,Martinez,customer77836@kag.com,19,Savings,Phoenix,9976.16,14239.34,35502.26,-25526.102,5789,Tier-1: Premium,Rejected Applicant,Male
+15837,Margaret,Rodriguez,customer15837@kag.com,19,Current,Indianapolis,9976.15,11302.98,9212.399,763.751,8437,Tier-3: Standard,Neutral,Other
+91224,Christopher,Moore,customer91224@kag.com,39,Current,Atlanta,9976.07,14659.61,42274.2,-32298.129,3634,Tier-1: Premium,Rejected Applicant,Other
+50517,William,Lee,customer50517@kag.com,59,Current,Indianapolis,9975.97,13710.06,11857.96,-1881.9902,8711,Tier-2: High Value,Rejected Applicant,Male
+13600,William,Baker,customer13600@kag.com,56,Savings,Columbus,9975.92,12373.96,12244.67,-2268.75,5556,Tier-3: Standard,Low Risk,Other
+31744,Mark,Taylor,customer31744@kag.com,18,Savings,Indianapolis,9975.83,11416.04,49955.09,-39979.258,4379,Tier-1: Premium,Rejected Applicant,Male
+41435,Joseph,Torres,customer41435@kag.com,26,Savings,Atlanta,9975.8,13842.92,17771.871,-7796.0713,7155,Tier-2: High Value,Rejected Applicant,Male
+64358,Mark,Hall,customer64358@kag.com,45,Savings,Dallas,9975.56,13878.75,35042.45,-25066.89,4547,Tier-1: Premium,Neutral,Male
+15574,Linda,Allen,customer15574@kag.com,68,Current,San Diego,9975.33,13296.07,16216.84,-6241.51,5874,Tier-2: High Value,Neutral,Other
+37094,Mary,Taylor,customer37094@kag.com,27,Savings,San Diego,9975.31,13512.22,46612.87,-36637.562,1252,Tier-1: Premium,Rejected Applicant,Other
+1856,Kimberly,Williams,kimberly.williams@kag.com,51,Current,Dallas,9975.27,11961.77,42681.48,-32706.21,8374,Tier-1: Premium,Low Risk,Female
+48174,Lisa,Torres,customer48174@kag.com,33,Savings,Oklahoma City,9975.1,14740.609,6835.8096,3139.29,6374,Tier-2: High Value,Neutral,Male
+43446,Daniel,Rodriguez,customer43446@kag.com,38,Current,Omaha,9974.93,10253.09,24418.83,-14443.9,4378,Tier-1: Premium,Low Risk,Male
+43005,Mark,King,customer43005@kag.com,27,Savings,Indianapolis,9974.91,13947.82,43730.75,-33755.84,1450,Tier-1: Premium,Low Risk,Other
+2705,Paul,Allen,paul.allen@kag.com,58,Savings,Las Vegas,9974.66,10725.37,11902.19,-1927.5303,4216,Tier-2: High Value,Rejected Applicant,Female
+49637,Mark,Adams,customer49637@kag.com,52,Current,Philadelphia,9974.62,12624.59,49912.9,-39938.277,6768,Tier-1: Premium,Rejected Applicant,Female
+94933,Michael,Rodriguez,customer94933@kag.com,32,Savings,San Diego,9974.6,12881.739,29527.51,-19552.91,2922,Tier-1: Premium,Low Risk,Other
+99680,William,Martinez,customer99680@kag.com,22,Savings,Omaha,9974.54,10134.92,37326.83,-27352.29,4295,Tier-1: Premium,Low Risk,Male
+86640,Lisa,Moore,customer86640@kag.com,18,Current,Oklahoma City,9974.54,11938.67,15673.97,-5699.4297,9680,Tier-2: High Value,Low Risk,Female
+31159,Lisa,King,customer31159@kag.com,18,Savings,San Diego,9974.49,14610.76,52312.2,-42337.71,1627,Tier-1: Premium,Neutral,Other
+74320,Lisa,Garcia,customer74320@kag.com,63,Current,San Diego,9974.35,12252.439,21410.93,-11436.58,8222,Tier-2: High Value,Neutral,Other
+65497,Joseph,Martinez,customer65497@kag.com,35,Savings,Fresno,9974.32,12380.17,7248.38,2725.9404,9321,Tier-3: Standard,Neutral,Female
+27554,Joseph,Torres,customer27554@kag.com,27,Savings,Atlanta,9974.26,10915.79,39879.223,-29904.963,4533,Tier-1: Premium,Neutral,Other
+91305,Michael,Lee,customer91305@kag.com,63,Savings,Oklahoma City,9974.26,12952.77,30159.4,-20185.14,2093,Tier-1: Premium,Low Risk,Female
+82915,Lisa,Baker,customer82915@kag.com,61,Savings,Philadelphia,9974.26,10882.17,37002.85,-27028.592,8219,Tier-1: Premium,Neutral,Other
+73698,Joseph,Martinez,customer73698@kag.com,59,Savings,Memphis,9974.05,14840.24,35936.73,-25962.68,8325,Tier-1: Premium,Neutral,Female
+24667,Donna,Johnson,customer24667@kag.com,47,Savings,Austin,9973.92,10730.99,7083.84,2890.08,934,Tier-3: Standard,Neutral,Male
+46018,Kevin,Allen,customer46018@kag.com,66,Savings,Fort Worth,9973.73,11811.761,47221.742,-37248.01,2650,Tier-1: Premium,Neutral,Other
+20013,Nancy,Adams,customer20013@kag.com,30,Savings,Austin,9973.47,11400.06,49708.56,-39735.09,1098,Tier-1: Premium,Low Risk,Male
+86306,Joshua,Taylor,customer86306@kag.com,67,Savings,Phoenix,9973.45,10206.28,21173.36,-11199.909,884,Tier-1: Premium,Rejected Applicant,Male
+70982,Amanda,Garcia,customer70982@kag.com,32,Savings,Austin,9973.31,10763.89,18487.46,-8514.151,8948,Tier-2: High Value,Neutral,Female
+12342,Michelle,King,customer12342@kag.com,34,Savings,Fresno,9973.27,10802.409,18839.48,-8866.211,5921,Tier-2: High Value,Neutral,Female
+94776,Amanda,Adams,customer94776@kag.com,27,Savings,Fort Worth,9973.23,11915.791,3361.23,6612.0005,6333,Tier-3: Standard,Neutral,Female
+23594,Linda,Taylor,customer23594@kag.com,34,Current,Indianapolis,9973.21,14866.01,19382.059,-9408.849,5375,Tier-2: High Value,Rejected Applicant,Male
+97808,Michael,Allen,customer97808@kag.com,42,Savings,Dallas,9973.02,11642.09,40814.09,-30841.07,4024,Tier-1: Premium,Neutral,Other
+46749,Michelle,Wilson,customer46749@kag.com,31,Current,Columbus,9972.99,11769.01,28823.85,-18850.86,4439,Tier-1: Premium,Neutral,Other
+28874,Michelle,Hall,customer28874@kag.com,23,Savings,Austin,9972.82,11013.73,8470.97,1501.8506,6006,Tier-3: Standard,Rejected Applicant,Other
+13254,Amanda,Lee,customer13254@kag.com,18,Savings,Phoenix,9972.72,12261.199,18732.73,-8760.011,9427,Tier-2: High Value,Rejected Applicant,Other
+12997,Amanda,Baker,customer12997@kag.com,40,Savings,Washington,9972.69,12301.48,11173.48,-1200.79,8546,Tier-3: Standard,Low Risk,Female
+19466,Mark,Wilson,customer19466@kag.com,24,Current,Fresno,9972.65,14151.84,43930.51,-33957.86,8068,Tier-1: Premium,Neutral,Male
+48329,Linda,King,customer48329@kag.com,66,Current,Memphis,9972.6,13124.289,21675.959,-11703.359,9505,Tier-2: High Value,Rejected Applicant,Other
+58545,Joshua,Johnson,customer58545@kag.com,30,Current,Indianapolis,9972.48,9973.311,6534.63,3437.8506,317,Tier-3: Standard,Rejected Applicant,Other
+31476,Charles,Taylor,customer31476@kag.com,29,Savings,Louisville,9972.29,11442.42,13706.55,-3734.2598,2048,Tier-2: High Value,Low Risk,Other
+60934,Margaret,Moore,customer60934@kag.com,69,Savings,Dallas,9972.26,13510.99,17266.77,-7294.51,9539,Tier-2: High Value,Neutral,Other
+37093,Mark,Robinson,customer37093@kag.com,25,Savings,Austin,9972.12,14755.0,40746.38,-30774.258,4242,Tier-1: Premium,Low Risk,Female
+49337,Mary,Hall,customer49337@kag.com,20,Savings,Washington,9971.9,12813.84,25199.979,-15228.078,4411,Tier-1: Premium,Low Risk,Other
+43269,Mark,Moore,customer43269@kag.com,43,Savings,San Diego,9971.69,13858.261,21982.201,-12010.511,1355,Tier-2: High Value,Rejected Applicant,Female
+56776,Donna,Johnson,customer56776@kag.com,27,Savings,Omaha,9971.67,10497.77,27862.17,-17890.5,4154,Tier-1: Premium,Rejected Applicant,Male
+58,Timothy,Carter,timothy.carter@kag.com,37,Savings,Indianapolis,9971.6,13665.38,25154.639,-15183.039,5456,Tier-1: Premium,Rejected Applicant,Other
+39194,Charles,Garcia,customer39194@kag.com,48,Current,Dallas,9971.07,10632.62,36152.152,-26181.082,119,Tier-1: Premium,Rejected Applicant,Male
+59149,Linda,Garcia,customer59149@kag.com,28,Savings,Philadelphia,9970.98,10658.2705,34025.93,-24054.95,6097,Tier-1: Premium,Low Risk,Female
+53529,Kevin,Rodriguez,customer53529@kag.com,70,Savings,Oklahoma City,9970.78,14650.44,53839.12,-43868.34,6663,Tier-1: Premium,Neutral,Male
+63065,Mary,Hall,customer63065@kag.com,23,Savings,Washington,9970.76,14090.21,21891.41,-11920.65,3259,Tier-2: High Value,Rejected Applicant,Female
+6879,Joshua,King,customer6879@kag.com,34,Current,Atlanta,9970.42,10739.43,19946.79,-9976.369,895,Tier-2: High Value,Neutral,Other
+94637,Mark,Allen,customer94637@kag.com,27,Current,Fresno,9970.13,10495.62,16302.08,-6331.95,4519,Tier-2: High Value,Low Risk,Female
+45192,Ashley,Adams,customer45192@kag.com,51,Savings,Philadelphia,9970.12,13128.3,7317.9795,2652.1406,7592,Tier-2: High Value,Low Risk,Other
+16416,Nancy,Adams,customer16416@kag.com,69,Current,Oklahoma City,9970.12,11106.65,12768.98,-2798.8604,5498,Tier-2: High Value,Neutral,Male
+11400,Daniel,Moore,customer11400@kag.com,55,Savings,Phoenix,9970.08,13940.04,51776.76,-41806.68,5725,Tier-1: Premium,Low Risk,Female
+36709,Michelle,Garcia,customer36709@kag.com,24,Current,Atlanta,9970.04,12729.5,25875.441,-15905.401,5663,Tier-1: Premium,Neutral,Female
+74323,Mark,Flores,customer74323@kag.com,31,Current,Philadelphia,9969.98,13156.291,26092.531,-16122.551,7427,Tier-1: Premium,Neutral,Female
+13330,Lisa,Taylor,customer13330@kag.com,30,Savings,Indianapolis,9969.93,14950.77,16548.309,-6578.379,1874,Tier-2: High Value,Rejected Applicant,Male
+5725,Ashley,Torres,customer5725@kag.com,25,Savings,Columbus,9969.73,14134.74,14527.859,-4558.129,1171,Tier-2: High Value,Low Risk,Female
+45271,Daniel,King,customer45271@kag.com,48,Savings,Atlanta,9969.61,11720.21,15770.39,-5800.7793,7853,Tier-2: High Value,Rejected Applicant,Male
+55136,Kevin,Flores,customer55136@kag.com,40,Savings,San Diego,9969.52,11406.689,39041.652,-29072.133,2703,Tier-1: Premium,Low Risk,Male
+98454,Joshua,Robinson,customer98454@kag.com,52,Current,Columbus,9969.49,14891.33,48800.36,-38830.867,2294,Tier-1: Premium,Rejected Applicant,Female
+105,Linda,Hernandez,linda.hernandez@kag.com,27,Savings,Austin,9969.42,14966.529,18433.65,-8464.23,4710,Tier-2: High Value,Neutral,Male
+61040,Joseph,Robinson,customer61040@kag.com,45,Savings,Columbus,9969.38,14445.24,32773.45,-22804.07,2878,Tier-1: Premium,Neutral,Other
+62022,Joshua,Perez,customer62022@kag.com,35,Current,Omaha,9969.36,14131.34,49317.582,-39348.223,6132,Tier-1: Premium,Rejected Applicant,Other
+88249,Kevin,Torres,customer88249@kag.com,26,Current,Dallas,9969.3,13712.35,26863.98,-16894.68,3402,Tier-1: Premium,Neutral,Male
+36981,Donna,Young,customer36981@kag.com,34,Savings,Austin,9969.11,13497.351,10730.68,-761.56934,6852,Tier-2: High Value,Low Risk,Male
+8787,Ashley,Hall,customer8787@kag.com,20,Current,Indianapolis,9969.09,11738.89,23361.182,-13392.092,6941,Tier-1: Premium,Low Risk,Other
+40579,Donna,Torres,customer40579@kag.com,34,Savings,Fort Worth,9968.94,12587.09,39542.957,-29574.016,8553,Tier-1: Premium,Neutral,Female
+22697,William,Martinez,customer22697@kag.com,69,Current,Fresno,9968.8,11751.18,7760.96,2207.8398,4209,Tier-3: Standard,Neutral,Other
+68315,Christopher,Rodriguez,customer68315@kag.com,18,Current,Memphis,9968.68,12369.0,35661.742,-25693.062,6357,Tier-1: Premium,Rejected Applicant,Male
+63950,Nancy,Torres,customer63950@kag.com,32,Current,Oklahoma City,9968.66,11864.07,31551.541,-21582.88,9684,Tier-1: Premium,Neutral,Male
+17917,Linda,Martinez,customer17917@kag.com,23,Current,Oklahoma City,9968.61,10345.301,30405.58,-20436.969,3884,Tier-1: Premium,Neutral,Female
+94467,Mary,Taylor,customer94467@kag.com,36,Savings,Columbus,9968.57,12087.83,47095.082,-37126.51,2420,Tier-1: Premium,Low Risk,Other
+60436,Joshua,Allen,customer60436@kag.com,67,Current,Atlanta,9968.42,13036.5,19477.45,-9509.029,3473,Tier-2: High Value,Low Risk,Female
+180,Ashley,Lee,ashley.lee@kag.com,32,Savings,Boston,9968.39,12586.97,52313.71,-42345.32,2004,Tier-1: Premium,Rejected Applicant,Female
+76555,Michelle,Taylor,customer76555@kag.com,25,Current,San Diego,9968.3,14750.43,39980.72,-30012.418,7190,Tier-1: Premium,Rejected Applicant,Female
+32726,William,Martinez,customer32726@kag.com,24,Current,Memphis,9968.29,10012.61,24570.25,-14601.96,1255,Tier-1: Premium,Low Risk,Other
+42103,Amanda,Wilson,customer42103@kag.com,50,Savings,Omaha,9968.17,13252.07,40511.367,-30543.197,6412,Tier-1: Premium,Low Risk,Male
+96597,Daniel,Baker,customer96597@kag.com,70,Current,Indianapolis,9968.1,12168.88,46513.973,-36545.875,1558,Tier-1: Premium,Low Risk,Male
+28051,Michelle,Wilson,customer28051@kag.com,68,Savings,Dallas,9967.95,12180.891,20965.87,-10997.919,2348,Tier-2: High Value,Neutral,Female
+44825,Donna,Johnson,customer44825@kag.com,50,Current,Fresno,9967.94,11283.92,36549.76,-26581.82,8612,Tier-1: Premium,Low Risk,Male
+5780,Kevin,Adams,customer5780@kag.com,59,Savings,Louisville,9967.93,14763.59,45305.02,-35337.09,8062,Tier-1: Premium,Low Risk,Female
+62311,Daniel,Adams,customer62311@kag.com,20,Current,Omaha,9967.78,10796.12,19015.78,-9047.999,711,Tier-2: High Value,Neutral,Male
+94599,Joseph,Hall,customer94599@kag.com,58,Savings,Washington,9967.64,12821.43,51116.668,-41149.027,9506,Tier-1: Premium,Low Risk,Female
+87583,Joshua,Garcia,customer87583@kag.com,59,Savings,Fort Worth,9967.6,11005.539,41047.23,-31079.63,609,Tier-1: Premium,Low Risk,Other
+65836,Linda,Wilson,customer65836@kag.com,57,Savings,Fort Worth,9967.51,11814.42,25830.57,-15863.061,9886,Tier-1: Premium,Rejected Applicant,Female
+98044,Donna,King,customer98044@kag.com,51,Current,Fresno,9967.4,12456.601,19511.94,-9544.539,295,Tier-2: High Value,Rejected Applicant,Male
+39444,Mark,Robinson,customer39444@kag.com,29,Savings,Louisville,9967.28,11003.84,10645.83,-678.5498,9705,Tier-3: Standard,Low Risk,Other
+33999,Michael,Moore,customer33999@kag.com,70,Savings,Indianapolis,9967.28,13482.96,6632.17,3335.1104,1944,Tier-2: High Value,Rejected Applicant,Male
+36611,Donna,Martinez,customer36611@kag.com,38,Current,Atlanta,9967.09,10583.609,29112.66,-19145.57,7244,Tier-1: Premium,Rejected Applicant,Male
+32418,Margaret,Robinson,customer32418@kag.com,30,Savings,San Diego,9967.04,14364.0,54226.7,-44259.66,9259,Tier-1: Premium,Neutral,Male
+7598,Michael,Perez,customer7598@kag.com,60,Current,Dallas,9967.03,12726.601,51651.17,-41684.14,65,Tier-1: Premium,Neutral,Male
+61536,Amanda,Moore,customer61536@kag.com,42,Current,Dallas,9967.02,10460.38,23561.809,-13594.789,8465,Tier-1: Premium,Rejected Applicant,Female
+79186,William,Wilson,customer79186@kag.com,18,Savings,Omaha,9966.95,12467.59,28247.82,-18280.871,7230,Tier-1: Premium,Low Risk,Female
+71154,Nancy,Baker,customer71154@kag.com,61,Savings,Oklahoma City,9966.9,14531.631,16498.51,-6531.6094,3885,Tier-2: High Value,Rejected Applicant,Male
+10280,Margaret,Young,customer10280@kag.com,32,Savings,Washington,9966.85,11993.13,14458.84,-4491.99,5222,Tier-2: High Value,Rejected Applicant,Male
+28597,Christopher,Perez,customer28597@kag.com,51,Savings,Louisville,9966.84,14412.18,8768.18,1198.6602,6241,Tier-2: High Value,Rejected Applicant,Male
+16573,Linda,Martinez,customer16573@kag.com,43,Current,Omaha,9966.71,10279.37,6353.98,3612.73,6559,Tier-3: Standard,Low Risk,Male
+7835,Lisa,Rodriguez,customer7835@kag.com,44,Current,Washington,9966.69,10404.0,42671.77,-32705.078,8775,Tier-1: Premium,Low Risk,Male
+59337,Margaret,Garcia,customer59337@kag.com,32,Savings,Fort Worth,9966.66,11821.3,37410.55,-27443.89,550,Tier-1: Premium,Low Risk,Other
+86948,Linda,Martinez,customer86948@kag.com,20,Current,Philadelphia,9966.65,12364.891,3625.25,6341.4004,3364,Tier-3: Standard,Rejected Applicant,Male
+89871,Linda,Taylor,customer89871@kag.com,40,Current,El Paso,9966.59,11426.09,48014.26,-38047.67,8071,Tier-1: Premium,Rejected Applicant,Other
+81656,Joshua,Flores,customer81656@kag.com,60,Savings,El Paso,9966.58,13120.4,6754.55,3212.0303,8727,Tier-2: High Value,Rejected Applicant,Male
+4100,Ashley,Lopez,ashley.lopez@kag.com,49,Savings,Portland,9966.54,11124.84,5186.6504,4779.8896,7585,Tier-3: Standard,Low Risk,Female
+40500,Lisa,Moore,customer40500@kag.com,19,Current,Louisville,9966.43,13843.42,19654.84,-9688.41,4686,Tier-2: High Value,Neutral,Female
+9615,William,Rodriguez,customer9615@kag.com,60,Current,Omaha,9966.33,9982.71,30838.64,-20872.31,8481,Tier-1: Premium,Rejected Applicant,Other
+21157,Joseph,Flores,customer21157@kag.com,27,Current,Washington,9966.26,10880.939,38157.7,-28191.44,3133,Tier-1: Premium,Rejected Applicant,Female
+19172,Joshua,Martinez,customer19172@kag.com,64,Current,Indianapolis,9966.23,13693.15,6941.74,3024.4902,636,Tier-2: High Value,Neutral,Other
+93819,Mary,Rodriguez,customer93819@kag.com,59,Current,San Diego,9966.13,12401.6,36523.93,-26557.8,1284,Tier-1: Premium,Low Risk,Male
+38636,Nancy,Perez,customer38636@kag.com,58,Current,Atlanta,9965.98,10689.03,42011.742,-32045.762,4622,Tier-1: Premium,Low Risk,Other
+90766,Mary,Hall,customer90766@kag.com,24,Current,Philadelphia,9965.9,11457.061,3487.4502,6478.45,3657,Tier-3: Standard,Rejected Applicant,Female
+24183,Ashley,Garcia,customer24183@kag.com,24,Savings,Oklahoma City,9965.87,12051.71,19334.16,-9368.29,4274,Tier-2: High Value,Low Risk,Female
+19839,Joshua,Taylor,customer19839@kag.com,56,Current,Austin,9965.84,10721.63,12059.5,-2093.6602,1964,Tier-2: High Value,Rejected Applicant,Other
+32471,Lisa,Adams,customer32471@kag.com,46,Current,Louisville,9965.79,12454.13,19866.62,-9900.829,9291,Tier-2: High Value,Rejected Applicant,Other
+48624,Nancy,Garcia,customer48624@kag.com,44,Savings,Indianapolis,9965.78,12184.631,32133.799,-22168.02,3946,Tier-1: Premium,Low Risk,Female
+78138,Mary,Lee,customer78138@kag.com,49,Savings,Memphis,9965.75,11922.26,31720.0,-21754.25,3614,Tier-1: Premium,Rejected Applicant,Female
+33960,Mary,King,customer33960@kag.com,66,Savings,Atlanta,9965.64,10096.409,41344.78,-31379.14,6875,Tier-1: Premium,Neutral,Other
+38674,Linda,Taylor,customer38674@kag.com,67,Current,Dallas,9965.58,14537.92,48078.43,-38112.85,5888,Tier-1: Premium,Neutral,Female
+31333,Margaret,King,customer31333@kag.com,53,Savings,Fort Worth,9965.3,13008.35,13191.08,-3225.7803,505,Tier-2: High Value,Neutral,Female
+59530,Daniel,Moore,customer59530@kag.com,60,Current,Oklahoma City,9965.23,12791.36,51264.68,-41299.45,1373,Tier-1: Premium,Low Risk,Female
+52337,Daniel,Wilson,customer52337@kag.com,46,Savings,Louisville,9965.15,10339.341,4285.96,5679.1904,6291,Tier-3: Standard,Low Risk,Female
+23058,Charles,Martinez,customer23058@kag.com,39,Savings,El Paso,9965.11,10018.16,32093.74,-22128.629,8465,Tier-1: Premium,Low Risk,Male
+89296,Christopher,Baker,customer89296@kag.com,46,Savings,Phoenix,9964.9,11972.17,31998.94,-22034.04,6414,Tier-1: Premium,Neutral,Female
+96305,Michelle,Johnson,customer96305@kag.com,51,Savings,El Paso,9964.9,11285.211,10291.01,-326.10938,5266,Tier-3: Standard,Rejected Applicant,Male
+60392,Ashley,Perez,customer60392@kag.com,30,Savings,Philadelphia,9964.82,13243.71,41498.94,-31534.121,7794,Tier-1: Premium,Rejected Applicant,Female
+41591,Joseph,King,customer41591@kag.com,58,Current,Memphis,9964.78,11382.0205,51119.34,-41154.56,1244,Tier-1: Premium,Neutral,Other
+47747,Ashley,Adams,customer47747@kag.com,41,Current,Dallas,9964.64,14639.55,48146.5,-38181.86,1254,Tier-1: Premium,Low Risk,Female
+31984,Kevin,Hall,customer31984@kag.com,58,Current,Columbus,9964.63,14537.62,48047.227,-38082.598,75,Tier-1: Premium,Low Risk,Female
+90705,Mary,Young,customer90705@kag.com,65,Current,Louisville,9964.6,11502.38,4718.5303,5246.0693,9959,Tier-3: Standard,Neutral,Other
+78952,Mary,Baker,customer78952@kag.com,18,Savings,Louisville,9964.46,12965.6,46440.28,-36475.82,3846,Tier-1: Premium,Neutral,Female
+12261,Amanda,Lee,customer12261@kag.com,43,Current,San Diego,9964.22,10419.83,29941.479,-19977.258,7175,Tier-1: Premium,Neutral,Female
+79718,Daniel,Allen,customer79718@kag.com,37,Current,Atlanta,9964.0,10464.35,6935.2,3028.7998,7030,Tier-3: Standard,Low Risk,Other
+29707,Kevin,Baker,customer29707@kag.com,60,Savings,Fort Worth,9963.95,14571.46,27710.19,-17746.238,413,Tier-1: Premium,Low Risk,Other
+98714,Joseph,Perez,customer98714@kag.com,31,Current,Columbus,9963.77,10394.449,2496.13,7467.6396,5002,Tier-3: Standard,Rejected Applicant,Female
+72265,Donna,Martinez,customer72265@kag.com,62,Savings,Oklahoma City,9963.74,14435.51,22483.61,-12519.869,8241,Tier-2: High Value,Neutral,Female
+57846,William,Allen,customer57846@kag.com,26,Savings,Memphis,9963.69,11253.091,17310.62,-7346.9287,7121,Tier-2: High Value,Neutral,Male
+30452,Christopher,Young,customer30452@kag.com,65,Current,Columbus,9963.69,11527.49,34465.082,-24501.39,1703,Tier-1: Premium,Low Risk,Female
+63656,Kevin,Adams,customer63656@kag.com,60,Savings,San Diego,9963.58,11503.98,36522.527,-26558.947,1806,Tier-1: Premium,Neutral,Male
+53872,Linda,Wilson,customer53872@kag.com,53,Current,El Paso,9963.56,14346.289,35677.47,-25713.91,6811,Tier-1: Premium,Rejected Applicant,Female
+52277,Michelle,Hall,customer52277@kag.com,26,Savings,Philadelphia,9963.5,11898.15,33327.03,-23363.531,3966,Tier-1: Premium,Rejected Applicant,Other
+39142,Michelle,Moore,customer39142@kag.com,64,Current,Louisville,9963.42,14323.42,48627.78,-38664.36,1579,Tier-1: Premium,Neutral,Other
+69709,Linda,Flores,customer69709@kag.com,22,Savings,Washington,9963.37,14099.36,23552.92,-13589.55,89,Tier-2: High Value,Rejected Applicant,Female
+1147,Mark,Clark,mark.clark@kag.com,69,Current,Jacksonville,9963.26,13553.21,38740.777,-28777.518,836,Tier-1: Premium,Rejected Applicant,Male
+58057,Lisa,Allen,customer58057@kag.com,22,Savings,El Paso,9963.2,14498.79,16064.92,-6101.7197,9743,Tier-2: High Value,Low Risk,Male
+30892,Joshua,Adams,customer30892@kag.com,18,Current,Indianapolis,9963.09,11506.17,44169.83,-34206.74,7429,Tier-1: Premium,Low Risk,Female
+18084,Kevin,Robinson,customer18084@kag.com,54,Current,Oklahoma City,9963.01,13355.34,41131.15,-31168.139,9192,Tier-1: Premium,Rejected Applicant,Female
+43966,Michelle,Hall,customer43966@kag.com,26,Savings,Washington,9962.94,13574.19,26981.16,-17018.219,9053,Tier-1: Premium,Low Risk,Female
+98014,Joseph,Lee,customer98014@kag.com,47,Savings,Dallas,9962.9,14313.75,26120.629,-16157.729,200,Tier-1: Premium,Low Risk,Other
+73469,Nancy,Allen,customer73469@kag.com,39,Current,Phoenix,9962.84,10427.03,17775.299,-7812.459,7282,Tier-2: High Value,Rejected Applicant,Other
+64557,Amanda,Allen,customer64557@kag.com,63,Current,Atlanta,9962.84,11074.439,47284.64,-37321.8,5061,Tier-1: Premium,Neutral,Male
+43450,Michael,Flores,customer43450@kag.com,53,Current,Atlanta,9962.83,13277.7,25179.89,-15217.061,4977,Tier-1: Premium,Low Risk,Male
+48131,Mary,King,customer48131@kag.com,65,Current,Fort Worth,9962.8,12239.71,47658.27,-37695.47,9483,Tier-1: Premium,Rejected Applicant,Other
+38340,Joshua,Adams,customer38340@kag.com,58,Savings,Philadelphia,9962.68,14697.039,52938.21,-42975.53,7822,Tier-1: Premium,Neutral,Other
+56807,Joshua,Robinson,customer56807@kag.com,51,Savings,Fort Worth,9962.67,12603.25,29544.52,-19581.85,181,Tier-1: Premium,Neutral,Male
+20526,Amanda,Robinson,customer20526@kag.com,55,Savings,Omaha,9962.67,10844.38,13517.66,-3554.9902,6042,Tier-2: High Value,Low Risk,Male
+77954,Linda,Allen,customer77954@kag.com,30,Savings,El Paso,9962.64,11543.22,19276.73,-9314.091,3842,Tier-2: High Value,Low Risk,Other
+605,Richard,Carter,richard.carter@kag.com,41,Savings,Oklahoma City,9962.64,11015.16,33913.23,-23950.59,149,Tier-1: Premium,Rejected Applicant,Other
+33358,Christopher,Baker,customer33358@kag.com,70,Savings,El Paso,9962.53,12145.471,50424.1,-40461.57,1386,Tier-1: Premium,Rejected Applicant,Male
+81750,Amanda,Hall,customer81750@kag.com,55,Current,Louisville,9962.48,13797.591,35251.29,-25288.809,5002,Tier-1: Premium,Neutral,Male
+80084,Mark,Martinez,customer80084@kag.com,31,Savings,Indianapolis,9962.35,12030.899,38376.28,-28413.932,3734,Tier-1: Premium,Rejected Applicant,Other
+80740,Michael,Wilson,customer80740@kag.com,51,Savings,Louisville,9962.33,12273.36,44368.902,-34406.57,4181,Tier-1: Premium,Low Risk,Other
+7220,Daniel,Adams,customer7220@kag.com,43,Savings,San Diego,9962.25,11755.439,22593.65,-12631.4,6498,Tier-1: Premium,Low Risk,Male
+14902,Lisa,Perez,customer14902@kag.com,18,Current,Indianapolis,9962.05,13758.449,28674.5,-18712.45,1511,Tier-1: Premium,Low Risk,Female
+36657,Amanda,Moore,customer36657@kag.com,27,Current,Indianapolis,9962.0,10437.32,15729.62,-5767.62,5905,Tier-2: High Value,Neutral,Other
+57259,Ashley,Rodriguez,customer57259@kag.com,28,Current,Atlanta,9961.84,12703.3,9453.07,508.76953,1192,Tier-3: Standard,Low Risk,Female
+42873,William,Johnson,customer42873@kag.com,18,Current,Omaha,9961.83,9985.11,47042.23,-37080.4,7566,Tier-1: Premium,Low Risk,Other
+41566,Charles,King,customer41566@kag.com,40,Current,Columbus,9961.75,13389.08,9130.95,830.7998,3236,Tier-2: High Value,Rejected Applicant,Female
+49674,Joshua,Lee,customer49674@kag.com,47,Current,Fresno,9961.74,13099.88,27151.191,-17189.451,7193,Tier-1: Premium,Low Risk,Male
+7317,Linda,Johnson,customer7317@kag.com,45,Savings,Dallas,9961.63,10419.35,48231.29,-38269.66,3142,Tier-1: Premium,Low Risk,Other
+8938,Linda,Flores,customer8938@kag.com,30,Current,Fort Worth,9961.62,13540.87,18599.91,-8638.29,5956,Tier-2: High Value,Low Risk,Female
+38528,Michelle,King,customer38528@kag.com,27,Current,Omaha,9961.53,13755.061,32066.83,-22105.3,9906,Tier-1: Premium,Neutral,Female
+29328,Joseph,Lee,customer29328@kag.com,29,Savings,Fresno,9961.52,12601.42,26449.48,-16487.96,426,Tier-1: Premium,Low Risk,Female
+84946,Michael,King,customer84946@kag.com,60,Current,San Diego,9961.49,12799.311,42782.742,-32821.25,1714,Tier-1: Premium,Rejected Applicant,Male
+94759,Donna,Baker,customer94759@kag.com,27,Current,Washington,9961.4,13235.25,20649.969,-10688.568,2484,Tier-2: High Value,Rejected Applicant,Other
+76419,Christopher,Garcia,customer76419@kag.com,21,Savings,El Paso,9961.3,10380.109,23340.8,-13379.501,3447,Tier-1: Premium,Low Risk,Female
+50913,Joseph,Taylor,customer50913@kag.com,61,Savings,Omaha,9961.13,13027.27,44206.812,-34245.684,8762,Tier-1: Premium,Rejected Applicant,Other
+81629,Kevin,Perez,customer81629@kag.com,35,Current,El Paso,9961.04,12888.83,18405.18,-8444.14,2503,Tier-2: High Value,Neutral,Male
+38948,Mary,Young,customer38948@kag.com,32,Savings,Fresno,9961.03,13189.471,12110.65,-2149.62,8385,Tier-2: High Value,Neutral,Female
+13795,Joshua,Perez,customer13795@kag.com,31,Current,Columbus,9960.93,12092.99,9675.971,284.95898,1184,Tier-3: Standard,Rejected Applicant,Other
+21342,Donna,Baker,customer21342@kag.com,39,Savings,Indianapolis,9960.8,14698.07,20118.2,-10157.399,8364,Tier-2: High Value,Low Risk,Female
+3901,Jessica,Rodriguez,jessica.rodriguez@kag.com,24,Current,Phoenix,9960.56,11310.779,20218.9,-10258.341,1939,Tier-2: High Value,Low Risk,Female
+72229,Ashley,Rodriguez,customer72229@kag.com,69,Current,Washington,9960.56,10602.409,4599.16,5361.3994,4041,Tier-3: Standard,Neutral,Male
+91142,Mark,Moore,customer91142@kag.com,61,Savings,San Diego,9960.42,11196.67,14089.89,-4129.4697,7729,Tier-2: High Value,Rejected Applicant,Male
+7748,Michelle,Young,customer7748@kag.com,40,Current,Indianapolis,9960.39,11067.3,9854.05,106.33984,3532,Tier-3: Standard,Low Risk,Other
+51791,William,King,customer51791@kag.com,67,Savings,Philadelphia,9960.36,10709.84,17854.88,-7894.5205,3741,Tier-2: High Value,Rejected Applicant,Female
+39471,Nancy,Baker,customer39471@kag.com,46,Savings,Fort Worth,9960.26,14709.77,17167.71,-7207.451,3112,Tier-2: High Value,Low Risk,Female
+13866,Nancy,Perez,customer13866@kag.com,50,Savings,Fresno,9960.17,12049.439,33537.42,-23577.252,4383,Tier-1: Premium,Rejected Applicant,Male
+324,Deborah,Nelson,deborah.nelson@kag.com,28,Savings,San Jose,9959.89,14395.16,46935.21,-36975.32,9660,Tier-1: Premium,Neutral,Male
+41395,Lisa,Hall,customer41395@kag.com,70,Savings,Atlanta,9959.8,13813.29,6329.06,3630.7397,5121,Tier-2: High Value,Low Risk,Male
+5327,Nancy,Wilson,customer5327@kag.com,35,Current,Dallas,9959.78,10223.391,26160.398,-16200.618,9244,Tier-1: Premium,Rejected Applicant,Female
+68,Carol,Carter,carol.carter@kag.com,68,Savings,Atlanta,9959.69,14676.44,19309.32,-9349.63,6101,Tier-2: High Value,Low Risk,Male
+77800,Donna,Robinson,customer77800@kag.com,37,Savings,San Diego,9959.56,13944.18,51110.652,-41151.094,8675,Tier-1: Premium,Neutral,Female
+21966,Joseph,King,customer21966@kag.com,67,Savings,Memphis,9959.5,10041.04,43444.05,-33484.55,1466,Tier-1: Premium,Rejected Applicant,Other
+39665,Lisa,Rodriguez,customer39665@kag.com,70,Current,Memphis,9959.49,11460.971,32592.52,-22633.03,724,Tier-1: Premium,Low Risk,Male
+87228,Mary,Allen,customer87228@kag.com,35,Current,San Diego,9959.44,11709.5205,30198.65,-20239.21,8934,Tier-1: Premium,Neutral,Other
+48312,Ashley,Rodriguez,customer48312@kag.com,36,Current,Fresno,9959.39,10195.819,12491.43,-2532.04,3403,Tier-2: High Value,Rejected Applicant,Male
+11953,Kevin,Rodriguez,customer11953@kag.com,43,Current,Fort Worth,9959.38,13430.439,43412.48,-33453.1,1484,Tier-1: Premium,Neutral,Male
+7758,William,Torres,customer7758@kag.com,38,Savings,Louisville,9959.23,13503.69,7483.75,2475.4805,3610,Tier-2: High Value,Neutral,Other
+21277,Margaret,Young,customer21277@kag.com,67,Savings,Phoenix,9959.12,11996.73,50289.7,-40330.58,4608,Tier-1: Premium,Low Risk,Male
+82297,Mark,Baker,customer82297@kag.com,43,Savings,Philadelphia,9959.11,14664.9,6830.3604,3128.75,3747,Tier-2: High Value,Neutral,Male
+21218,William,Taylor,customer21218@kag.com,58,Savings,Austin,9959.1,14676.72,21566.48,-11607.381,6387,Tier-2: High Value,Low Risk,Male
+93414,Christopher,Adams,customer93414@kag.com,68,Savings,El Paso,9958.86,13147.931,37044.44,-27085.582,6816,Tier-1: Premium,Rejected Applicant,Other
+44492,Charles,Flores,customer44492@kag.com,51,Savings,Dallas,9958.82,14636.26,44390.82,-34432.0,4672,Tier-1: Premium,Neutral,Male
+56629,Joseph,Robinson,customer56629@kag.com,42,Current,Louisville,9958.77,12530.029,29957.73,-19998.96,2552,Tier-1: Premium,Rejected Applicant,Other
+86095,Mark,Garcia,customer86095@kag.com,70,Savings,San Diego,9958.71,13367.09,44611.65,-34652.938,5454,Tier-1: Premium,Rejected Applicant,Male
+83039,William,Rodriguez,customer83039@kag.com,37,Current,Washington,9958.67,12597.99,14380.54,-4421.87,8231,Tier-2: High Value,Neutral,Female
+14357,Michael,Garcia,customer14357@kag.com,22,Current,Fort Worth,9958.65,13091.891,27237.15,-17278.5,6242,Tier-1: Premium,Low Risk,Other
+29269,Ashley,Young,customer29269@kag.com,29,Current,Louisville,9958.46,12306.65,22071.04,-12112.579,9357,Tier-2: High Value,Rejected Applicant,Female
+28795,Charles,Lee,customer28795@kag.com,57,Current,Memphis,9958.22,13305.29,41233.0,-31274.781,2671,Tier-1: Premium,Low Risk,Other
+34446,Ashley,King,customer34446@kag.com,46,Current,Washington,9958.16,11435.03,2865.42,7092.74,8196,Tier-3: Standard,Low Risk,Male
+44844,William,Robinson,customer44844@kag.com,38,Savings,Oklahoma City,9958.04,13895.65,49963.93,-40005.89,1603,Tier-1: Premium,Rejected Applicant,Female
+14307,Christopher,Moore,customer14307@kag.com,56,Savings,Atlanta,9957.57,12927.74,21944.39,-11986.82,2213,Tier-2: High Value,Low Risk,Other
+78641,Amanda,Rodriguez,customer78641@kag.com,65,Savings,Atlanta,9957.53,13236.42,33752.13,-23794.598,3060,Tier-1: Premium,Rejected Applicant,Female
+26660,Joshua,Allen,customer26660@kag.com,66,Current,Indianapolis,9957.53,12832.101,7555.42,2402.1104,6903,Tier-3: Standard,Neutral,Other
+94889,Michael,Allen,customer94889@kag.com,46,Savings,Philadelphia,9957.44,11048.101,2826.71,7130.7305,3817,Tier-3: Standard,Rejected Applicant,Male
+88283,Amanda,Taylor,customer88283@kag.com,33,Current,Fresno,9957.35,12054.16,47648.93,-37691.58,5678,Tier-1: Premium,Low Risk,Male
+18112,Ashley,Lee,customer18112@kag.com,69,Savings,Atlanta,9957.33,11774.65,51624.742,-41667.414,5745,Tier-1: Premium,Rejected Applicant,Female
+62854,Amanda,Garcia,customer62854@kag.com,70,Current,Dallas,9957.26,10716.4795,33778.14,-23820.88,5964,Tier-1: Premium,Neutral,Female
+14166,Lisa,Flores,customer14166@kag.com,49,Savings,Indianapolis,9956.94,14422.351,8725.77,1231.1709,5459,Tier-2: High Value,Low Risk,Other
+27477,Kevin,Garcia,customer27477@kag.com,53,Savings,El Paso,9956.88,9966.0,11384.59,-1427.71,5761,Tier-2: High Value,Rejected Applicant,Female
+88712,Donna,Baker,customer88712@kag.com,56,Current,Columbus,9956.87,11317.99,21661.58,-11704.71,8844,Tier-1: Premium,Neutral,Female
+52025,Lisa,Lee,customer52025@kag.com,21,Current,Oklahoma City,9956.82,10508.9,13526.07,-3569.25,3346,Tier-2: High Value,Rejected Applicant,Other
+42071,Nancy,Taylor,customer42071@kag.com,58,Current,Philadelphia,9956.73,13706.99,23649.98,-13693.25,6116,Tier-2: High Value,Neutral,Female
+17348,Joseph,Flores,customer17348@kag.com,48,Savings,Washington,9956.69,10211.511,3601.11,6355.58,9988,Tier-3: Standard,Neutral,Other
+69059,Daniel,Hall,customer69059@kag.com,56,Savings,Indianapolis,9956.43,14035.77,35170.25,-25213.82,3834,Tier-1: Premium,Low Risk,Other
+89009,Donna,Rodriguez,customer89009@kag.com,52,Current,Phoenix,9956.39,13784.51,15753.4,-5797.0107,3051,Tier-2: High Value,Low Risk,Other
+24979,Daniel,Taylor,customer24979@kag.com,53,Savings,Washington,9956.34,11711.55,31069.371,-21113.031,8344,Tier-1: Premium,Low Risk,Female
+20347,Mary,Hall,customer20347@kag.com,37,Current,Philadelphia,9956.28,11872.141,10938.96,-982.6797,1895,Tier-3: Standard,Rejected Applicant,Male
+16625,Christopher,Wilson,customer16625@kag.com,31,Current,Phoenix,9956.26,13314.29,22160.549,-12204.289,5243,Tier-2: High Value,Rejected Applicant,Female
+39319,Ashley,Allen,customer39319@kag.com,67,Current,Washington,9956.25,12597.01,32708.11,-22751.86,9776,Tier-1: Premium,Neutral,Other
+57636,Lisa,Adams,customer57636@kag.com,68,Savings,Philadelphia,9956.18,12219.91,40476.76,-30520.582,9047,Tier-1: Premium,Low Risk,Female
+40916,Michelle,Lee,customer40916@kag.com,69,Current,Indianapolis,9956.13,10317.37,49817.066,-39860.938,8201,Tier-1: Premium,Rejected Applicant,Female
+64308,Kevin,Torres,customer64308@kag.com,19,Current,Omaha,9956.03,13450.471,46041.37,-36085.34,4710,Tier-1: Premium,Neutral,Male
+53506,Donna,Moore,customer53506@kag.com,26,Savings,Louisville,9955.87,10398.03,48945.54,-38989.668,7713,Tier-1: Premium,Neutral,Other
+22214,Christopher,Martinez,customer22214@kag.com,68,Current,Columbus,9955.85,11738.06,40664.42,-30708.572,896,Tier-1: Premium,Neutral,Other
+58832,Daniel,Robinson,customer58832@kag.com,50,Savings,Atlanta,9955.81,12136.3,17095.04,-7139.2295,5079,Tier-2: High Value,Rejected Applicant,Female
+82392,Lisa,Moore,customer82392@kag.com,18,Savings,Indianapolis,9955.8,13869.77,21866.352,-11910.552,3532,Tier-2: High Value,Neutral,Female
+1439,Matthew,Ramirez,matthew.ramirez@kag.com,38,Savings,Atlanta,9955.46,11089.67,15768.12,-5812.66,870,Tier-2: High Value,Rejected Applicant,Other
+55534,Michelle,Rodriguez,customer55534@kag.com,39,Current,Columbus,9955.45,12520.38,36951.03,-26995.582,4325,Tier-1: Premium,Neutral,Other
+47232,Charles,Baker,customer47232@kag.com,42,Savings,Washington,9955.09,14246.859,19436.68,-9481.59,4798,Tier-2: High Value,Low Risk,Other
+2795,Kevin,Williams,kevin.williams@kag.com,68,Current,Charlotte,9955.05,14626.41,40358.39,-30403.34,7739,Tier-1: Premium,Neutral,Male
+25810,Donna,Johnson,customer25810@kag.com,20,Savings,El Paso,9954.86,10522.12,15561.29,-5606.4297,6396,Tier-2: High Value,Neutral,Other
+64962,Mark,Flores,customer64962@kag.com,36,Current,Philadelphia,9954.83,12547.27,23841.209,-13886.379,1449,Tier-1: Premium,Neutral,Female
+44020,Joseph,Allen,customer44020@kag.com,66,Savings,Omaha,9954.57,9987.37,32162.31,-22207.74,135,Tier-1: Premium,Rejected Applicant,Male
+77343,Donna,Lee,customer77343@kag.com,28,Savings,Phoenix,9954.54,12188.01,39007.33,-29052.79,4933,Tier-1: Premium,Rejected Applicant,Male
+84004,Margaret,Lee,customer84004@kag.com,18,Savings,Fort Worth,9954.45,11025.91,46192.57,-36238.12,4029,Tier-1: Premium,Rejected Applicant,Other
+88006,William,Torres,customer88006@kag.com,65,Savings,El Paso,9954.14,11542.22,8739.8,1214.3398,322,Tier-3: Standard,Neutral,Male
+18336,Mark,Adams,customer18336@kag.com,25,Current,Dallas,9954.14,11603.34,50588.21,-40634.07,522,Tier-1: Premium,Neutral,Other
+23408,Christopher,Martinez,customer23408@kag.com,46,Savings,El Paso,9953.98,12173.66,9774.939,179.04102,7504,Tier-3: Standard,Neutral,Male
+38867,Ashley,Allen,customer38867@kag.com,48,Savings,Oklahoma City,9953.91,14471.32,54167.24,-44213.33,3136,Tier-1: Premium,Low Risk,Male
+83782,Nancy,Lee,customer83782@kag.com,59,Savings,Louisville,9953.9,13646.461,50142.027,-40188.125,6059,Tier-1: Premium,Neutral,Male
+70687,Donna,Perez,customer70687@kag.com,40,Savings,Fresno,9953.73,13144.53,23060.932,-13107.201,7620,Tier-2: High Value,Low Risk,Other
+41356,Margaret,Young,customer41356@kag.com,27,Current,Indianapolis,9953.46,10985.83,49662.082,-39708.62,9255,Tier-1: Premium,Neutral,Male
+39873,Daniel,Allen,customer39873@kag.com,65,Current,San Diego,9952.95,14816.44,50997.938,-41044.99,1305,Tier-1: Premium,Neutral,Male
+84168,Linda,Johnson,customer84168@kag.com,32,Current,Columbus,9952.94,11517.24,44071.66,-34118.72,8470,Tier-1: Premium,Low Risk,Other
+9903,Joseph,King,customer9903@kag.com,35,Savings,Fort Worth,9952.93,14461.39,15559.17,-5606.24,6825,Tier-2: High Value,Neutral,Female
+37540,Daniel,Torres,customer37540@kag.com,31,Savings,El Paso,9952.89,11399.26,13299.96,-3347.0703,7006,Tier-2: High Value,Rejected Applicant,Female
+34328,Kevin,Wilson,customer34328@kag.com,19,Savings,Oklahoma City,9952.78,10572.38,16166.79,-6214.01,9095,Tier-2: High Value,Rejected Applicant,Female
+29260,Margaret,Young,customer29260@kag.com,65,Current,Columbus,9952.67,11950.53,26614.729,-16662.059,139,Tier-1: Premium,Neutral,Female
+68620,Michelle,Moore,customer68620@kag.com,66,Savings,Indianapolis,9952.61,12776.17,41187.86,-31235.25,5846,Tier-1: Premium,Neutral,Female
+45167,Joseph,Taylor,customer45167@kag.com,21,Savings,Oklahoma City,9952.42,11135.3,10051.41,-98.990234,3281,Tier-3: Standard,Neutral,Female
+50924,Joshua,Allen,customer50924@kag.com,34,Current,Louisville,9952.41,12304.74,34425.258,-24472.848,2757,Tier-1: Premium,Neutral,Male
+52560,Joseph,Flores,customer52560@kag.com,36,Current,Washington,9952.04,13257.46,32902.867,-22950.828,1060,Tier-1: Premium,Neutral,Other
+32628,Joshua,Baker,customer32628@kag.com,58,Savings,Louisville,9952.03,13038.881,37086.51,-27134.48,6996,Tier-1: Premium,Neutral,Other
+21738,Daniel,Martinez,customer21738@kag.com,51,Current,Indianapolis,9951.98,13123.351,40295.16,-30343.18,2037,Tier-1: Premium,Neutral,Male
+71609,Ashley,Robinson,customer71609@kag.com,29,Savings,Louisville,9951.96,13026.6,51475.05,-41523.09,5841,Tier-1: Premium,Neutral,Other
+82337,Joshua,Baker,customer82337@kag.com,25,Savings,Fresno,9951.88,13657.72,20207.1,-10255.22,3850,Tier-2: High Value,Low Risk,Female
+50062,Kevin,Wilson,customer50062@kag.com,42,Savings,Phoenix,9951.76,12041.92,16378.87,-6427.1104,8913,Tier-2: High Value,Low Risk,Other
+61895,Mark,Young,customer61895@kag.com,50,Current,Oklahoma City,9951.75,13838.13,43875.02,-33923.27,8587,Tier-1: Premium,Rejected Applicant,Female
+88580,Charles,Johnson,customer88580@kag.com,18,Current,El Paso,9951.75,9980.29,36136.15,-26184.398,5319,Tier-1: Premium,Neutral,Female
+34957,Kevin,Wilson,customer34957@kag.com,30,Savings,Austin,9951.73,12827.58,52108.742,-42157.01,9005,Tier-1: Premium,Rejected Applicant,Other
+45876,William,Young,customer45876@kag.com,29,Savings,Indianapolis,9951.69,12706.4,52743.12,-42791.43,8462,Tier-1: Premium,Low Risk,Male
+85821,Christopher,Allen,customer85821@kag.com,61,Savings,Omaha,9951.6,13924.88,47169.492,-37217.89,7963,Tier-1: Premium,Low Risk,Female
+39714,Charles,Perez,customer39714@kag.com,52,Savings,Fresno,9951.56,13858.359,23065.59,-13114.03,7706,Tier-2: High Value,Rejected Applicant,Male
+23936,Mark,Adams,customer23936@kag.com,37,Savings,Omaha,9951.53,12661.45,28642.35,-18690.82,9345,Tier-1: Premium,Low Risk,Male
+17404,Nancy,Allen,customer17404@kag.com,69,Savings,Columbus,9951.48,14452.681,46755.16,-36803.68,9224,Tier-1: Premium,Neutral,Female
+39457,Joshua,Johnson,customer39457@kag.com,40,Current,Dallas,9951.23,11744.971,21858.96,-11907.73,2925,Tier-1: Premium,Neutral,Female
+92350,Kevin,Johnson,customer92350@kag.com,48,Savings,Columbus,9950.9,11403.0205,25858.79,-15907.889,8749,Tier-1: Premium,Rejected Applicant,Male
+29417,Margaret,Taylor,customer29417@kag.com,69,Savings,Indianapolis,9950.84,10056.6,6013.73,3937.1099,8255,Tier-3: Standard,Neutral,Female
+25938,Mary,Allen,customer25938@kag.com,51,Current,Omaha,9950.83,13221.391,15372.68,-5421.8496,3311,Tier-2: High Value,Low Risk,Other
+64514,Joshua,Moore,customer64514@kag.com,44,Savings,Dallas,9950.73,10440.87,31942.92,-21992.19,3769,Tier-1: Premium,Neutral,Other
+60547,Christopher,Wilson,customer60547@kag.com,60,Savings,Louisville,9950.59,14370.71,19294.852,-9344.262,6458,Tier-2: High Value,Rejected Applicant,Female
+8514,Kevin,Moore,customer8514@kag.com,37,Savings,Austin,9950.56,13591.17,35610.88,-25660.32,6582,Tier-1: Premium,Rejected Applicant,Male
+5560,Joshua,Lee,customer5560@kag.com,34,Current,Louisville,9950.4,13664.181,45873.44,-35923.04,3762,Tier-1: Premium,Neutral,Male
+12363,Nancy,King,customer12363@kag.com,19,Current,Indianapolis,9950.39,10986.069,44997.82,-35047.43,4838,Tier-1: Premium,Low Risk,Male
+13353,William,Wilson,customer13353@kag.com,27,Savings,Fresno,9950.38,12495.14,7224.4297,2725.9502,6368,Tier-3: Standard,Rejected Applicant,Female
+93468,Nancy,Moore,customer93468@kag.com,48,Savings,Fresno,9950.38,11288.22,45732.44,-35782.062,2140,Tier-1: Premium,Low Risk,Female
+2756,Carol,Nelson,carol.nelson@kag.com,44,Current,Denver,9950.38,13521.49,17217.74,-7267.3604,6760,Tier-2: High Value,Low Risk,Female
+10169,Daniel,Torres,customer10169@kag.com,69,Savings,Austin,9950.27,14518.25,14208.84,-4258.5703,7288,Tier-2: High Value,Neutral,Male
+73683,Linda,Rodriguez,customer73683@kag.com,28,Savings,Philadelphia,9950.26,11035.779,25596.54,-15646.279,2873,Tier-1: Premium,Low Risk,Male
+8218,Margaret,Wilson,customer8218@kag.com,19,Current,El Paso,9950.24,12263.051,35187.457,-25237.217,9998,Tier-1: Premium,Rejected Applicant,Female
+49194,Amanda,Flores,customer49194@kag.com,22,Savings,El Paso,9950.1,12183.76,36878.7,-26928.6,2343,Tier-1: Premium,Low Risk,Other
+81022,Joshua,Young,customer81022@kag.com,56,Savings,Omaha,9949.82,14259.221,48841.18,-38891.36,3758,Tier-1: Premium,Low Risk,Male
+25724,Mary,Robinson,customer25724@kag.com,48,Savings,Washington,9949.8,12968.46,51756.06,-41806.258,4832,Tier-1: Premium,Rejected Applicant,Other
+54763,Ashley,Torres,customer54763@kag.com,64,Current,San Diego,9949.75,10410.17,50435.23,-40485.48,1630,Tier-1: Premium,Neutral,Male
+94210,Mary,King,customer94210@kag.com,53,Current,Indianapolis,9949.53,11563.87,34579.14,-24629.61,8224,Tier-1: Premium,Low Risk,Female
+30721,Charles,Moore,customer30721@kag.com,27,Savings,San Diego,9949.21,14797.311,42725.492,-32776.28,4739,Tier-1: Premium,Rejected Applicant,Other
+16750,Mark,Lee,customer16750@kag.com,57,Current,Washington,9949.17,10845.4795,40377.438,-30428.268,2043,Tier-1: Premium,Neutral,Female
+32445,Joshua,Perez,customer32445@kag.com,25,Current,Philadelphia,9949.02,11197.42,35650.297,-25701.277,8496,Tier-1: Premium,Low Risk,Other
+57925,Kevin,King,customer57925@kag.com,18,Savings,Washington,9948.87,12771.78,51188.7,-41239.83,893,Tier-1: Premium,Rejected Applicant,Male
+83169,Lisa,Adams,customer83169@kag.com,41,Savings,Atlanta,9948.78,13738.631,7045.5,2903.2803,904,Tier-2: High Value,Low Risk,Male
+2409,David,Lewis,david.lewis@kag.com,43,Savings,Jacksonville,9948.64,10274.93,18858.43,-8909.79,1006,Tier-2: High Value,Low Risk,Male
+56800,Mary,Allen,customer56800@kag.com,23,Savings,Louisville,9948.61,14345.711,7301.46,2647.1504,7911,Tier-2: High Value,Neutral,Female
+830,James,Rivera,james.rivera@kag.com,66,Savings,El Paso,9948.56,12956.739,38938.48,-28989.922,8476,Tier-1: Premium,Rejected Applicant,Other
+17371,William,Adams,customer17371@kag.com,54,Current,Dallas,9948.37,13455.391,6009.9697,3938.4004,6244,Tier-2: High Value,Neutral,Other
+27954,Lisa,Martinez,customer27954@kag.com,68,Savings,Columbus,9948.34,14524.04,30929.469,-20981.129,9626,Tier-1: Premium,Rejected Applicant,Male
+24963,Michael,King,customer24963@kag.com,64,Savings,Omaha,9947.99,10377.86,24258.27,-14310.279,1944,Tier-1: Premium,Neutral,Female
+46476,Donna,Adams,customer46476@kag.com,41,Savings,San Diego,9947.97,13710.07,17102.4,-7154.4307,6188,Tier-2: High Value,Neutral,Other
+4858,Deborah,Wright,deborah.wright@kag.com,20,Current,San Jose,9947.77,12000.319,17205.52,-7257.75,4922,Tier-2: High Value,Neutral,Male
+65063,Lisa,Perez,customer65063@kag.com,38,Savings,Fresno,9947.59,11013.67,10380.811,-433.2207,5821,Tier-3: Standard,Rejected Applicant,Other
+43929,Mark,Flores,customer43929@kag.com,25,Savings,Columbus,9947.54,13078.48,28535.86,-18588.32,8207,Tier-1: Premium,Low Risk,Other
+12520,Lisa,Garcia,customer12520@kag.com,52,Savings,Washington,9947.51,11779.52,27553.08,-17605.57,813,Tier-1: Premium,Low Risk,Female
+71020,Joshua,Taylor,customer71020@kag.com,31,Current,Philadelphia,9947.5,14901.311,54125.99,-44178.49,4327,Tier-1: Premium,Rejected Applicant,Male
+30056,Joshua,Lee,customer30056@kag.com,26,Current,Fresno,9947.34,11828.1,16756.16,-6808.8203,882,Tier-2: High Value,Low Risk,Male
+53850,Joseph,Rodriguez,customer53850@kag.com,52,Savings,Philadelphia,9947.02,13572.5,9117.59,829.4297,3908,Tier-2: High Value,Low Risk,Female
+49555,Daniel,Baker,customer49555@kag.com,38,Savings,Indianapolis,9946.88,12721.46,35931.32,-25984.441,4435,Tier-1: Premium,Low Risk,Female
+5410,Charles,Johnson,customer5410@kag.com,58,Savings,Washington,9946.63,12038.37,49460.938,-39514.31,2390,Tier-1: Premium,Low Risk,Other
+5619,Christopher,Flores,customer5619@kag.com,67,Current,Philadelphia,9946.59,12888.62,7460.5703,2486.0195,9581,Tier-3: Standard,Low Risk,Male
+37083,William,King,customer37083@kag.com,40,Savings,Indianapolis,9946.3,14192.689,37333.51,-27387.21,5141,Tier-1: Premium,Low Risk,Female
+69698,Charles,Taylor,customer69698@kag.com,56,Savings,Dallas,9946.27,13527.819,5194.55,4751.7197,6254,Tier-2: High Value,Neutral,Other
+44389,Michelle,Baker,customer44389@kag.com,47,Savings,Atlanta,9946.23,11747.211,28636.57,-18690.34,8320,Tier-1: Premium,Neutral,Other
+8527,Lisa,Hall,customer8527@kag.com,52,Savings,Louisville,9946.19,11129.69,21034.89,-11088.7,8941,Tier-2: High Value,Rejected Applicant,Male
+43395,Christopher,Hall,customer43395@kag.com,23,Savings,Oklahoma City,9946.18,11166.63,50841.06,-40894.88,8483,Tier-1: Premium,Neutral,Female
+96881,Amanda,Adams,customer96881@kag.com,26,Savings,Memphis,9946.18,13293.779,9498.65,447.5293,6069,Tier-2: High Value,Low Risk,Other
+38701,Charles,Martinez,customer38701@kag.com,25,Savings,Dallas,9946.16,14317.689,28354.379,-18408.219,7387,Tier-1: Premium,Rejected Applicant,Other
+71018,Charles,Young,customer71018@kag.com,56,Current,Fort Worth,9946.02,12052.58,17227.75,-7281.7305,6802,Tier-2: High Value,Rejected Applicant,Male
+49947,Linda,Torres,customer49947@kag.com,54,Current,Atlanta,9945.98,11120.42,38649.16,-28703.18,4724,Tier-1: Premium,Neutral,Female
+36681,Charles,Young,customer36681@kag.com,50,Savings,Phoenix,9945.83,14382.4,33405.66,-23459.83,1325,Tier-1: Premium,Neutral,Female
+93425,Christopher,Perez,customer93425@kag.com,68,Current,Fresno,9945.73,14068.141,24639.49,-14693.76,7818,Tier-1: Premium,Neutral,Male
+94647,Joshua,Johnson,customer94647@kag.com,24,Savings,Fresno,9945.67,13138.0,25829.64,-15883.971,9797,Tier-1: Premium,Neutral,Other
+1922,Joseph,Hall,joseph.hall@kag.com,28,Current,Los Angeles,9945.59,12315.63,6924.85,3020.7397,2599,Tier-3: Standard,Neutral,Female
+93705,Joshua,Robinson,customer93705@kag.com,36,Savings,Oklahoma City,9945.58,11082.17,46229.32,-36283.742,7579,Tier-1: Premium,Low Risk,Other
+83656,William,Moore,customer83656@kag.com,24,Current,Fort Worth,9945.58,14885.68,52804.67,-42859.094,5146,Tier-1: Premium,Low Risk,Female
+75689,Donna,Rodriguez,customer75689@kag.com,36,Current,Indianapolis,9945.57,12030.79,41375.52,-31429.95,6313,Tier-1: Premium,Rejected Applicant,Female
+30830,Daniel,Johnson,customer30830@kag.com,31,Current,Fort Worth,9945.57,13738.641,17985.2,-8039.629,8170,Tier-2: High Value,Neutral,Female
+77850,Christopher,Hall,customer77850@kag.com,65,Current,Fort Worth,9945.42,10919.12,16422.91,-6477.49,4506,Tier-2: High Value,Low Risk,Other
+59320,Nancy,Lee,customer59320@kag.com,52,Savings,Atlanta,9945.22,14495.02,50846.13,-40900.91,9587,Tier-1: Premium,Low Risk,Other
+18248,Michelle,Wilson,customer18248@kag.com,55,Current,Phoenix,9945.1,13986.449,36835.363,-26890.264,5537,Tier-1: Premium,Rejected Applicant,Male
+55626,Kevin,King,customer55626@kag.com,42,Current,Dallas,9944.6,12727.08,44922.07,-34977.47,1844,Tier-1: Premium,Rejected Applicant,Male
+30360,Ashley,Perez,customer30360@kag.com,27,Current,Austin,9944.57,10739.24,18474.93,-8530.359,7468,Tier-2: High Value,Rejected Applicant,Female
+66460,Ashley,Baker,customer66460@kag.com,59,Current,Fort Worth,9944.38,12310.45,12633.7,-2689.3203,661,Tier-2: High Value,Neutral,Female
+64271,Margaret,Robinson,customer64271@kag.com,43,Savings,Phoenix,9944.33,11719.88,3257.9502,6686.38,9634,Tier-3: Standard,Rejected Applicant,Female
+3111,John,Brown,john.brown@kag.com,54,Savings,Milwaukee,9944.22,13431.27,6078.76,3865.46,4714,Tier-2: High Value,Neutral,Other
+31319,Joseph,Flores,customer31319@kag.com,32,Savings,Philadelphia,9944.15,9997.91,42058.69,-32114.541,92,Tier-1: Premium,Low Risk,Female
+53489,Daniel,Baker,customer53489@kag.com,27,Current,Omaha,9944.13,10640.45,45900.14,-35956.01,1579,Tier-1: Premium,Neutral,Female
+93754,Charles,Taylor,customer93754@kag.com,24,Savings,Philadelphia,9943.92,13949.359,33141.17,-23197.252,1190,Tier-1: Premium,Low Risk,Other
+64861,Mary,Martinez,customer64861@kag.com,52,Savings,Indianapolis,9943.8,14177.47,47130.188,-37186.387,6350,Tier-1: Premium,Neutral,Male
+32424,Ashley,Baker,customer32424@kag.com,39,Current,Phoenix,9943.79,11645.26,28131.55,-18187.762,8760,Tier-1: Premium,Neutral,Other
+56261,Amanda,Torres,customer56261@kag.com,35,Current,Oklahoma City,9943.63,12796.98,47174.42,-37230.793,9021,Tier-1: Premium,Rejected Applicant,Female
+28982,Charles,Young,customer28982@kag.com,39,Current,Austin,9943.63,11364.38,42498.86,-32555.23,6077,Tier-1: Premium,Rejected Applicant,Other
+76358,Joshua,Moore,customer76358@kag.com,35,Savings,Phoenix,9943.58,14362.811,28117.09,-18173.51,355,Tier-1: Premium,Rejected Applicant,Male
+58041,Amanda,Taylor,customer58041@kag.com,22,Savings,Austin,9943.51,14420.689,48122.59,-38179.08,999,Tier-1: Premium,Neutral,Other
+82821,Amanda,Allen,customer82821@kag.com,46,Savings,Philadelphia,9943.49,14301.18,41366.16,-31422.67,6881,Tier-1: Premium,Low Risk,Female
+51035,Mark,Robinson,customer51035@kag.com,36,Savings,Oklahoma City,9943.25,11913.78,44296.66,-34353.41,4257,Tier-1: Premium,Neutral,Other
+63492,Daniel,Lee,customer63492@kag.com,18,Savings,Columbus,9943.1,13891.84,25850.46,-15907.361,6181,Tier-1: Premium,Low Risk,Other
+61792,Lisa,Perez,customer61792@kag.com,54,Savings,Memphis,9942.96,10539.55,28111.55,-18168.59,3600,Tier-1: Premium,Low Risk,Male
+23557,Kevin,Wilson,customer23557@kag.com,66,Current,Fort Worth,9942.9,12928.051,49349.367,-39406.47,2956,Tier-1: Premium,Low Risk,Male
+10704,Nancy,Adams,customer10704@kag.com,62,Current,Memphis,9942.87,14190.96,24828.1,-14885.2295,3344,Tier-1: Premium,Low Risk,Other
+69114,Mary,Perez,customer69114@kag.com,55,Savings,Atlanta,9942.78,11216.71,44338.81,-34396.027,6467,Tier-1: Premium,Neutral,Female
+9748,William,Johnson,customer9748@kag.com,38,Current,Louisville,9942.77,12681.97,5464.99,4477.7793,4161,Tier-3: Standard,Neutral,Male
+27614,Mark,Taylor,customer27614@kag.com,54,Savings,San Diego,9942.66,11942.86,11846.061,-1903.4004,1667,Tier-3: Standard,Neutral,Female
+3952,Melissa,Lewis,melissa.lewis@kag.com,66,Savings,Philadelphia,9942.49,13486.7705,27975.34,-18032.85,6130,Tier-1: Premium,Low Risk,Other
+36403,Michael,Torres,customer36403@kag.com,61,Savings,Atlanta,9942.16,11255.12,35691.86,-25749.7,8609,Tier-1: Premium,Low Risk,Female
+30888,Ashley,Lee,customer30888@kag.com,27,Savings,Oklahoma City,9941.84,14696.71,47748.133,-37806.293,4234,Tier-1: Premium,Low Risk,Female
+90718,Daniel,King,customer90718@kag.com,46,Savings,Washington,9941.79,14043.08,12668.5,-2726.71,2648,Tier-2: High Value,Neutral,Other
+63426,Charles,Taylor,customer63426@kag.com,43,Current,Columbus,9941.76,11451.09,36450.906,-26509.146,5170,Tier-1: Premium,Rejected Applicant,Female
+63868,Amanda,Wilson,customer63868@kag.com,38,Savings,Washington,9941.71,12021.88,29195.57,-19253.86,2353,Tier-1: Premium,Low Risk,Other
+48625,Kevin,Young,customer48625@kag.com,53,Savings,San Diego,9941.48,14796.0205,44212.61,-34271.13,273,Tier-1: Premium,Low Risk,Female
+28423,William,Lee,customer28423@kag.com,54,Current,Austin,9941.39,11557.35,3960.0999,5981.29,4989,Tier-3: Standard,Rejected Applicant,Male
+78790,Michael,Martinez,customer78790@kag.com,65,Savings,Oklahoma City,9941.37,10352.9,9998.49,-57.120117,9230,Tier-3: Standard,Neutral,Male
+87400,Ashley,Martinez,customer87400@kag.com,44,Savings,Washington,9941.27,12796.92,25861.5,-15920.23,4613,Tier-1: Premium,Rejected Applicant,Female
+14964,Lisa,Flores,customer14964@kag.com,67,Savings,Phoenix,9941.2,14533.301,22824.67,-12883.47,8860,Tier-2: High Value,Neutral,Other
+74553,Daniel,Garcia,customer74553@kag.com,43,Savings,Indianapolis,9941.18,10349.069,40657.92,-30716.742,8050,Tier-1: Premium,Low Risk,Female
+10706,Mark,Martinez,customer10706@kag.com,45,Savings,San Diego,9941.15,13342.7,14206.83,-4265.6797,8680,Tier-2: High Value,Neutral,Male
+15728,Lisa,King,customer15728@kag.com,27,Current,Dallas,9940.75,11089.52,44769.7,-34828.95,4712,Tier-1: Premium,Neutral,Female
+1612,Emily,Nguyen,emily.nguyen@kag.com,39,Current,Milwaukee,9940.74,14181.41,7121.11,2819.6304,3077,Tier-2: High Value,Rejected Applicant,Other
+18160,Charles,Taylor,customer18160@kag.com,47,Savings,Fresno,9940.71,12436.47,7945.25,1995.46,1744,Tier-3: Standard,Rejected Applicant,Male
+89919,Amanda,Rodriguez,customer89919@kag.com,27,Current,Indianapolis,9940.7,10476.17,5459.6104,4481.09,7653,Tier-3: Standard,Low Risk,Male
+82932,Margaret,Garcia,customer82932@kag.com,66,Current,Fort Worth,9940.68,12120.88,7734.9404,2205.7393,5478,Tier-3: Standard,Neutral,Other
+13944,Kevin,Adams,customer13944@kag.com,46,Savings,San Diego,9940.67,13924.4,13400.92,-3460.25,7480,Tier-2: High Value,Neutral,Female
+14426,Michelle,Johnson,customer14426@kag.com,51,Current,Oklahoma City,9940.49,11791.42,49583.4,-39642.906,4964,Tier-1: Premium,Low Risk,Male
+92242,Michelle,Johnson,customer92242@kag.com,35,Current,El Paso,9940.39,13162.66,50323.45,-40383.06,2781,Tier-1: Premium,Neutral,Male
+51478,Joshua,Hall,customer51478@kag.com,63,Savings,Philadelphia,9940.37,11803.44,33924.39,-23984.02,3806,Tier-1: Premium,Rejected Applicant,Female
+57090,Amanda,Lee,customer57090@kag.com,55,Current,Indianapolis,9940.31,14124.529,36779.58,-26839.27,2887,Tier-1: Premium,Neutral,Female
+7054,Ashley,Martinez,customer7054@kag.com,31,Current,Dallas,9940.23,13010.15,26018.13,-16077.9,691,Tier-1: Premium,Rejected Applicant,Male
+97132,William,Young,customer97132@kag.com,36,Current,Washington,9940.05,11957.17,48023.742,-38083.69,5421,Tier-1: Premium,Neutral,Female
+35807,Linda,Rodriguez,customer35807@kag.com,22,Current,Dallas,9939.85,10563.489,28822.15,-18882.3,3750,Tier-1: Premium,Low Risk,Male
+21184,Joshua,Rodriguez,customer21184@kag.com,47,Current,Omaha,9939.8,11194.029,35549.72,-25609.918,5363,Tier-1: Premium,Low Risk,Other
+36479,Charles,Baker,customer36479@kag.com,35,Current,Indianapolis,9939.79,11238.57,38455.89,-28516.102,220,Tier-1: Premium,Low Risk,Male
+26679,Michael,Martinez,customer26679@kag.com,43,Current,Austin,9939.73,14429.971,25773.34,-15833.609,4716,Tier-1: Premium,Neutral,Female
+29449,Ashley,Robinson,customer29449@kag.com,26,Current,Austin,9939.61,13602.24,34437.22,-24497.61,9172,Tier-1: Premium,Neutral,Female
+20227,Nancy,Young,customer20227@kag.com,31,Current,San Diego,9939.52,10179.279,44575.28,-34635.76,9343,Tier-1: Premium,Low Risk,Male
+89670,Christopher,Johnson,customer89670@kag.com,53,Savings,Dallas,9939.38,13708.1,31585.861,-21646.48,7166,Tier-1: Premium,Rejected Applicant,Female
+21358,William,Moore,customer21358@kag.com,39,Savings,San Diego,9939.38,12451.22,22271.57,-12332.19,509,Tier-2: High Value,Low Risk,Male
+44326,Donna,Lee,customer44326@kag.com,19,Savings,Omaha,9939.25,11272.54,23425.36,-13486.109,7549,Tier-1: Premium,Neutral,Other
+57845,Michael,Baker,customer57845@kag.com,28,Savings,Indianapolis,9939.14,10807.88,2804.4102,7134.7295,3698,Tier-3: Standard,Neutral,Male
+89036,Lisa,Baker,customer89036@kag.com,70,Current,Fresno,9938.96,12970.67,20914.57,-10975.61,4036,Tier-2: High Value,Low Risk,Male
+44346,Ashley,Allen,customer44346@kag.com,45,Current,Washington,9938.91,11002.2705,12061.99,-2123.08,1638,Tier-2: High Value,Neutral,Male
+7442,Charles,Taylor,customer7442@kag.com,39,Savings,Memphis,9938.9,10999.83,39491.23,-29552.33,1824,Tier-1: Premium,Low Risk,Male
+11527,Charles,Torres,customer11527@kag.com,48,Savings,San Diego,9938.87,13992.05,19861.22,-9922.351,8106,Tier-2: High Value,Rejected Applicant,Male
+75864,Amanda,Baker,customer75864@kag.com,53,Current,Omaha,9938.74,14510.78,7170.64,2768.1,4195,Tier-2: High Value,Neutral,Other
+33460,Daniel,Taylor,customer33460@kag.com,65,Savings,Fort Worth,9938.62,10789.891,22302.48,-12363.86,472,Tier-1: Premium,Low Risk,Female
+56136,Lisa,Young,customer56136@kag.com,65,Savings,El Paso,9938.48,14822.431,38740.74,-28802.258,1412,Tier-1: Premium,Neutral,Male
+88087,Charles,Martinez,customer88087@kag.com,66,Savings,Atlanta,9938.43,11010.819,29777.47,-19839.041,6104,Tier-1: Premium,Low Risk,Male
+7221,Mary,Garcia,customer7221@kag.com,18,Current,Philadelphia,9938.41,12294.0,40345.04,-30406.629,6356,Tier-1: Premium,Neutral,Other
+62725,Joshua,Adams,customer62725@kag.com,19,Savings,Philadelphia,9938.38,14411.859,17308.32,-7369.9404,3214,Tier-2: High Value,Neutral,Female
+70437,Donna,Taylor,customer70437@kag.com,51,Savings,Dallas,9938.29,13992.49,45517.688,-35579.4,2934,Tier-1: Premium,Low Risk,Other
+93159,Kevin,Lee,customer93159@kag.com,65,Savings,Fresno,9938.19,12111.9,14786.51,-4848.3193,2925,Tier-2: High Value,Rejected Applicant,Male
+67941,Michelle,Rodriguez,customer67941@kag.com,43,Savings,Indianapolis,9938.03,11690.58,18519.57,-8581.54,269,Tier-2: High Value,Neutral,Male
+2490,Linda,Allen,linda.allen@kag.com,36,Savings,Indianapolis,9937.88,13235.13,28961.82,-19023.941,1841,Tier-1: Premium,Low Risk,Male
+47896,Kevin,Torres,customer47896@kag.com,51,Savings,Columbus,9937.82,12006.7,35719.527,-25781.707,2845,Tier-1: Premium,Rejected Applicant,Other
+10600,Mary,Moore,customer10600@kag.com,31,Current,Austin,9937.79,14026.46,16598.18,-6660.3896,7521,Tier-2: High Value,Low Risk,Female
+95461,Mark,Baker,customer95461@kag.com,53,Savings,Philadelphia,9937.72,14254.38,21223.23,-11285.511,238,Tier-2: High Value,Low Risk,Other
+27176,Michelle,Baker,customer27176@kag.com,31,Current,Oklahoma City,9937.7,12946.98,45586.05,-35648.35,1615,Tier-1: Premium,Rejected Applicant,Other
+49854,Daniel,King,customer49854@kag.com,59,Savings,El Paso,9937.59,10039.91,37610.56,-27672.969,485,Tier-1: Premium,Rejected Applicant,Male
+19143,William,Young,customer19143@kag.com,26,Savings,San Diego,9937.17,14223.92,21654.11,-11716.939,6394,Tier-2: High Value,Low Risk,Other
+33640,Lisa,Martinez,customer33640@kag.com,26,Current,Phoenix,9937.14,13250.27,9845.949,91.19043,3442,Tier-2: High Value,Low Risk,Male
+6359,Charles,Adams,customer6359@kag.com,40,Current,Memphis,9937.0,14601.26,7417.61,2519.3901,6822,Tier-2: High Value,Neutral,Male
+64959,Ashley,Adams,customer64959@kag.com,69,Current,Philadelphia,9936.98,13754.03,42514.88,-32577.898,501,Tier-1: Premium,Neutral,Female
+17442,Amanda,Hall,customer17442@kag.com,37,Savings,San Diego,9936.61,12512.26,34964.508,-25027.898,1881,Tier-1: Premium,Low Risk,Male
+781,Matthew,King,matthew.king@kag.com,55,Savings,Baltimore,9936.38,14445.97,43987.168,-34050.79,4663,Tier-1: Premium,Low Risk,Female
+39495,Daniel,Baker,customer39495@kag.com,19,Savings,Columbus,9936.31,12730.16,10204.87,-268.56055,7713,Tier-3: Standard,Rejected Applicant,Female
+84771,Joshua,Hall,customer84771@kag.com,32,Current,Memphis,9936.18,13195.949,35599.992,-25663.812,7121,Tier-1: Premium,Neutral,Female
+74611,Michael,Johnson,customer74611@kag.com,54,Savings,Omaha,9936.13,12492.02,41445.62,-31509.492,1499,Tier-1: Premium,Rejected Applicant,Female
+34544,Amanda,Hall,customer34544@kag.com,65,Savings,Washington,9936.07,12521.23,21146.35,-11210.279,2511,Tier-2: High Value,Neutral,Other
+16837,Donna,Robinson,customer16837@kag.com,30,Savings,Fresno,9936.03,14387.11,32582.0,-22645.969,2299,Tier-1: Premium,Low Risk,Other
+28908,Michael,Taylor,customer28908@kag.com,51,Current,Philadelphia,9936.03,10808.311,43912.582,-33976.55,5960,Tier-1: Premium,Neutral,Male
+96639,Ashley,Allen,customer96639@kag.com,55,Savings,Oklahoma City,9936.01,10223.22,26687.3,-16751.291,8641,Tier-1: Premium,Low Risk,Female
+52888,Charles,Robinson,customer52888@kag.com,41,Savings,Phoenix,9935.88,11661.3,25702.77,-15766.89,6687,Tier-1: Premium,Low Risk,Other
+41884,Nancy,Torres,customer41884@kag.com,20,Savings,Omaha,9935.82,13885.74,32188.76,-22252.94,9501,Tier-1: Premium,Neutral,Male
+79575,Mary,Taylor,customer79575@kag.com,65,Current,San Diego,9935.71,14810.3,49799.418,-39863.707,9971,Tier-1: Premium,Low Risk,Male
+27979,Mary,Rodriguez,customer27979@kag.com,41,Current,Washington,9935.65,12635.131,4744.69,5190.9604,9818,Tier-3: Standard,Low Risk,Other
+88703,Amanda,Johnson,customer88703@kag.com,44,Savings,Fort Worth,9935.49,11092.54,19112.83,-9177.34,3514,Tier-2: High Value,Low Risk,Other
+79358,Mark,Wilson,customer79358@kag.com,21,Current,Dallas,9935.15,10686.92,10384.711,-449.56055,5250,Tier-3: Standard,Low Risk,Other
+41797,Nancy,King,customer41797@kag.com,28,Savings,San Diego,9935.05,12591.859,5903.58,4031.4697,3071,Tier-3: Standard,Rejected Applicant,Female
+35930,Charles,King,customer35930@kag.com,61,Current,Oklahoma City,9934.88,11699.91,7026.5703,2908.3096,8014,Tier-3: Standard,Low Risk,Male
+57060,Daniel,Baker,customer57060@kag.com,31,Current,El Paso,9934.75,14812.88,25049.648,-15114.898,189,Tier-1: Premium,Low Risk,Other
+53060,Michael,Flores,customer53060@kag.com,66,Current,Fresno,9934.63,13279.24,24143.25,-14208.62,2368,Tier-1: Premium,Low Risk,Other
+79457,Michelle,Garcia,customer79457@kag.com,26,Current,Omaha,9934.61,11857.15,47681.95,-37747.34,5357,Tier-1: Premium,Rejected Applicant,Other
+12501,Ashley,Perez,customer12501@kag.com,53,Savings,Louisville,9934.51,10956.05,37844.81,-27910.299,8954,Tier-1: Premium,Neutral,Male
+16995,Nancy,Johnson,customer16995@kag.com,46,Current,Washington,9934.46,11070.43,44539.918,-34605.457,965,Tier-1: Premium,Neutral,Female
+82185,Daniel,Torres,customer82185@kag.com,38,Current,San Diego,9934.2,12042.03,21114.2,-11179.999,9594,Tier-2: High Value,Low Risk,Male
+73383,Ashley,Hall,customer73383@kag.com,70,Current,San Diego,9933.91,10017.54,37120.8,-27186.89,4621,Tier-1: Premium,Low Risk,Female
+31385,Christopher,Taylor,customer31385@kag.com,30,Current,Austin,9933.8,11108.52,23303.441,-13369.642,9847,Tier-1: Premium,Neutral,Other
+54964,Amanda,Rodriguez,customer54964@kag.com,44,Savings,Fresno,9933.74,14012.93,7558.62,2375.12,3405,Tier-2: High Value,Neutral,Male
+87692,Ashley,Lee,customer87692@kag.com,28,Savings,El Paso,9933.73,11782.23,41566.09,-31632.36,3980,Tier-1: Premium,Low Risk,Male
+18986,Mary,Hall,customer18986@kag.com,23,Savings,El Paso,9933.59,14469.439,41728.043,-31794.453,2922,Tier-1: Premium,Low Risk,Male
+19624,Mary,Baker,customer19624@kag.com,67,Current,San Diego,9933.21,10051.29,34556.918,-24623.707,6050,Tier-1: Premium,Neutral,Other
+25778,Kevin,Johnson,customer25778@kag.com,51,Savings,Indianapolis,9933.2,10499.48,32492.83,-22559.629,9804,Tier-1: Premium,Rejected Applicant,Male
+29057,Ashley,Johnson,customer29057@kag.com,56,Savings,Atlanta,9932.97,10736.55,8284.93,1648.04,1700,Tier-3: Standard,Low Risk,Female
+27797,Daniel,Torres,customer27797@kag.com,22,Savings,El Paso,9932.89,13441.01,49049.492,-39116.6,6119,Tier-1: Premium,Neutral,Other
+91089,Amanda,Adams,customer91089@kag.com,50,Current,Oklahoma City,9932.79,12874.391,42672.5,-32739.71,7657,Tier-1: Premium,Neutral,Male
+10508,Michelle,Martinez,customer10508@kag.com,61,Savings,Dallas,9932.74,11506.78,48976.39,-39043.65,3773,Tier-1: Premium,Neutral,Male
+89020,Christopher,Lee,customer89020@kag.com,66,Savings,Columbus,9932.59,10525.91,6443.98,3488.6099,3443,Tier-3: Standard,Neutral,Male
+9901,Amanda,Adams,customer9901@kag.com,52,Current,Phoenix,9932.52,14731.14,22546.04,-12613.52,9577,Tier-2: High Value,Low Risk,Other
+57657,Ashley,Flores,customer57657@kag.com,41,Savings,Austin,9932.43,13614.14,30815.988,-20883.559,2176,Tier-1: Premium,Neutral,Other
+9413,William,Johnson,customer9413@kag.com,67,Current,Dallas,9932.27,13546.22,19009.87,-9077.6,4323,Tier-2: High Value,Rejected Applicant,Male
+42946,Daniel,Allen,customer42946@kag.com,55,Savings,San Diego,9932.24,14346.86,7088.3203,2843.92,497,Tier-2: High Value,Rejected Applicant,Male
+71629,Michael,King,customer71629@kag.com,61,Savings,Phoenix,9932.23,11117.851,21549.549,-11617.318,7404,Tier-1: Premium,Rejected Applicant,Male
+69200,Nancy,Johnson,customer69200@kag.com,34,Savings,Dallas,9932.23,14878.33,46264.082,-36331.85,1969,Tier-1: Premium,Low Risk,Female
+35575,Nancy,Johnson,customer35575@kag.com,39,Savings,Phoenix,9932.07,11424.98,35554.98,-25622.91,2978,Tier-1: Premium,Low Risk,Male
+57193,Linda,Allen,customer57193@kag.com,30,Savings,Indianapolis,9932.05,12306.12,27919.91,-17987.86,3334,Tier-1: Premium,Rejected Applicant,Male
+63102,Ashley,Flores,customer63102@kag.com,45,Current,Dallas,9931.95,12690.43,24130.06,-14198.11,7396,Tier-1: Premium,Low Risk,Other
+83060,Lisa,Martinez,customer83060@kag.com,25,Current,Memphis,9931.92,12402.68,11459.5,-1527.5801,2503,Tier-3: Standard,Rejected Applicant,Other
+70777,Amanda,Johnson,customer70777@kag.com,37,Current,Philadelphia,9931.77,12674.64,21930.66,-11998.891,1724,Tier-2: High Value,Low Risk,Male
+89889,Mary,Wilson,customer89889@kag.com,63,Current,Atlanta,9931.77,11387.199,13582.3,-3650.5303,1254,Tier-2: High Value,Neutral,Male
+49997,Joseph,Adams,customer49997@kag.com,51,Savings,Phoenix,9931.64,10419.47,38084.137,-28152.496,7810,Tier-1: Premium,Low Risk,Female
+62583,Amanda,Garcia,customer62583@kag.com,44,Savings,Washington,9931.53,13300.51,12877.65,-2946.12,6823,Tier-2: High Value,Neutral,Other
+98949,Amanda,Martinez,customer98949@kag.com,53,Savings,Louisville,9931.47,13324.08,37547.23,-27615.762,6361,Tier-1: Premium,Rejected Applicant,Female
+49398,Mary,Johnson,customer49398@kag.com,32,Current,Dallas,9931.29,12341.37,21863.15,-11931.86,2044,Tier-2: High Value,Neutral,Other
+42176,Charles,Young,customer42176@kag.com,61,Current,Fort Worth,9931.24,14608.551,27815.25,-17884.01,4418,Tier-1: Premium,Rejected Applicant,Other
+61875,Daniel,Adams,customer61875@kag.com,66,Current,Atlanta,9931.19,14573.5,20617.18,-10685.989,4665,Tier-2: High Value,Rejected Applicant,Male
+15889,Michael,Garcia,customer15889@kag.com,47,Current,Oklahoma City,9931.11,11043.881,34041.57,-24110.46,9843,Tier-1: Premium,Rejected Applicant,Other
+46906,Mary,Baker,customer46906@kag.com,33,Current,Indianapolis,9931.1,12974.779,42111.32,-32180.22,4444,Tier-1: Premium,Neutral,Other
+4119,Susan,Roberts,susan.roberts@kag.com,35,Current,Mesa,9931.07,13540.051,43234.89,-33303.82,1700,Tier-1: Premium,Low Risk,Other
+31164,Kevin,Rodriguez,customer31164@kag.com,61,Current,Columbus,9931.05,14345.43,39883.27,-29952.219,2467,Tier-1: Premium,Rejected Applicant,Female
+86272,Ashley,Allen,customer86272@kag.com,54,Savings,Fort Worth,9930.95,11644.641,21303.209,-11372.259,8079,Tier-2: High Value,Rejected Applicant,Female
+17614,Mary,Robinson,customer17614@kag.com,36,Savings,Washington,9930.8,10154.5,35705.64,-25774.84,2820,Tier-1: Premium,Rejected Applicant,Female
+2852,Emily,Nguyen,emily.nguyen@kag.com,29,Savings,Tucson,9930.75,10391.84,30383.77,-20453.02,7762,Tier-1: Premium,Neutral,Male
+47599,Margaret,Baker,customer47599@kag.com,60,Savings,Louisville,9930.63,12198.02,16266.699,-6336.0693,8347,Tier-2: High Value,Low Risk,Other
+79791,Charles,Flores,customer79791@kag.com,32,Current,Fort Worth,9930.62,10038.42,17715.441,-7784.8213,7109,Tier-2: High Value,Low Risk,Male
+23510,Mark,Taylor,customer23510@kag.com,30,Current,El Paso,9930.55,13626.31,13892.819,-3962.2695,1165,Tier-2: High Value,Low Risk,Female
+37229,Mark,Perez,customer37229@kag.com,22,Savings,Memphis,9930.51,12714.21,23566.25,-13635.74,3371,Tier-1: Premium,Low Risk,Female
+36853,Nancy,Baker,customer36853@kag.com,41,Current,Columbus,9930.3,13788.04,37106.887,-27176.586,4912,Tier-1: Premium,Low Risk,Female
+15078,Joseph,Wilson,customer15078@kag.com,42,Current,Phoenix,9930.22,11304.779,48130.168,-38199.95,3175,Tier-1: Premium,Rejected Applicant,Other
+90264,Mark,Young,customer90264@kag.com,37,Savings,El Paso,9929.96,11603.86,39766.098,-29836.137,4816,Tier-1: Premium,Neutral,Female
+74610,Mark,King,customer74610@kag.com,67,Savings,Omaha,9929.95,11909.46,5145.9297,4784.0205,1829,Tier-3: Standard,Low Risk,Male
+20468,Michael,Hall,customer20468@kag.com,59,Savings,Austin,9929.93,11300.02,21310.32,-11380.391,2070,Tier-2: High Value,Rejected Applicant,Other
+70913,Christopher,Hall,customer70913@kag.com,40,Current,Omaha,9929.9,13400.061,16411.51,-6481.6094,4481,Tier-2: High Value,Low Risk,Male
+26794,William,Young,customer26794@kag.com,45,Savings,Columbus,9929.88,12664.01,16489.5,-6559.62,6254,Tier-2: High Value,Neutral,Other
+29827,Linda,Taylor,customer29827@kag.com,31,Savings,Phoenix,9929.87,14404.18,11343.551,-1413.6807,1557,Tier-2: High Value,Low Risk,Other
+68333,Michael,King,customer68333@kag.com,30,Savings,Atlanta,9929.85,11276.85,12506.9,-2577.0508,4362,Tier-2: High Value,Neutral,Other
+8626,Linda,Robinson,customer8626@kag.com,32,Current,Columbus,9929.75,10505.57,18178.75,-8249.0,6592,Tier-2: High Value,Low Risk,Male
+62804,Donna,Moore,customer62804@kag.com,22,Savings,Indianapolis,9929.56,13422.869,37172.777,-27243.219,413,Tier-1: Premium,Rejected Applicant,Female
+96299,Christopher,Allen,customer96299@kag.com,68,Current,Fort Worth,9929.33,12370.41,16704.531,-6775.201,6224,Tier-2: High Value,Low Risk,Female
+87793,Mark,Taylor,customer87793@kag.com,69,Savings,Dallas,9929.29,13014.76,39692.68,-29763.39,802,Tier-1: Premium,Rejected Applicant,Male
+85736,Michelle,Taylor,customer85736@kag.com,63,Savings,San Diego,9929.13,11620.439,15150.689,-5221.5596,5393,Tier-2: High Value,Low Risk,Female
+2827,Donald,Martin,donald.martin@kag.com,45,Savings,Washington,9929.1,11116.58,35468.89,-25539.791,4324,Tier-1: Premium,Low Risk,Male
+25639,Michael,Torres,customer25639@kag.com,58,Savings,Atlanta,9929.08,13634.891,19353.92,-9424.84,7495,Tier-2: High Value,Neutral,Female
+63596,Ashley,Martinez,customer63596@kag.com,58,Savings,Columbus,9928.84,12350.4795,30443.81,-20514.97,4698,Tier-1: Premium,Neutral,Other
+38254,William,Robinson,customer38254@kag.com,49,Current,Louisville,9928.71,10246.72,30564.58,-20635.871,641,Tier-1: Premium,Low Risk,Other
+60904,Linda,Torres,customer60904@kag.com,43,Current,Atlanta,9928.54,14498.99,13781.431,-3852.8906,8459,Tier-2: High Value,Low Risk,Other
+43497,Mary,Rodriguez,customer43497@kag.com,42,Savings,Oklahoma City,9928.45,11205.7705,31316.1,-21387.648,9353,Tier-1: Premium,Neutral,Other
+89393,Mary,Johnson,customer89393@kag.com,32,Current,Fort Worth,9928.41,11326.9,19906.871,-9978.461,4291,Tier-2: High Value,Rejected Applicant,Male
+85000,Daniel,Torres,customer85000@kag.com,59,Current,Louisville,9928.15,10141.58,5368.19,4559.9604,5141,Tier-3: Standard,Rejected Applicant,Other
+25886,Mark,Taylor,customer25886@kag.com,44,Current,Phoenix,9928.08,10745.4,19092.64,-9164.561,6843,Tier-2: High Value,Neutral,Other
+40134,Michelle,Robinson,customer40134@kag.com,69,Savings,Phoenix,9928.08,10368.38,26443.98,-16515.9,5009,Tier-1: Premium,Neutral,Other
+1010,Ashley,Hall,ashley.hall@kag.com,49,Savings,Portland,9927.97,14258.46,44118.203,-34190.234,7547,Tier-1: Premium,Rejected Applicant,Female
+83631,Joseph,Hall,customer83631@kag.com,63,Savings,Fresno,9927.94,14454.221,5558.88,4369.0605,9294,Tier-2: High Value,Low Risk,Other
+66577,William,Robinson,customer66577@kag.com,64,Current,Washington,9927.82,13270.851,33175.02,-23247.2,6032,Tier-1: Premium,Rejected Applicant,Male
+60621,Mark,Johnson,customer60621@kag.com,62,Savings,Dallas,9927.76,13012.439,25400.209,-15472.449,3030,Tier-1: Premium,Neutral,Female
+51871,Margaret,Torres,customer51871@kag.com,26,Current,Fresno,9927.24,10659.601,30730.74,-20803.5,2286,Tier-1: Premium,Neutral,Female
+66244,Amanda,Baker,customer66244@kag.com,49,Current,San Diego,9926.94,10717.91,12467.2295,-2540.289,179,Tier-2: High Value,Rejected Applicant,Female
+15226,Kevin,Taylor,customer15226@kag.com,46,Current,Atlanta,9926.68,14655.52,7836.79,2089.8896,5623,Tier-2: High Value,Neutral,Male
+38228,Michelle,Rodriguez,customer38228@kag.com,42,Savings,Atlanta,9926.49,10491.54,49411.16,-39484.67,3657,Tier-1: Premium,Rejected Applicant,Female
+55698,William,Martinez,customer55698@kag.com,29,Savings,Fort Worth,9926.48,12149.86,26223.148,-16296.668,7893,Tier-1: Premium,Low Risk,Other
+28073,Donna,Wilson,customer28073@kag.com,39,Current,San Diego,9926.44,11289.391,6069.87,3856.5703,587,Tier-3: Standard,Rejected Applicant,Male
+83461,William,King,customer83461@kag.com,60,Savings,Fort Worth,9926.44,14923.19,42723.9,-32797.457,7518,Tier-1: Premium,Rejected Applicant,Other
+25065,Amanda,Flores,customer25065@kag.com,39,Current,Memphis,9926.36,12281.03,6450.91,3475.4502,3162,Tier-3: Standard,Neutral,Female
+60071,Joshua,Adams,customer60071@kag.com,43,Savings,Atlanta,9926.35,10132.609,31743.19,-21816.84,7603,Tier-1: Premium,Neutral,Other
+19453,Linda,Flores,customer19453@kag.com,66,Current,Memphis,9926.32,14700.7,28872.07,-18945.75,5788,Tier-1: Premium,Neutral,Female
+50592,Michelle,King,customer50592@kag.com,48,Current,Fresno,9926.17,13017.5,25676.37,-15750.199,9404,Tier-1: Premium,Low Risk,Male
+41367,Ashley,Garcia,customer41367@kag.com,63,Current,Phoenix,9925.97,11042.439,15086.45,-5160.4805,2911,Tier-2: High Value,Rejected Applicant,Female
+51159,Joseph,Garcia,customer51159@kag.com,44,Current,Memphis,9925.97,10198.12,32043.621,-22117.652,7087,Tier-1: Premium,Low Risk,Other
+68377,Michael,Taylor,customer68377@kag.com,33,Savings,Fresno,9925.91,13777.65,38712.938,-28787.027,4517,Tier-1: Premium,Neutral,Female
+20661,Daniel,Robinson,customer20661@kag.com,60,Savings,Indianapolis,9925.87,11536.92,47607.1,-37681.23,7111,Tier-1: Premium,Low Risk,Female
+22845,Ashley,Rodriguez,customer22845@kag.com,57,Savings,Philadelphia,9925.76,11001.47,21011.02,-11085.26,3443,Tier-2: High Value,Rejected Applicant,Female
+63865,Charles,Lee,customer63865@kag.com,39,Current,Philadelphia,9925.69,11859.341,6911.7397,3013.9507,6668,Tier-3: Standard,Low Risk,Female
+96682,Michael,Rodriguez,customer96682@kag.com,22,Current,Louisville,9925.58,12182.52,42413.46,-32487.88,9104,Tier-1: Premium,Rejected Applicant,Male
+25879,Nancy,Martinez,customer25879@kag.com,60,Current,Phoenix,9925.54,14665.189,45701.41,-35775.87,9776,Tier-1: Premium,Rejected Applicant,Female
+58423,Kevin,Robinson,customer58423@kag.com,19,Savings,Austin,9925.33,10563.48,45795.188,-35869.86,8965,Tier-1: Premium,Low Risk,Male
+63153,Mark,Allen,customer63153@kag.com,60,Savings,Memphis,9925.33,11286.391,26925.46,-17000.13,6682,Tier-1: Premium,Neutral,Male
+31608,Mark,Torres,customer31608@kag.com,22,Savings,Austin,9925.2,13606.471,25025.16,-15099.96,3528,Tier-1: Premium,Low Risk,Other
+16616,Kevin,Moore,customer16616@kag.com,49,Savings,Atlanta,9925.14,14865.74,19182.14,-9257.001,2793,Tier-2: High Value,Rejected Applicant,Other
+67226,William,Garcia,customer67226@kag.com,46,Current,Louisville,9925.07,13172.471,26488.281,-16563.21,1996,Tier-1: Premium,Neutral,Female
+847,Kimberly,Lee,kimberly.lee@kag.com,28,Savings,Las Vegas,9924.99,10122.5205,26275.44,-16350.449,4235,Tier-1: Premium,Rejected Applicant,Male
+38006,Ashley,Perez,customer38006@kag.com,67,Current,Fresno,9924.83,14460.96,39751.918,-29827.088,3609,Tier-1: Premium,Low Risk,Female
+51968,Michael,Garcia,customer51968@kag.com,38,Current,Fresno,9924.8,11046.99,28855.879,-18931.078,8138,Tier-1: Premium,Neutral,Other
+80939,Nancy,Young,customer80939@kag.com,50,Current,Columbus,9924.67,13321.59,17723.281,-7798.6113,2266,Tier-2: High Value,Low Risk,Male
+50519,Donna,Rodriguez,customer50519@kag.com,44,Savings,El Paso,9924.63,10837.02,26210.18,-16285.55,4997,Tier-1: Premium,Low Risk,Other
+15897,Mary,Young,customer15897@kag.com,52,Current,Memphis,9924.62,12677.71,36703.01,-26778.39,9580,Tier-1: Premium,Neutral,Female
+644,David,Torres,david.torres@kag.com,59,Current,Houston,9924.57,12751.681,20753.62,-10829.049,4829,Tier-2: High Value,Rejected Applicant,Male
+55180,Ashley,Moore,customer55180@kag.com,64,Savings,Indianapolis,9924.39,11400.22,34725.617,-24801.227,2769,Tier-1: Premium,Low Risk,Other
+4783,Mark,Roberts,mark.roberts@kag.com,42,Current,Las Vegas,9924.34,11930.17,32505.02,-22580.68,9061,Tier-1: Premium,Neutral,Male
+36546,Ashley,King,customer36546@kag.com,69,Savings,Fresno,9924.33,13277.04,38586.37,-28662.041,787,Tier-1: Premium,Rejected Applicant,Other
+51119,Mary,Robinson,customer51119@kag.com,54,Savings,Dallas,9924.33,14426.301,25837.26,-15912.93,8712,Tier-1: Premium,Rejected Applicant,Female
+89151,Daniel,Lee,customer89151@kag.com,32,Savings,San Diego,9924.1,10200.0,24874.88,-14950.781,1374,Tier-1: Premium,Low Risk,Male
+70984,Michelle,Moore,customer70984@kag.com,66,Current,Atlanta,9924.06,12097.819,41560.293,-31636.234,5079,Tier-1: Premium,Low Risk,Other
+90742,Lisa,Baker,customer90742@kag.com,56,Current,Atlanta,9924.05,11050.55,19501.94,-9577.89,420,Tier-2: High Value,Low Risk,Other
+45951,Ashley,Hall,customer45951@kag.com,30,Savings,Memphis,9924.02,14237.74,21601.07,-11677.051,3513,Tier-2: High Value,Low Risk,Female
+8572,William,Torres,customer8572@kag.com,49,Savings,Omaha,9923.92,12379.32,43055.027,-33131.11,2355,Tier-1: Premium,Rejected Applicant,Male
+79768,Joshua,Taylor,customer79768@kag.com,62,Current,Austin,9923.89,12231.359,48983.88,-39059.99,6681,Tier-1: Premium,Rejected Applicant,Other
+1090,William,Jones,william.jones@kag.com,45,Savings,Tucson,9923.87,13870.43,45068.36,-35144.49,6213,Tier-1: Premium,Neutral,Female
+31916,Ashley,Moore,customer31916@kag.com,50,Savings,Phoenix,9923.86,14677.99,12671.43,-2747.5693,2440,Tier-2: High Value,Rejected Applicant,Other
+19985,Mark,Torres,customer19985@kag.com,37,Savings,Atlanta,9923.81,10164.0,49662.21,-39738.402,5405,Tier-1: Premium,Low Risk,Other
+7145,William,Lee,customer7145@kag.com,56,Current,Fresno,9923.81,13257.13,9799.63,124.17969,3897,Tier-2: High Value,Low Risk,Other
+46418,Christopher,Rodriguez,customer46418@kag.com,47,Savings,Philadelphia,9923.55,14052.869,47995.09,-38071.54,4921,Tier-1: Premium,Neutral,Other
+80246,Daniel,Lee,customer80246@kag.com,69,Current,San Diego,9923.52,11959.539,14373.631,-4450.1113,3504,Tier-2: High Value,Low Risk,Male
+61430,Donna,Wilson,customer61430@kag.com,37,Current,San Diego,9923.52,14212.89,5898.47,4025.0493,4145,Tier-2: High Value,Low Risk,Other
+43976,Daniel,Johnson,customer43976@kag.com,29,Savings,El Paso,9923.45,13377.58,45531.33,-35607.88,7105,Tier-1: Premium,Rejected Applicant,Male
+76017,Margaret,Perez,customer76017@kag.com,26,Current,Austin,9923.42,14132.109,12419.109,-2495.6895,8039,Tier-2: High Value,Neutral,Female
+7491,Joshua,Moore,customer7491@kag.com,33,Savings,Dallas,9923.41,10359.891,42875.84,-32952.43,9593,Tier-1: Premium,Rejected Applicant,Male
+41904,Ashley,Martinez,customer41904@kag.com,60,Savings,Omaha,9922.91,12437.84,26524.39,-16601.48,7249,Tier-1: Premium,Low Risk,Male
+79956,Joseph,Young,customer79956@kag.com,53,Current,Phoenix,9922.8,10945.859,40969.637,-31046.836,2621,Tier-1: Premium,Rejected Applicant,Female
+45349,Donna,Allen,customer45349@kag.com,41,Savings,Memphis,9922.65,12685.0,51335.46,-41412.812,4630,Tier-1: Premium,Low Risk,Other
+31032,Mary,Torres,customer31032@kag.com,54,Savings,Phoenix,9922.62,10609.45,38365.93,-28443.309,4884,Tier-1: Premium,Low Risk,Male
+36627,Linda,Perez,customer36627@kag.com,35,Current,Louisville,9922.44,11317.211,29835.24,-19912.8,4261,Tier-1: Premium,Rejected Applicant,Female
+36571,Kevin,Torres,customer36571@kag.com,34,Savings,Dallas,9922.22,14499.25,23603.16,-13680.94,2127,Tier-2: High Value,Rejected Applicant,Female
+37296,Joshua,King,customer37296@kag.com,22,Savings,Atlanta,9922.19,10326.551,3854.25,6067.9404,6355,Tier-3: Standard,Low Risk,Female
+62578,Michelle,Martinez,customer62578@kag.com,50,Current,Philadelphia,9922.17,11847.87,32587.95,-22665.78,6602,Tier-1: Premium,Low Risk,Male
+91983,Donna,Hall,customer91983@kag.com,50,Current,Washington,9922.16,13330.5205,51820.95,-41898.79,7039,Tier-1: Premium,Neutral,Male
+12529,Joshua,Young,customer12529@kag.com,54,Current,Phoenix,9922.02,11281.22,29412.959,-19490.94,4708,Tier-1: Premium,Neutral,Female
+30315,Donna,Moore,customer30315@kag.com,29,Current,Oklahoma City,9922.01,12286.35,14709.26,-4787.25,7352,Tier-2: High Value,Rejected Applicant,Male
+38405,William,Robinson,customer38405@kag.com,68,Savings,Indianapolis,9921.91,13730.0205,14933.051,-5011.1406,1648,Tier-2: High Value,Low Risk,Other
+5002,Mark,Martinez,customer5002@kag.com,39,Current,Oklahoma City,9921.82,14259.23,26195.57,-16273.75,6493,Tier-1: Premium,Neutral,Other
+2807,Melissa,Brown,melissa.brown@kag.com,28,Savings,Indianapolis,9921.62,11254.69,9391.21,530.41016,5562,Tier-3: Standard,Low Risk,Other
+92753,Margaret,Robinson,customer92753@kag.com,38,Savings,Phoenix,9921.57,10093.37,26792.15,-16870.58,2159,Tier-1: Premium,Neutral,Female
+43664,Daniel,King,customer43664@kag.com,43,Current,Memphis,9921.48,13615.28,5627.46,4294.0205,231,Tier-2: High Value,Low Risk,Female
+47309,William,Hall,customer47309@kag.com,20,Savings,Phoenix,9921.48,11740.181,9474.79,446.69043,2822,Tier-3: Standard,Low Risk,Female
+46655,Nancy,Perez,customer46655@kag.com,22,Current,Louisville,9921.42,11462.02,43271.723,-33350.305,1618,Tier-1: Premium,Neutral,Female
+47721,Kevin,Perez,customer47721@kag.com,25,Current,Austin,9921.24,14912.471,14202.859,-4281.619,395,Tier-2: High Value,Low Risk,Male
+22903,Kevin,Allen,customer22903@kag.com,20,Savings,Dallas,9921.04,11138.38,36858.4,-26937.36,9919,Tier-1: Premium,Rejected Applicant,Male
+11370,Daniel,Perez,customer11370@kag.com,66,Savings,Indianapolis,9921.04,10718.18,45975.01,-36053.973,5973,Tier-1: Premium,Rejected Applicant,Other
+53671,Daniel,Taylor,customer53671@kag.com,47,Current,Washington,9920.95,14854.78,39076.477,-29155.527,6017,Tier-1: Premium,Rejected Applicant,Other
+11819,Charles,Perez,customer11819@kag.com,52,Savings,Dallas,9920.81,11698.96,5452.65,4468.1597,6048,Tier-3: Standard,Rejected Applicant,Other
+2934,Paul,King,paul.king@kag.com,49,Current,San Jose,9920.78,14059.36,35910.07,-25989.29,2275,Tier-1: Premium,Neutral,Male
+84218,Nancy,Johnson,customer84218@kag.com,36,Current,Dallas,9920.65,14890.61,13399.69,-3479.04,3824,Tier-2: High Value,Low Risk,Female
+90165,Amanda,King,customer90165@kag.com,58,Savings,Austin,9920.6,13645.88,5648.66,4271.9395,5370,Tier-2: High Value,Low Risk,Female
+64448,Kevin,Young,customer64448@kag.com,40,Savings,Louisville,9920.47,11720.17,29983.59,-20063.121,6967,Tier-1: Premium,Low Risk,Other
+94726,William,Baker,customer94726@kag.com,40,Current,Austin,9920.44,13929.65,14947.37,-5026.9297,57,Tier-2: High Value,Neutral,Female
+98457,William,Martinez,customer98457@kag.com,57,Current,Dallas,9920.33,12416.641,9743.221,177.10938,8844,Tier-3: Standard,Rejected Applicant,Other
+77128,Amanda,King,customer77128@kag.com,33,Savings,Columbus,9920.29,12809.59,45443.723,-35523.434,2542,Tier-1: Premium,Neutral,Other
+47629,Michelle,Johnson,customer47629@kag.com,61,Savings,Atlanta,9919.84,14026.52,9611.7,308.13965,106,Tier-2: High Value,Low Risk,Female
+17244,Donna,Taylor,customer17244@kag.com,69,Current,Indianapolis,9919.81,14417.17,13742.811,-3823.001,5074,Tier-2: High Value,Rejected Applicant,Other
+61130,Linda,Hall,customer61130@kag.com,49,Current,Omaha,9919.73,11405.971,30880.78,-20961.049,2729,Tier-1: Premium,Neutral,Male
+46696,Michael,Lee,customer46696@kag.com,50,Current,Columbus,9919.48,11956.591,15619.49,-5700.01,7790,Tier-2: High Value,Rejected Applicant,Male
+47362,Mary,Rodriguez,customer47362@kag.com,53,Savings,Memphis,9919.27,11211.25,20593.14,-10673.871,6022,Tier-2: High Value,Rejected Applicant,Other
+69635,Michael,King,customer69635@kag.com,25,Savings,Memphis,9918.85,11448.88,40196.89,-30278.041,1378,Tier-1: Premium,Low Risk,Male
+86025,Margaret,Robinson,customer86025@kag.com,49,Savings,Atlanta,9918.69,10019.681,2119.9001,7798.79,4824,Tier-3: Standard,Low Risk,Other
+1913,Stephanie,Thomas,stephanie.thomas@kag.com,28,Savings,Indianapolis,9918.32,12484.48,9825.49,92.83008,8144,Tier-3: Standard,Rejected Applicant,Female
+95562,William,Adams,customer95562@kag.com,47,Current,Austin,9918.19,13343.811,41651.46,-31733.27,8564,Tier-1: Premium,Low Risk,Female
+22936,Charles,Hall,customer22936@kag.com,52,Savings,San Diego,9918.12,14911.25,38355.39,-28437.27,6081,Tier-1: Premium,Neutral,Female
+34113,Nancy,Wilson,customer34113@kag.com,37,Current,Memphis,9917.75,11638.35,17865.91,-7948.16,3833,Tier-2: High Value,Low Risk,Female
+66067,Charles,Adams,customer66067@kag.com,48,Current,Louisville,9917.7,14634.17,37574.24,-27656.54,7237,Tier-1: Premium,Low Risk,Other
+19437,Mary,Martinez,customer19437@kag.com,62,Current,Washington,9917.69,10799.801,48897.9,-38980.207,5369,Tier-1: Premium,Rejected Applicant,Male
+46948,Margaret,Taylor,customer46948@kag.com,52,Savings,Washington,9917.62,12628.8,38371.9,-28454.277,5025,Tier-1: Premium,Neutral,Male
+63421,Mary,Young,customer63421@kag.com,44,Current,Dallas,9917.26,11278.56,19851.05,-9933.791,9148,Tier-2: High Value,Neutral,Male
+75750,Mark,Young,customer75750@kag.com,28,Savings,Indianapolis,9917.23,10839.78,4132.29,5784.9404,8248,Tier-3: Standard,Low Risk,Male
+65543,Nancy,Lee,customer65543@kag.com,27,Savings,Louisville,9917.07,12786.28,14175.8,-4258.7295,9488,Tier-2: High Value,Rejected Applicant,Female
+72378,Daniel,Martinez,customer72378@kag.com,53,Current,Washington,9917.02,11319.26,40730.387,-30813.367,3820,Tier-1: Premium,Low Risk,Other
+8834,Michael,King,customer8834@kag.com,61,Current,Philadelphia,9917.0,10582.79,15249.84,-5332.84,2114,Tier-2: High Value,Neutral,Male
+63807,Lisa,Lee,customer63807@kag.com,68,Current,Dallas,9916.83,10790.35,35328.71,-25411.88,5004,Tier-1: Premium,Neutral,Other
+23211,Michelle,Martinez,customer23211@kag.com,28,Savings,Memphis,9916.8,13249.89,10920.92,-1004.1201,9890,Tier-2: High Value,Neutral,Other
+3431,Melissa,Roberts,melissa.roberts@kag.com,33,Savings,San Francisco,9916.75,12951.26,28494.43,-18577.68,3084,Tier-1: Premium,Rejected Applicant,Female
+58540,Donna,Johnson,customer58540@kag.com,20,Savings,San Diego,9916.69,11601.61,27530.05,-17613.36,9499,Tier-1: Premium,Low Risk,Other
+80377,Daniel,Perez,customer80377@kag.com,41,Savings,El Paso,9916.48,9935.391,24401.39,-14484.91,3742,Tier-1: Premium,Rejected Applicant,Other
+61819,Michael,Robinson,customer61819@kag.com,45,Savings,Fresno,9916.45,13515.641,49372.89,-39456.44,1606,Tier-1: Premium,Low Risk,Male
+5719,Joshua,Baker,customer5719@kag.com,31,Current,El Paso,9916.43,11431.84,24440.32,-14523.891,5654,Tier-1: Premium,Neutral,Male
+2201,Kevin,Davis,kevin.davis@kag.com,47,Savings,Nashville,9916.22,10817.109,34203.562,-24287.344,8843,Tier-1: Premium,Neutral,Other
+42211,William,Martinez,customer42211@kag.com,40,Current,Fresno,9916.21,12491.97,8730.68,1185.5303,5889,Tier-3: Standard,Neutral,Other
+43286,Mary,Torres,customer43286@kag.com,28,Savings,Columbus,9916.04,14775.46,47683.18,-37767.14,4424,Tier-1: Premium,Low Risk,Other
+9812,Margaret,King,customer9812@kag.com,65,Savings,San Diego,9915.89,13730.27,6988.03,2927.8599,8264,Tier-2: High Value,Rejected Applicant,Female
+87536,Michelle,Rodriguez,customer87536@kag.com,33,Savings,Philadelphia,9915.73,13272.7705,48222.79,-38307.06,82,Tier-1: Premium,Low Risk,Male
+5989,Margaret,Martinez,customer5989@kag.com,49,Savings,Memphis,9915.72,13249.14,17537.73,-7622.0107,7816,Tier-2: High Value,Rejected Applicant,Other
+35263,Michael,Baker,customer35263@kag.com,53,Current,Austin,9915.72,10945.79,12473.11,-2557.3906,4060,Tier-2: High Value,Neutral,Female
+35691,Lisa,Perez,customer35691@kag.com,43,Savings,Columbus,9915.67,14385.199,47076.53,-37160.86,6532,Tier-1: Premium,Low Risk,Female
+9055,Mary,Flores,customer9055@kag.com,31,Current,Atlanta,9915.54,10895.19,38955.2,-29039.66,7258,Tier-1: Premium,Low Risk,Female
+25304,Mark,Hall,customer25304@kag.com,61,Current,Indianapolis,9915.38,14718.4,21292.23,-11376.851,5677,Tier-2: High Value,Rejected Applicant,Female
+58034,Daniel,Garcia,customer58034@kag.com,40,Savings,Louisville,9915.23,13586.791,26935.58,-17020.35,8447,Tier-1: Premium,Low Risk,Male
+54743,Christopher,Flores,customer54743@kag.com,35,Current,El Paso,9915.07,11144.03,47651.54,-37736.47,4783,Tier-1: Premium,Rejected Applicant,Male
+39926,Margaret,Wilson,customer39926@kag.com,60,Current,Memphis,9915.0,11044.38,39921.758,-30006.758,5951,Tier-1: Premium,Rejected Applicant,Male
+61214,Christopher,Perez,customer61214@kag.com,57,Current,Omaha,9914.9,13914.08,45789.78,-35874.883,4053,Tier-1: Premium,Neutral,Other
+88112,Donna,Allen,customer88112@kag.com,34,Current,Dallas,9914.56,10350.64,24709.28,-14794.72,9406,Tier-1: Premium,Rejected Applicant,Other
+89587,Donna,Adams,customer89587@kag.com,30,Savings,Philadelphia,9914.53,13256.5205,15483.45,-5568.92,7720,Tier-2: High Value,Rejected Applicant,Male
+8842,Michael,Rodriguez,customer8842@kag.com,56,Savings,Philadelphia,9914.5,12197.689,14169.689,-4255.1895,1510,Tier-2: High Value,Low Risk,Male
+21678,Joshua,Robinson,customer21678@kag.com,19,Current,Louisville,9914.49,13873.08,38685.24,-28770.748,6979,Tier-1: Premium,Rejected Applicant,Other
+176,Betty,Thomas,betty.thomas@kag.com,46,Current,Philadelphia,9914.2,14729.471,10382.5,-468.2998,5527,Tier-2: High Value,Low Risk,Other
+44583,Donna,Flores,customer44583@kag.com,57,Current,Oklahoma City,9914.2,11165.26,36339.84,-26425.64,8119,Tier-1: Premium,Rejected Applicant,Male
+60344,Charles,Adams,customer60344@kag.com,27,Savings,Phoenix,9913.98,12582.03,18970.41,-9056.43,9844,Tier-2: High Value,Neutral,Female
+74156,Mark,Rodriguez,customer74156@kag.com,57,Current,Phoenix,9913.34,10624.859,21346.57,-11433.23,6570,Tier-1: Premium,Neutral,Other
+23839,Charles,Rodriguez,customer23839@kag.com,66,Savings,Austin,9913.22,11564.01,34122.53,-24209.312,2398,Tier-1: Premium,Neutral,Female
+61917,Donna,Baker,customer61917@kag.com,34,Current,San Diego,9913.1,10755.09,48220.31,-38307.21,896,Tier-1: Premium,Rejected Applicant,Male
+42939,Joshua,Hall,customer42939@kag.com,53,Savings,Atlanta,9912.86,14189.12,34764.297,-24851.438,8211,Tier-1: Premium,Neutral,Female
+93676,Daniel,Johnson,customer93676@kag.com,34,Current,Fresno,9912.84,10110.0,36366.19,-26453.352,5543,Tier-1: Premium,Low Risk,Male
+96473,Joseph,Taylor,customer96473@kag.com,18,Savings,Fresno,9912.68,14037.369,34113.64,-24200.96,8551,Tier-1: Premium,Rejected Applicant,Other
+28159,Nancy,Torres,customer28159@kag.com,68,Current,El Paso,9912.64,13240.21,35477.73,-25565.09,1451,Tier-1: Premium,Neutral,Other
+41418,Margaret,King,customer41418@kag.com,41,Current,Columbus,9912.61,14307.291,32645.43,-22732.82,2637,Tier-1: Premium,Neutral,Female
+99806,Joseph,Garcia,customer99806@kag.com,49,Savings,Memphis,9912.56,13592.91,45973.09,-36060.53,9710,Tier-1: Premium,Low Risk,Female
+63541,Donna,Hall,customer63541@kag.com,31,Current,Fort Worth,9912.46,11087.41,29954.94,-20042.48,1836,Tier-1: Premium,Rejected Applicant,Female
+71440,Charles,Johnson,customer71440@kag.com,46,Savings,Memphis,9912.43,11269.67,41967.918,-32055.488,2544,Tier-1: Premium,Neutral,Male
+16948,Charles,Lee,customer16948@kag.com,61,Current,Austin,9912.32,12861.96,46642.25,-36729.93,5567,Tier-1: Premium,Low Risk,Female
+41916,Amanda,Rodriguez,customer41916@kag.com,23,Savings,San Diego,9912.31,11175.08,40444.68,-30532.371,3879,Tier-1: Premium,Low Risk,Male
+86651,Mark,King,customer86651@kag.com,69,Savings,Fresno,9912.25,12531.14,23548.521,-13636.271,5496,Tier-1: Premium,Low Risk,Other
+53760,Christopher,Torres,customer53760@kag.com,64,Current,Louisville,9912.2,14752.91,30580.86,-20668.66,844,Tier-1: Premium,Neutral,Male
+80833,Mark,Robinson,customer80833@kag.com,34,Savings,Phoenix,9912.19,10438.011,49636.332,-39724.14,5458,Tier-1: Premium,Rejected Applicant,Other
+18356,Nancy,Garcia,customer18356@kag.com,30,Savings,El Paso,9912.18,12773.26,41938.08,-32025.898,4844,Tier-1: Premium,Low Risk,Male
+56399,Nancy,Baker,customer56399@kag.com,50,Savings,Memphis,9912.15,10741.98,39051.566,-29139.416,5007,Tier-1: Premium,Neutral,Male
+74603,Donna,King,customer74603@kag.com,37,Current,Memphis,9911.97,10274.35,33727.16,-23815.191,1699,Tier-1: Premium,Rejected Applicant,Female
+51927,Ashley,Robinson,customer51927@kag.com,67,Savings,Atlanta,9911.97,10513.47,40769.62,-30857.652,3035,Tier-1: Premium,Low Risk,Female
+67912,Linda,Garcia,customer67912@kag.com,52,Savings,Dallas,9911.93,11110.699,41142.84,-31230.91,8169,Tier-1: Premium,Rejected Applicant,Female
+52063,Joshua,Moore,customer52063@kag.com,33,Current,Omaha,9911.57,14306.74,50098.594,-40187.023,7680,Tier-1: Premium,Low Risk,Male
+44807,Christopher,Garcia,customer44807@kag.com,64,Savings,Phoenix,9911.56,10443.14,38327.36,-28415.8,8686,Tier-1: Premium,Low Risk,Other
+85762,Charles,Allen,customer85762@kag.com,50,Current,El Paso,9911.46,11906.7,35438.11,-25526.648,3926,Tier-1: Premium,Rejected Applicant,Male
+27365,Ashley,Garcia,customer27365@kag.com,24,Current,Philadelphia,9911.42,12759.4,31882.611,-21971.191,1619,Tier-1: Premium,Rejected Applicant,Male
+48945,Ashley,King,customer48945@kag.com,47,Savings,Omaha,9911.17,10115.14,18438.951,-8527.781,5183,Tier-2: High Value,Rejected Applicant,Male
+31131,Lisa,Young,customer31131@kag.com,41,Savings,Omaha,9911.1,13744.22,40276.59,-30365.49,4402,Tier-1: Premium,Rejected Applicant,Male
+58482,Nancy,Torres,customer58482@kag.com,61,Savings,Indianapolis,9911.04,14240.41,11356.061,-1445.0205,5113,Tier-2: High Value,Neutral,Female
+62206,Charles,Lee,customer62206@kag.com,42,Current,Omaha,9910.63,11669.689,46483.57,-36572.94,2030,Tier-1: Premium,Rejected Applicant,Male
+30528,Donna,Rodriguez,customer30528@kag.com,55,Savings,Fort Worth,9910.61,14445.65,10877.641,-967.0303,3185,Tier-2: High Value,Rejected Applicant,Other
+76813,Kevin,Young,customer76813@kag.com,43,Savings,Austin,9910.57,14656.83,39464.836,-29554.266,755,Tier-1: Premium,Neutral,Other
+25898,Amanda,Hall,customer25898@kag.com,44,Current,El Paso,9910.21,10704.54,15345.43,-5435.2197,1269,Tier-2: High Value,Neutral,Male
+8601,Kevin,Hall,customer8601@kag.com,51,Current,San Diego,9910.0,11339.58,4164.17,5745.83,5500,Tier-3: Standard,Rejected Applicant,Male
+76826,Christopher,Garcia,customer76826@kag.com,35,Current,El Paso,9909.73,13886.931,21496.979,-11587.248,8946,Tier-2: High Value,Low Risk,Female
+10076,Ashley,Garcia,customer10076@kag.com,66,Current,Philadelphia,9909.48,11271.961,31406.871,-21497.39,5824,Tier-1: Premium,Rejected Applicant,Male
+74114,Kevin,Garcia,customer74114@kag.com,61,Current,San Diego,9909.44,13076.511,5855.02,4054.4204,8462,Tier-2: High Value,Neutral,Male
+24527,Nancy,Baker,customer24527@kag.com,36,Current,Indianapolis,9909.3,14435.109,54494.49,-44585.188,3639,Tier-1: Premium,Neutral,Other
+63489,William,Taylor,customer63489@kag.com,41,Savings,Austin,9909.2,13005.811,25747.78,-15838.579,5882,Tier-1: Premium,Rejected Applicant,Male
+8079,Michael,Martinez,customer8079@kag.com,28,Current,Washington,9909.11,14370.601,31296.44,-21387.328,8291,Tier-1: Premium,Rejected Applicant,Female
+37010,Kevin,Robinson,customer37010@kag.com,59,Savings,El Paso,9909.08,11972.4,7008.6904,2900.3896,5917,Tier-3: Standard,Low Risk,Male
+16669,Mark,King,customer16669@kag.com,36,Savings,Phoenix,9908.85,11721.069,11479.54,-1570.6904,7543,Tier-3: Standard,Neutral,Male
+54245,Nancy,Moore,customer54245@kag.com,41,Savings,Phoenix,9908.81,11728.25,50816.67,-40907.863,7543,Tier-1: Premium,Neutral,Other
+94155,Michelle,Baker,customer94155@kag.com,33,Savings,Atlanta,9908.7,12491.391,4770.13,5138.5703,906,Tier-3: Standard,Rejected Applicant,Female
+37586,Mary,Hall,customer37586@kag.com,39,Savings,Memphis,9908.7,10804.38,28243.7,-18335.0,7562,Tier-1: Premium,Low Risk,Male
+91289,Kevin,Lee,customer91289@kag.com,34,Current,Atlanta,9908.65,14148.211,36647.258,-26738.607,4521,Tier-1: Premium,Low Risk,Female
+1119,Michelle,Hall,michelle.hall@kag.com,30,Savings,Oklahoma City,9908.47,13368.01,38677.277,-28768.809,490,Tier-1: Premium,Neutral,Male
+83411,Nancy,Young,customer83411@kag.com,21,Savings,Philadelphia,9908.38,12423.27,11371.609,-1463.2295,3610,Tier-3: Standard,Low Risk,Female
+85079,Joseph,Garcia,customer85079@kag.com,62,Savings,Dallas,9908.25,10324.62,37258.89,-27350.64,9535,Tier-1: Premium,Neutral,Male
+24753,Christopher,King,customer24753@kag.com,62,Savings,San Diego,9908.2,10591.0,39861.812,-29953.613,8208,Tier-1: Premium,Neutral,Male
+9915,Joseph,Taylor,customer9915@kag.com,48,Savings,Austin,9908.15,12215.12,4373.19,5534.9604,7328,Tier-3: Standard,Low Risk,Other
+99906,Christopher,Garcia,customer99906@kag.com,55,Current,Atlanta,9908.0,11434.76,19734.39,-9826.391,5391,Tier-2: High Value,Rejected Applicant,Male
+40556,Michelle,Taylor,customer40556@kag.com,70,Current,Oklahoma City,9907.73,10469.7,50031.93,-40124.2,4938,Tier-1: Premium,Low Risk,Male
+50612,Donna,Hall,customer50612@kag.com,24,Savings,Omaha,9907.66,11126.76,22770.27,-12862.609,2282,Tier-1: Premium,Low Risk,Other
+54424,Joseph,Garcia,customer54424@kag.com,25,Savings,Washington,9907.63,12094.96,24128.43,-14220.8,9351,Tier-1: Premium,Low Risk,Other
+32040,Donna,Hall,customer32040@kag.com,39,Savings,Austin,9907.35,10091.689,19670.75,-9763.4,1532,Tier-2: High Value,Rejected Applicant,Other
+17779,Lisa,Johnson,customer17779@kag.com,21,Current,Memphis,9907.29,10048.72,45332.418,-35425.13,8880,Tier-1: Premium,Neutral,Female
+26191,Joseph,Allen,customer26191@kag.com,19,Savings,Memphis,9907.23,13606.92,36259.53,-26352.3,8690,Tier-1: Premium,Neutral,Female
+62946,Linda,Johnson,customer62946@kag.com,59,Savings,Austin,9907.19,10940.091,41168.61,-31261.418,8138,Tier-1: Premium,Low Risk,Female
+18304,Michael,Martinez,customer18304@kag.com,48,Current,Austin,9907.1,13813.13,26850.95,-16943.85,2101,Tier-1: Premium,Low Risk,Other
+58546,Christopher,Lee,customer58546@kag.com,40,Savings,Fort Worth,9907.0,10641.09,29182.709,-19275.709,4130,Tier-1: Premium,Rejected Applicant,Female
+49039,Christopher,Young,customer49039@kag.com,45,Savings,Atlanta,9906.87,11934.08,14181.78,-4274.91,2179,Tier-2: High Value,Neutral,Female
+71288,Mary,Lee,customer71288@kag.com,60,Savings,Louisville,9906.86,13579.58,30890.281,-20983.422,2223,Tier-1: Premium,Rejected Applicant,Male
+32889,William,Garcia,customer32889@kag.com,44,Current,Atlanta,9906.74,10172.7,29961.66,-20054.92,1628,Tier-1: Premium,Low Risk,Male
+91443,Daniel,Torres,customer91443@kag.com,18,Savings,Oklahoma City,9906.69,13056.5205,7705.8203,2200.87,1452,Tier-2: High Value,Neutral,Other
+33900,William,Young,customer33900@kag.com,48,Savings,Washington,9906.68,14788.01,27531.97,-17625.291,8559,Tier-1: Premium,Rejected Applicant,Female
+90882,Michael,Flores,customer90882@kag.com,58,Current,Washington,9906.63,11778.25,24582.42,-14675.79,2166,Tier-1: Premium,Low Risk,Female
+83412,Joshua,Perez,customer83412@kag.com,59,Current,Omaha,9906.56,14744.18,25331.59,-15425.03,1662,Tier-1: Premium,Neutral,Female
+3527,Amanda,Davis,amanda.davis@kag.com,28,Current,Omaha,9906.56,12107.0,40753.742,-30847.184,7099,Tier-1: Premium,Low Risk,Male
+25374,Amanda,Torres,customer25374@kag.com,51,Savings,Oklahoma City,9906.53,11182.19,14796.71,-4890.1797,8672,Tier-2: High Value,Rejected Applicant,Other
+60948,Michael,Hall,customer60948@kag.com,50,Savings,Memphis,9906.5,13743.061,26401.22,-16494.72,3831,Tier-1: Premium,Rejected Applicant,Female
+12864,Mark,Flores,customer12864@kag.com,37,Current,Austin,9906.44,11412.5205,3163.0898,6743.3506,6045,Tier-3: Standard,Rejected Applicant,Female
+73273,Margaret,Flores,customer73273@kag.com,55,Savings,Fort Worth,9906.36,13641.08,15419.79,-5513.4297,5215,Tier-2: High Value,Rejected Applicant,Male
+65642,Michael,Martinez,customer65642@kag.com,55,Savings,Oklahoma City,9906.33,13091.71,4491.75,5414.58,1992,Tier-2: High Value,Rejected Applicant,Male
+38970,Amanda,Garcia,customer38970@kag.com,57,Current,Indianapolis,9905.74,11899.221,12997.279,-3091.539,6956,Tier-2: High Value,Low Risk,Female
+25380,Ashley,Perez,customer25380@kag.com,54,Savings,Fort Worth,9905.57,14256.311,42695.227,-32789.656,5578,Tier-1: Premium,Low Risk,Female
+21459,Mark,Robinson,customer21459@kag.com,64,Savings,Fresno,9905.57,14219.24,41274.21,-31368.64,3486,Tier-1: Premium,Neutral,Other
+87776,Mark,Baker,customer87776@kag.com,66,Current,Indianapolis,9905.57,14032.0205,48288.55,-38382.98,6897,Tier-1: Premium,Neutral,Other
+86462,Michael,Moore,customer86462@kag.com,44,Savings,Memphis,9905.5,10681.29,28392.04,-18486.54,4730,Tier-1: Premium,Low Risk,Other
+75334,Joshua,Johnson,customer75334@kag.com,28,Savings,Austin,9905.43,12966.42,31289.83,-21384.4,1612,Tier-1: Premium,Rejected Applicant,Male
+84241,Michelle,Flores,customer84241@kag.com,65,Current,Fresno,9905.33,11302.061,20016.32,-10110.99,1698,Tier-2: High Value,Neutral,Other
+15874,Amanda,Rodriguez,customer15874@kag.com,27,Savings,Philadelphia,9905.19,12164.541,38547.0,-28641.809,4785,Tier-1: Premium,Neutral,Male
+63904,Kevin,Johnson,customer63904@kag.com,59,Savings,San Diego,9905.01,10512.41,34488.0,-24582.99,9932,Tier-1: Premium,Neutral,Male
+82377,Lisa,Allen,customer82377@kag.com,47,Savings,Atlanta,9904.7,12830.811,47275.23,-37370.53,9487,Tier-1: Premium,Low Risk,Female
+87166,Margaret,Garcia,customer87166@kag.com,52,Current,Phoenix,9904.64,12203.529,28826.111,-18921.473,2886,Tier-1: Premium,Neutral,Male
+94105,William,Flores,customer94105@kag.com,61,Current,San Diego,9904.28,11277.4,46794.62,-36890.34,1433,Tier-1: Premium,Neutral,Female
+53609,Amanda,Flores,customer53609@kag.com,49,Savings,El Paso,9904.19,10056.261,33473.62,-23569.43,2362,Tier-1: Premium,Neutral,Male
+52548,Christopher,Allen,customer52548@kag.com,68,Current,Omaha,9904.19,13350.42,28474.17,-18569.98,2085,Tier-1: Premium,Rejected Applicant,Male
+23896,Amanda,Perez,customer23896@kag.com,39,Current,Philadelphia,9904.12,11476.08,41381.02,-31476.898,1614,Tier-1: Premium,Low Risk,Other
+73769,Ashley,Lee,customer73769@kag.com,30,Savings,Atlanta,9903.96,11554.56,3628.48,6275.48,7010,Tier-3: Standard,Rejected Applicant,Male
+63917,Mark,Lee,customer63917@kag.com,37,Savings,Austin,9903.89,11237.88,40866.258,-30962.367,568,Tier-1: Premium,Rejected Applicant,Male
+2905,Betty,Rivera,betty.rivera@kag.com,68,Current,Fort Worth,9903.74,11338.16,3156.44,6747.3003,1667,Tier-3: Standard,Rejected Applicant,Male
+49565,Mary,Taylor,customer49565@kag.com,19,Current,Fresno,9903.65,12423.74,14677.27,-4773.619,4994,Tier-2: High Value,Low Risk,Other
+96916,Amanda,Taylor,customer96916@kag.com,62,Savings,Indianapolis,9903.52,11208.58,17378.76,-7475.24,178,Tier-2: High Value,Low Risk,Other
+29577,Amanda,Flores,customer29577@kag.com,18,Current,Austin,9903.41,13670.11,52686.79,-42783.38,4118,Tier-1: Premium,Neutral,Male
+21028,Donna,Perez,customer21028@kag.com,27,Current,Atlanta,9903.36,10641.69,48661.008,-38757.65,3580,Tier-1: Premium,Rejected Applicant,Female
+17956,Charles,Garcia,customer17956@kag.com,34,Savings,San Diego,9903.14,13819.22,13859.9,-3956.7607,7880,Tier-2: High Value,Low Risk,Female
+65052,Linda,Adams,customer65052@kag.com,60,Savings,Louisville,9903.13,12804.98,8846.01,1057.1201,3852,Tier-3: Standard,Neutral,Female
+56033,Ashley,Robinson,customer56033@kag.com,41,Current,Memphis,9903.1,10115.38,9644.15,258.94922,4801,Tier-3: Standard,Neutral,Female
+61415,Amanda,Flores,customer61415@kag.com,20,Savings,Columbus,9903.05,12285.4795,37691.78,-27788.73,2248,Tier-1: Premium,Rejected Applicant,Male
+51726,Michelle,Taylor,customer51726@kag.com,27,Savings,Indianapolis,9902.9,13545.67,41825.098,-31922.197,9276,Tier-1: Premium,Rejected Applicant,Male
+47286,Margaret,Robinson,customer47286@kag.com,24,Current,San Diego,9902.86,13229.4,27224.16,-17321.3,6012,Tier-1: Premium,Rejected Applicant,Male
+49681,Linda,Martinez,customer49681@kag.com,20,Current,Atlanta,9902.76,10349.59,49050.27,-39147.508,8904,Tier-1: Premium,Low Risk,Female
+21288,Amanda,Torres,customer21288@kag.com,34,Savings,Dallas,9902.59,10265.21,41546.46,-31643.871,336,Tier-1: Premium,Neutral,Other
+38659,Mary,King,customer38659@kag.com,48,Current,Indianapolis,9902.54,10822.86,25508.46,-15605.921,1061,Tier-1: Premium,Low Risk,Male
+19266,Lisa,Perez,customer19266@kag.com,61,Savings,Phoenix,9902.52,14057.83,16453.28,-6550.76,6723,Tier-2: High Value,Low Risk,Other
+79727,Charles,King,customer79727@kag.com,32,Current,Oklahoma City,9902.29,13616.18,25343.18,-15440.89,5937,Tier-1: Premium,Rejected Applicant,Other
+67224,Charles,Lee,customer67224@kag.com,38,Current,Louisville,9902.26,13726.92,5400.77,4501.4897,2675,Tier-2: High Value,Neutral,Male
+37056,Michael,Baker,customer37056@kag.com,35,Current,Phoenix,9902.04,14034.99,40771.848,-30869.809,2584,Tier-1: Premium,Rejected Applicant,Female
+81658,Joseph,Perez,customer81658@kag.com,60,Current,El Paso,9902.02,12289.319,47126.14,-37224.12,5468,Tier-1: Premium,Low Risk,Female
+94475,William,Lee,customer94475@kag.com,57,Current,Columbus,9901.97,12706.5,46359.51,-36457.543,5669,Tier-1: Premium,Rejected Applicant,Male
+56907,Michael,Baker,customer56907@kag.com,32,Savings,Philadelphia,9901.9,12140.83,32341.94,-22440.04,5976,Tier-1: Premium,Rejected Applicant,Female
+42580,Nancy,Hall,customer42580@kag.com,40,Savings,Philadelphia,9901.88,13841.59,7114.2803,2787.5996,1478,Tier-2: High Value,Rejected Applicant,Other
+97220,Ashley,Perez,customer97220@kag.com,60,Savings,El Paso,9901.77,12139.539,7368.89,2532.8794,3107,Tier-3: Standard,Low Risk,Other
+57301,Nancy,Johnson,customer57301@kag.com,43,Current,Philadelphia,9901.7,12322.7705,30289.71,-20388.012,4317,Tier-1: Premium,Neutral,Female
+62238,Joshua,Johnson,customer62238@kag.com,67,Current,El Paso,9901.63,11037.8,20461.24,-10559.61,4541,Tier-2: High Value,Rejected Applicant,Male
+32905,Nancy,Rodriguez,customer32905@kag.com,27,Savings,San Diego,9901.54,11216.33,6770.73,3130.81,908,Tier-3: Standard,Low Risk,Male
+71132,Michelle,Robinson,customer71132@kag.com,30,Savings,Oklahoma City,9901.5,13100.68,21071.18,-11169.68,4004,Tier-2: High Value,Low Risk,Male
+29138,Donna,Lee,customer29138@kag.com,40,Current,Phoenix,9901.43,13238.779,25440.07,-15538.641,3381,Tier-1: Premium,Rejected Applicant,Female
+55512,Margaret,King,customer55512@kag.com,70,Savings,Louisville,9901.38,10586.7295,21246.12,-11344.739,8865,Tier-1: Premium,Neutral,Other
+81882,Michelle,Flores,customer81882@kag.com,48,Current,Louisville,9901.36,14176.84,14020.15,-4118.79,153,Tier-2: High Value,Neutral,Other
