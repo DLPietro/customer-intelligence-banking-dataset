@@ -48,13 +48,13 @@ customer-intelligence-analytics-banking/
 │   ├── 01_customer_segmentation.sql                        # Query 1: Who are the customers?
 │   ├── 02_loan_analysis.sql                                # Query 2: What loans are we stuck with?
 │   ├── 03_credit_card.sql                                  # Query 3: Who's maxing out their cards?
-│   ├── 04_customer_demographics.sql                                 # Query 4: Where are they? How old? 
+│   ├── 04_customer_demographics.sql                        # Query 4: Where are they? How old? 
 │   ├── 05_risk_analysis.sql                                # Query 5: Who's about to default? 
-│   └── 06_customer_value.sql                              # Query 6: Who's worth keeping?
+│   └── 06_customer_value.sql                               # Query 6: Who's worth keeping?
 │
 ├── bi/                                                
 │   ├── customer_intelligence_dashboard.twbw                # Tableau Dashboard
-│   └── customer_intelligence_dashboard.png                              # Screenshot of the action
+│   └── customer_intelligence_dashboard.png                 # Screenshot of the action
 │
 ├── results/                                                
 │   ├── 01_customer_segmentation.csv                        # Output 1: customers segmentation
@@ -77,7 +77,7 @@ Find the queries results here from the dataset to the Dashboard here:
 
 🔗 **[View the Live Dashboard →](https://public.tableau.com/views/CUstomerIntelligenceDashboard/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Tableau Preview](https://github.com/DLPietro/customer-intelligence-analytics-banking/blob/main/bi/customer_dashboard_screenshot.png)  
+![Tableau Preview](https://github.com/DLPietro/customer-intelligence-analytics-banking/blob/main/bi/customer_intelligence_screenshot.png)  
 
 **Tab 1: KPI Summary**
 - 100,000 customers analyzed
