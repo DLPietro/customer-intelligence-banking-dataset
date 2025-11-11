@@ -28,11 +28,11 @@ This project does exactly that: no fluff, no tutorial copy-paste, but a **real a
 
 # 📊 Dataset Source
 
-> _This project uses publicly available data from [Ahsan Habib - Banking-Dataset](https://github.com/ahsan084/Banking-Dataset); All database transformations, SQL schema, and queries are original work based on this database._
+> _This project uses publicly available data from [Ahsan Habib - Banking-Dataset](https://github.com/ahsan084/Banking-Dataset), dataset sample from US market; All database transformations, SQL schema, and queries are original work based on this source._
 
 ---
 
-## 🏡 Project Structure (👷 WORK IN PROGRESS 👷)
+## 🏡 Project Structure
 
 ```text
 customer-intelligence-analytics-banking/
@@ -44,7 +44,7 @@ customer-intelligence-analytics-banking/
 ├── schema/
 │   └── customer_tables.sql                                 # Schema for One table, 40 variables per client. Done.
 │
-├── queries/                                                👷 WORK IN PROGRESS 👷
+├── queries/                                                
 │   ├── 01_customer_segmentation.sql                        # Query 1: Who are the customers?
 │   ├── 02_loan_analysis.sql                                # Query 2: What loans are we stuck with?
 │   ├── 03_credit_card.sql                                  # Query 3: Who's maxing out their cards?
@@ -52,11 +52,11 @@ customer-intelligence-analytics-banking/
 │   ├── 05_risk_analysis.sql                                # Query 5: Who's about to default? 
 │   └── 06_customer_value.sql                              # Query 6: Who's worth keeping?
 │
-├── bi/                                                👷 WORK IN PROGRESS 👷
-│   ├── customer_intelligence_dashboard.pbix                # Power BI Dashboard
-│   └── dashboard_screenshots/                              # Screenshots of the action
+├── bi/                                                
+│   ├── customer_intelligence_dashboard.twbw                # Tableau Dashboard
+│   └── customer_intelligence_dashboard.png                              # Screenshot of the action
 │
-├── results/                                                👷 WORK IN PROGRESS 👷
+├── results/                                                
 │   ├── 01_customer_segmentation.csv                        # Output 1: customers segmentation
 │   ├── 02_loan_analysis.csv                                # Output 2: loans
 │   ├── 03_credit_card.csv                                  # Output 3: credit cards
@@ -71,28 +71,42 @@ customer-intelligence-analytics-banking/
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Tableau Dashboard with Interactive Tabs
 
-4 tabs. All the information a manager needs:
+Find the queries results here from the dataset to the Dashboard here: 
 
-**Tab 1 (Overview):**
-- Total customers, total balance, loan portfolio size
-- Key ratios: approval rate, utilization rate, at-risk %
+🔗 **[View the Live Dashboard →](https://public.tableau.com/views/CUstomerIntelligenceDashboard/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**Tab 2 (Segmentation):**
-- Customer distribution (Savings vs Current)
-- Regional heatmap
-- Age/demographics breakdown
+![Tableau Preview](https://github.com/DLPietro/customer-intelligence-analytics-banking/blob/main/bi/customer_dashboard_screenshot.png)  
 
-**Tab 3 (Loan Portfolio):**
-- Pie chart: Approved / Rejected / Closed
-- Bar chart: Mortgage vs Auto vs Personal
-- Interest rate ranges
+**Tab 1: KPI Summary**
+- 100,000 customers analyzed
+- $2.5B loan portfolio
+- 74% approval rate
+- 8,200 customers flagged high-risk
 
-**Tab 4 (Risk & Value):**
-- Customers by tier (VIP / High Value / Standard / At Risk)
-- High-utilization credit cards
-- Negative balance flagging
+**Tab 2: Customer Overview**
+- 50/50 split: Current vs Savings accounts
+- Savings customers have 62% higher average balance
+- Clear upsell targets
+
+**Tab 3: Loan Portfolio**
+- Bar chart: Mortgages vs Auto vs Personal
+- Stacked by approval status (Approved/Closed/Rejected)
+- Personal loans show highest rejection → investigate
+
+**Tab 4: Credit Card Health**
+- American Express cardholders most at-risk
+- MasterCard & Visa: balanced portfolio
+- 8,200 customers above 80% utilization
+
+**Tab 5: Customer Value by Tier**
+- **Tier-1 Premium (Blue):** High structured debt, loyalty priority
+- **Tier-2 High Value (Orange):** Stable, cross-sell targets
+- **Tier-3 Standard (Red):** Lower engagement
+- **Tier-4 At-Risk:** Intervention needed
+
+All tabs are **interactive**: click, filter, drill-down without leaving dashboard.
 
 ---
 
@@ -104,7 +118,7 @@ customer-intelligence-analytics-banking/
 
 > II **The questions are real**, not simple toy datasets, but actual banking concerns: risk, customer value, portfolio health.
 
-> III **It scales.** For 100K records or a million, it Still takes seconds.
+> III **It scales.** For 100K records or a million, it still takes seconds.
 
 > IV **It tells a story.** You can present this to a manager and they _get it_ immediately, not a mess—actual insights presented by a nerd.
 
